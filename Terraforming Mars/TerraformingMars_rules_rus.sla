@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.2">
+    <DOCUMENT ANZPAGES="16" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Times New Roman Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="113.388661417323" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="d" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.055" dispY="0.055" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.5" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="Blue" RGB="#0000ff"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000"/>
+        <COLOR NAME="Green" RGB="#00ff00"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000"/>
+        <COLOR NAME="Red" RGB="#ff0000"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="14.17322835" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Times New Roman Regular" FONTSIZE="14"/>
+        <STYLE NAME="Заголовок" ALIGN="1" LINESPMode="1" FIRST="0" FONT="Times New Roman Bold" FONTSIZE="19" LANGUAGE="uk"/>
+        <STYLE NAME="Пример" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="14.17322835" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Times New Roman Italic" FONTSIZE="10"/>
+        <STYLE NAME="Врезка" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="14.17322835" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Times New Roman Italic" FONTSIZE="8"/>
+        <STYLE NAME="Врезка заголовок" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="14.17322835" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Times New Roman Bold Italic" FONTSIZE="9"/>
+        <STYLE NAME="Действие" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="14.17322835" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Times New Roman Regular" FONTSIZE="16"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="uk"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Фон" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="-631122096" PDLanguage="-631122096" markLength="0" markOffset="4.66178137141678e-310" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="1" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Arial Bold"/>
+            <Fonts Name="Arial Regular"/>
+            <Fonts Name="Times New Roman Bold"/>
+            <Fonts Name="Times New Roman Bold Italic"/>
+            <Fonts Name="Times New Roman Italic"/>
+            <Fonts Name="Times New Roman Regular"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="15" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="576" PAGEHEIGHT="756" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Govt. Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="873.232440944882" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1726.46362204724" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2579.69480314961" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3432.92598425197" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="4286.15716535433" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5139.38834645669" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5992.61952755905" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="6845.85070866141" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7699.08188976378" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8552.31307086614" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="9405.5442519685" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="11" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="10258.7754330709" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="12" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="11112.0066141732" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="13" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="11965.2377952756" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="14" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="12818.4689763779" PAGEWIDTH="595.275590551181" PAGEHEIGHT="739.842519685039" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="15" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="20.0012598425197" OwnPage="0" ItemID="834272724" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-000.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="873.232440944874" OwnPage="1" ItemID="729397044" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-001.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="1726.46362204725" OwnPage="2" ItemID="834871204" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-002.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="2579.6948031496" OwnPage="3" ItemID="835005652" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-005.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="3432.92598425197" OwnPage="4" ItemID="794301108" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-006.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="4286.15716535433" OwnPage="5" ItemID="830334916" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-009.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="5139.38834645669" OwnPage="6" ItemID="800655108" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-010.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="5992.61952755905" OwnPage="7" ItemID="832362820" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-013.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="6845.85070866141" OwnPage="8" ItemID="835395956" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-014.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="7699.08188976373" OwnPage="9" ItemID="729336068" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-017.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="8552.31307086604" OwnPage="10" ItemID="730666276" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-018.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="9405.54425196848" OwnPage="11" ItemID="794881300" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-021.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="10258.7754330708" OwnPage="12" ItemID="834387204" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-022.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="11112.0066141731" OwnPage="13" ItemID="720749716" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-025.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="11965.2377952756" OwnPage="14" ItemID="834549716" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-026.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="12818.4689763778" OwnPage="15" ItemID="781614436" PTYPE="2" WIDTH="595.275590551181" HEIGHT="739.842519685039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.76710771978245" LOCALSCY="0.76710771978245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img-rules/img-029.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" copath="M0 0 L595.276 0 L595.276 739.843 L0 739.843 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="200" YPOS="1025.98039370078" OwnPage="1" ItemID="735405860" PTYPE="4" WIDTH="395.714285714286" HEIGHT="266.162463442073" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L395.714 0 L395.714 266.162 L0 266.162 L0 0 Z" copath="M0 0 L395.714 0 L395.714 266.162 L0 266.162 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="12"/>
+                <ITEXT CH="Анонс терраформирования:"/>
+                <para PARENT="Действие" ALIGN="1" FIRST="0"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="Times New Roman Italic" FONTSIZE="12" CH="&quot;С момента своего создания в 2174 году, Мировое Правительство постоянно борется за единство и мир. Наша миссия – быть для человечества инструментом создания лучшего будущего."/>
+                <para ALIGN="1" LINESPMode="1"/>
+                <ITEXT FONT="Times New Roman Italic" FONTSIZE="12" CH="Земля перенаселена, и ресурсы истощаются. Теперь перед нами стоит выбор: сократить население, или выйти в космос и найти новые миры для человечества. Для этого мы должны превратить Марс в обитаемую планету."/>
+                <para ALIGN="1" LINESPMode="1"/>
+                <ITEXT FONT="Times New Roman Italic" FONTSIZE="12" CH="Освоение Марса – вызов настолько грандиозный, что нам потребуется объединить усилия всего человечества. Для этого Мировое Правительство создаёт Комитет Терраформирования и вводит общий налог. Каждая корпорация и предприятие, которые внесут вклад в терраформирование, будут щедро вознаграждены Комитетом. Мы верим, что результатом этих мер в итоге станет обитаемая планета для наших потомков. Спасибо за внимание!&quot;"/>
+                <para ALIGN="1" LINESPMode="1"/>
+                <para ALIGN="1" LINESPMode="1"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Леви Укен, пресс-служба Мирового Правительства, 16 января 2315 года."/>
+                <trail ALIGN="1" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.5" YPOS="1309.4174015748" OwnPage="1" ItemID="725999364" PTYPE="4" WIDTH="232.285714285715" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L232.286 0 L232.286 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L232.286 0 L232.286 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="ВВЕДЕНИЕ"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.693543307086" YPOS="1339.3442519685" OwnPage="1" ItemID="829897268" PTYPE="4" WIDTH="231.556456692914" HEIGHT="242.549606299212" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L231.556 0 L231.556 242.55 L0 242.55 L0 0 Z" copath="M0 0 L231.556 0 L231.556 242.55 L0 242.55 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Человечество начало осваивать Солнечную систему. На Марсе построены несколько небольших колоний. Они обеспечивают защиту от неблагоприятной для человека среды – очень холодной, сухой, практически без атмосферы."/>
+                <para PARENT="Default Paragraph Style" ALIGN="3" INDENT="0" FIRST="14.1732283464567"/>
+                <ITEXT FONTSIZE="10" CH="Чтобы увеличить количество переселенцев, Марс должен быть терраформирован путем изменения природных условий, пока люди не смогут там жить без дорогостоящих защитных костюмов, и пока небольшие происшествия не перестанут нести смертельную опасность. Поэтому Мировое Правительство приняло решение содействовать каждой организации, которая вносит вклад в это грандиозное предприятие."/>
+                <para PARENT="Default Paragraph Style" ALIGN="3" INDENT="0" FIRST="14.1732283464567"/>
+                <ITEXT FONTSIZE="10" CH="Щедрое финансирование привлекает мегакорпорации, которые конкурируют за расширение своего бизнеса и сфер влияния под предлогом терраформирования. Сегодня приручение Красной Планеты открывает прекрасные возможности."/>
+                <trail PARENT="Default Paragraph Style" ALIGN="3" INDENT="0" FIRST="14.1732283464567"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="180" YPOS="1774.8637007874" OwnPage="2" ItemID="731616356" PTYPE="4" WIDTH="435.906141732283" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L435.906 0 L435.906 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L435.906 0 L435.906 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="ОБЗОР ИГРЫ"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141.964285714286" YPOS="1805.42669291339" OwnPage="2" ItemID="780184180" PTYPE="4" WIDTH="512.678571428572" HEIGHT="262.430449943757" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L512.679 0 L512.679 262.43 L0 262.43 L0 0 Z" copath="M0 0 L512.679 0 L512.679 262.43 L0 262.43 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="В &quot;Терраформировании Марса&quot; вы управляете корпорацией. В процессе игры вы будете покупать и разыгрывать карты, описывающие различные проекты. Часто проекты прямо или косвенно вносят вклад в процесс терраформирования, но также могут являть собой различного рода предприятия. Чтобы выиграть, у вас должен быть высокий рейтинг на "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="шкале терраформирования (ТР)"/>
+                <ITEXT FONTSIZE="10" CH=" и много "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="победных очков (ПО)"/>
+                <ITEXT FONTSIZE="10" CH=". Ваш ТР растёт каждый раз, когда вы повышаете глобальный параметр ("/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="температуру, кислород "/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="или"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH=" количество океанов"/>
+                <ITEXT FONTSIZE="10" CH="). ТР определяет ваш основной доход, а также приносит ПО в конце партии. Чем дальше игроки продвинулись в терраформировании, тем больше доступных проектов. Дополнительные ПО начисляются за всё, что улучшает контроль человечества над Солнечной системой, от возведения городов до создания инфраструктуры и защиты среды обитания."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Время измеряется в поколениях. Каждое поколение начинается с фазы порядка хода, затем идет фаза исследований, в которой игроки приобретают новые карты. В фазе действий игроки выполняют 1 или 2 действия в ход по кругу, пока все не спасуют. Затем в фазе производства все игроки получают ресурсы в соответствии с производственными мощностями на своих планшетах, а также доход согласно ТР."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="На игровом поле расположены шкалы температуры, кислорода, ТР и поколений. В процессе игры на карте поверхности планеты игроки размещают тайлы океанов, озеленения и городов по мере продвижения игры. Также имеется список стандартных проектов, доступных всем игрокам, и достижения и награды, за которые могут соревноваться игроки."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Игра заканчивается, когда на планете достаточно кислорода для дыхания (14%), океанов достаточно для формирования погодных условий, подобных земным (9), и температура выше точки замерзания (+8°C). В этих условиях жизнь на поверхности Марса становится возможной и даже комфортной!"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Победителем объявляется игрок с наибольшим количеством ПО в конце игры. Победные очки начисляются за ТР, тайлы на игровом поле, достижения, награды и ПО на сыгранных картах."/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="180" YPOS="2075.30661417323" OwnPage="2" ItemID="803474020" PTYPE="4" WIDTH="435.535714285715" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L435.536 0 L435.536 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L435.536 0 L435.536 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="ГЛОБАЛЬНЫЕ ПАРАМЕТРЫ"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.189606299213" YPOS="2118.68850393701" OwnPage="2" ItemID="805253892" PTYPE="4" WIDTH="252.614173228346" HEIGHT="149.525781777277" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252.614 0 L252.614 149.526 L0 149.526 L0 0 Z" copath="M0 0 L252.614 0 L252.614 149.526 L0 149.526 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Температура, кислород и океан называются глобальными параметрами. Когда вы повышаете один из них, ваш ТР тоже растет, принося больший доход и победные очки."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Когда глобальный параметр достигает целевого значения, он не может больше повышаться и повышать ваш ТР. Вы всё ещё можете играть карты, которые повышают параметр – просто игнорируйте этот эффект."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Когда все три глобальных параметра достигают целевых значений, игра заканчивается после этого поколения (после фазы производства)."/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="418.5" YPOS="2132.0462992126" OwnPage="2" ItemID="812371284" PTYPE="4" WIDTH="232.928571428572" HEIGHT="286.85977502812" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L232.929 0 L232.929 286.86 L0 286.86 L0 0 Z" copath="M0 0 L232.929 0 L232.929 286.86 L0 286.86 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10.5"/>
+                <ITEXT CH="Терраформированный Марс"/>
+                <para PARENT="Врезка заголовок"/>
+                <ITEXT CH="Каждая клетка на игровом поле символизирует 1% марсианской поверхности. Таким образом, 9 тайлов океана представляют собой девятипроцентное покрытие планеты океанами, которого достаточно для поддержания стабильных гидрологических циклов, влажности воздуха и смены погоды. Кроме того, вода смягчает перепады температуры. При очень низких температурах океаны большую часть года представляют собой ледники."/>
+                <para PARENT="Врезка"/>
+                <ITEXT CH="Хотя температура на Марсе уже сейчас может достигать 20°C в &quot;жаркие&quot; солнечные дни, этого недостаточно. Чтобы океаны находились в жидком состоянии, средняя температура должна быть выше 0, по крайней мере у экватора."/>
+                <para PARENT="Врезка"/>
+                <ITEXT CH="Самый важный параметр для терраформирования – уровень кислорода. Без атмосферы, в которой можно дышать, Марс не пригоден для жизни – не терраформирован. Содержание кислорода в атмосфере Земли – 21%. C повышением высоты содержание кислорода понижается, т.к. атмосфера становится разреженной. На высоте 3000 м уровень кислорода – 14%. На этой высоте есть несколько крупных городов, в основном в Андах и Китае, например, в Боливии – города Эль Альто (4150 м) и Ла-Пас (3640 м), около миллиона жителей каждый."/>
+                <para PARENT="Врезка"/>
+                <ITEXT CH="Основной компонент атмосферы Земли – азот (78%), который в значительной степени обеспечивает атмосферное давление. Давление воздуха также важно, хотя и не так, как содержание кислорода. Еще один аспект терраформирования Марса – его очень слабое магнитное поле. Эти показатели не представлены глобальным параметром, но обычно увеличивают ТР игрока, как указано на соответствующих картах."/>
+                <trail PARENT="Врезка"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="179.571428571429" YPOS="2623.16858267716" OwnPage="3" ItemID="775735156" PTYPE="4" WIDTH="435.964285714286" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L435.964 0 L435.964 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L435.964 0 L435.964 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="ИГРОВОЕ ПОЛЕ"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="549.140748272452" YPOS="2690.92239199364" OwnPage="3" ItemID="835099444" PTYPE="4" WIDTH="102.249245050351" HEIGHT="33.0907490264617" FRTYPE="0" CLIPEDIT="0" ROT="-10.2379669963588" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L102.249 0 L102.249 33.0907 L0 33.0907 L0 0 Z" copath="M0 0 L102.249 0 L102.249 33.0907 L0 33.0907 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок" FONT="Times New Roman Regular" FONTSIZE="9"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="9" CH="Помните: увеличение глобального параметра также увеличивает ТР!"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="138.678571428571" YPOS="2981.3988976378" OwnPage="3" ItemID="835694836" PTYPE="4" WIDTH="518.107142857143" HEIGHT="175.882598425196" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L517.576 0 L518.107 175.883 L0.531319 175.883 L0 0 Z" copath="M8.50111 -4.37054e-13 L511.2 -4.37054e-13 L511.2 187.21 L8.50111 187.21 L8.50111 -4.37054e-13 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="1."/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Шкала терраформирования (ТР):"/>
+                <ITEXT FONTSIZE="10" CH=" все игроки начинают с 20. Это базовый доход (см. стр. 6 и 8) и ПО. Увеличивается каждый раз при терраформировании."/>
+                <para ALIGN="0">
+                    <Tabs Type="0" Pos="28.571428571429" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="2."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Маркер поколения:"/>
+                <ITEXT FONTSIZE="10" CH=" отмечает прошедшее время (в поколениях), начинается с 1."/>
+                <para ALIGN="0">
+                    <Tabs Type="0" Pos="28.57142857" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="3."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Соло игра"/>
+                <ITEXT FONTSIZE="10" CH=" начинается с 14 ТР и заканчивается после 14 поколения."/>
+                <para ALIGN="0">
+                    <Tabs Type="0" Pos="28.571428571429" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="4."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Кислород: глобальный параметр"/>
+                <ITEXT FONTSIZE="10" CH=", начинается с 0%."/>
+                <para ALIGN="0">
+                    <Tabs Type="0" Pos="28.571428571429" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="5."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Тайлы океана: глобальный параметр"/>
+                <ITEXT FONTSIZE="10" CH=", 9 тайлов океана помещаются сюда для использования в игре."/>
+                <para ALIGN="0">
+                    <Tabs Type="0" Pos="28.571428571429" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="6."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Температура: глобальный параметр"/>
+                <ITEXT FONTSIZE="10" CH=" (температура на экваторе), начинается с -30°C."/>
+                <para ALIGN="0">
+                    <Tabs Type="0" Pos="28.571428571429" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="7."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Бонусы:"/>
+                <ITEXT FONTSIZE="10" CH=" если вы повысили параметр до данного значения – получаете указанный бонус."/>
+                <para ALIGN="0">
+                    <Tabs Type="0" Pos="28.571428571429" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="8."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Стандартные проекты:"/>
+                <ITEXT FONTSIZE="10" CH=" могут использоваться любым игроком независимо от карт в руке. См. стр. 10."/>
+                <para ALIGN="0">
+                    <Tabs Type="0" Pos="28.57142857" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="9."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Достижения и награды:"/>
+                <ITEXT FONTSIZE="10" CH=" хороший источник ПО. См. стр. 10 и 11."/>
+                <para ALIGN="0">
+                    <Tabs Type="0" Pos="28.571428571429" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="10."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Бонус за размещение:"/>
+                <ITEXT FONTSIZE="10" CH=" при размещении тайла на данной клетке игрок получает указанные ресурсы или карты. См. стр. 5."/>
+                <para ALIGN="0">
+                    <Tabs Type="0" Pos="28.571428571429" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="11."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Место для океана:"/>
+                <ITEXT FONTSIZE="10" CH=" голубые клетки предназначены для тайлов океана; тайлы океана можно положить только сюда, другие тайлы положить сюда нельзя."/>
+                <para ALIGN="0">
+                    <Tabs Type="0" Pos="28.571428571429" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="12."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Особые клетки:"/>
+                <ITEXT FONTSIZE="10" CH=" 3 клетки предназначены для определённых городов. Положить другой тайл на них нельзя."/>
+                <trail ALIGN="0">
+                    <Tabs Type="0" Pos="28.571428571429" Fill=""/>
+                </trail>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="157.25" YPOS="3190.95204724409" OwnPage="3" ItemID="797560452" PTYPE="4" WIDTH="223.380551181103" HEIGHT="83.2309448818905" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L223.381 0 L223.381 83.2309 L0 83.2309 L0 0 Z" copath="M0 0 L223.381 0 L223.381 83.2309 L0 83.2309 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10.5"/>
+                <ITEXT CH="Бонусы"/>
+                <para PARENT="Врезка заголовок"/>
+                <ITEXT CH="По мере того как атмосфера становится плотнее, парниковый эффект повышает температуру, как указано в бонусе напротив уровня кислорода 8%."/>
+                <para PARENT="Врезка"/>
+                <ITEXT CH="Когда растёт температура, двуокись углерода переходит в газообразное состояние, вызывая разогревающий парниковый эффект, как указано в бонусах температуры. Затем при 0°C лёд в почве начинает таять, и на поверхности планеты появляется вода."/>
+                <para PARENT="Врезка"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="414.5" YPOS="3153.87590551181" OwnPage="3" ItemID="833344148" PTYPE="4" WIDTH="227.285714285715" HEIGHT="116.659808773902" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L227.286 0 L227.286 116.66 L0 116.66 L0 0 Z" copath="M0 0 L227.286 0 L227.286 116.66 L0 116.66 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONT="Times New Roman Italic" FONTSIZE="10.5"/>
+                <ITEXT CH="Карта"/>
+                <para PARENT="Врезка заголовок"/>
+                <ITEXT CH="Игровое поле изображает точную карту провинции Фарсида на Марсе, включая долины Маринер и 3 из 4 крупнейших вулканов. Отсутствует лишь область вокруг горы Олимп. Клетки для тайлов океана находятся в низинах, так что вода естественным образом будет стекать туда. Бонусы у экватора символизируют, что повышенная средняя температура там благоприятствует развитию растений. В горных массивах расположены бонусы стали и титана; в других достопримечательных районах могут быть бонусы добора карты, как, например, место посадки спускаемого аппарата &quot;Викинг&quot;."/>
+                <trail PARENT="Врезка"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="180" YPOS="3476.33173228346" OwnPage="4" ItemID="740217348" PTYPE="4" WIDTH="435.535714285715" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L435.536 0 L435.536 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L435.536 0 L435.536 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="ТАЙЛЫ"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141.428571428571" YPOS="3506.25" OwnPage="4" ItemID="740174196" PTYPE="4" WIDTH="511.607142857143" HEIGHT="325.714285714286" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L511.607 0 L511.607 325.714 L0 325.714 L0 0 Z" copath="M0 0 L511.607 0 L511.607 325.714 L0 325.714 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Игровое поле представляет собой карту, на которой можно размещать тайлы. При размещении необходимо учитывать ограничения – некоторые клетки зарезервированы для океанов или определенных городов."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Также каждый тайл может иметь ограничения, напечатанные на соответствующей карте или в описании ниже. Когда вы кладете тайл, вы получаете бонус за размещение, напечатанный в этой клетке (если он есть). Также вы получаете бонус за тайлы, выложенные рядом с океаном (см. ниже)."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Океан: тайлы океана могут быть расположены только в обозначенных местах (см. карту)."/>
+                <ITEXT FONTSIZE="10" CH=" Каждый уложенный тайл повышает ТР на 1. Тайлы океана не имеют владельца. Каждый тайл океана дает 2 M$ бонус за размещение для каждого тайла, размещённого рядом. Пример: город рядом с двумя тайлами океана даст 4 M$ бонус за размещение."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Озеленение: тайлы озеленения необходимо выкладывать рядом с другими вашими тайлами, если это возможно."/>
+                <ITEXT FONTSIZE="10" CH=" Если у вас нет тайлов или свободного места рядом с ними, можете выложить тайл озеленения на любую свободную клетку."/>
+                <para ALIGN="3"/>
+                <breakcol/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Положите маркер игрока на тайл, чтобы показать, что вы владеете этим тайлом. Тайл озеленения повышает уровень кислорода (если возможно) и ваш ТР. Если уровень кислорода не повышается – вы не повышаете ТР. В конце игры тайлы озеленения приносят 1 ПО каждый. Также тайлы озеленения дают 1 ПО соседнему городу."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Город: не может быть расположен рядом с другим городом"/>
+                <ITEXT FONTSIZE="10" CH=" (исключение: "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Noctis city"/>
+                <ITEXT FONTSIZE="10" CH=" всегда располагается на своей клетке). Обозначьте владельца маркером игрока. Каждый город приносит 1 ПО за каждый соседний тайл озеленения (замечание: карта &quot;Столица&quot; позволяет положить особый город, который дополнительно дает ПО за соседние тайлы океана)"/>
+                <ITEXT CH="."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Особые тайлы:"/>
+                <ITEXT FONTSIZE="10" CH=" некоторые карты позволяют выложить особые тайлы. Условия выкладывания и эффекты таких тайлов указаны на карте. При выкладывании положите на них маркер игрока."/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="153.285714285714" YPOS="3853.02047244095" OwnPage="4" ItemID="834275492" PTYPE="4" WIDTH="224.464285714286" HEIGHT="39.1951181102349" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L224.464 0 L224.464 39.1951 L0 39.1951 L0 0 Z" copath="M0 0 L224.464 0 L224.464 39.1951 L0 39.1951 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Times New Roman Italic" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Italic" FONTSIZE="10" CH="Один маленький шаг для человека,"/>
+                <breakline/>
+                <ITEXT FONT="Times New Roman Italic" FONTSIZE="10" CH="но смотри под ноги!"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="406.685669291339" YPOS="3816.29236220472" OwnPage="4" ItemID="835367476" PTYPE="4" WIDTH="246.070866141732" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L246.071 0 L246.071 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L246.071 0 L246.071 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="МАРКЕРЫ"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="406.607142857143" YPOS="3846.37700787402" OwnPage="4" ItemID="835363524" PTYPE="4" WIDTH="246.428571428571" HEIGHT="285.051563554555" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L246.18 0 L246.429 285.052 L0 285.052 L0 0 Z" copath="M0 0 L246.18 0 L246.18 285.052 L0 285.052 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Ресурсы:"/>
+                <ITEXT FONTSIZE="10" CH=" ресурсы размещают на планшете игрока или на некоторых картах. В игре присутствуют различные ресурсы (см. стр. 14), все они обозначаются кубиками:"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="БРОНЗОВЫЙ = 1"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="СЕРЕБРЯНЫЙ = 5"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="ЗОЛОТОЙ = 10"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Маркеры игрока:"/>
+                <ITEXT FONTSIZE="10" CH=" каждый игрок использует кубики своего цвета, чтобы отмечать ТР, владение тайлами, производство (см. стр 6) и использованные действия синих карт (см. стр. 11)."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Маркеры температуры, кислорода и поколения:"/>
+                <ITEXT FONTSIZE="10" CH=" устанавливаются на соответствующих шкалах (см. стр. 4)."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Маркер первого игрока:"/>
+                <ITEXT FONTSIZE="10" CH=" передается по часовой стрелке каждый ход."/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="179.370708661417" YPOS="4329.16787401575" OwnPage="5" ItemID="776740004" PTYPE="4" WIDTH="436.165005624297" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L436.165 0 L436.165 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L436.165 0 L436.165 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="ПЛАНШЕТ ИГРОКА"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.685669291339" YPOS="4361.78571428571" OwnPage="5" ItemID="834657780" PTYPE="4" WIDTH="514.957" HEIGHT="288.989" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L263.44 0 L263.44 163.313 L514.957 163.586 L514.957 288.294 L326.254 288.989 L326.106 265.714 L220.735 265.475 L200.531 288.524 L0 288.672 L0 0 Z" copath="M0 0 L263.44 0 L263.44 288.672 L0 288.672 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Планшет игрока отражает текущее состояние ваших ресурсов и производства. Кубики ресурсов помещаются на соответствующие секции, производство отмечается маркерами игрока. В игре значки ресурсов обозначают кубики ресурсов, "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="значки в коричневой рамке – производство этого ресурса"/>
+                <ITEXT FONTSIZE="10" CH=" (см. карту проекта ниже)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.564330708661" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="1."/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Шкала производства:"/>
+                <ITEXT FONTSIZE="10" CH=" отмечайте уровень производства маркером игрока. Уровень производства не ограничен. Например, производство 22 обозначается двумя маркерами на &quot;10&quot; и одним на &quot;2&quot;."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.564330708661" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="В фазу производства вы получаете ресурсы в количестве, равном уровню производства этого ресурса."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.564330708661" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="2."/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Кредиты (M$):"/>
+                <ITEXT FONTSIZE="10" CH=" используются для оплаты карт и других вещей. "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Общий доход равен сумме дохода и уровня ТР."/>
+                <ITEXT FONTSIZE="10" CH=" Доход и только доход может быть отрицательным."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.564330708661" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Уровень дохода не может опуститься ниже -5."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.564330708661" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="3."/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Сталь:"/>
+                <ITEXT FONTSIZE="10" CH=" используется для оплаты карт с символом строительства. 1 кубик стали = 2 M$. Можно платить сталью и кредитами одновременно, но переплата не компенсируется."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.564330708661" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="4."/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Титан:"/>
+                <ITEXT FONTSIZE="10" CH=" используется для оплаты карт с символом космоса. 1 кубик титана = 3 M$, переплата не компенсируется (см. сталь)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.564330708661" Fill=""/>
+                </para>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.564330708661" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="5."/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Растения:"/>
+                <ITEXT FONTSIZE="10" CH=" преобразуются в тайлы озеленения в фазе действий (см. стр. 11)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.564330708661" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="6."/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Энергия:"/>
+                <ITEXT FONTSIZE="10" CH=" используется многими картами. "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Неиспользованная энергия преобразуется в тепло в начале фазы производства."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.564330708661" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="7."/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Тепло:"/>
+                <ITEXT FONTSIZE="10" CH=" используется для повышения температуры в фазе действий (см. стр. 11)."/>
+                <trail ALIGN="3">
+                    <Tabs Type="0" Pos="27.564330708661" Fill=""/>
+                </trail>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="179.370708661417" YPOS="4630.98700787402" OwnPage="5" ItemID="795019716" PTYPE="4" WIDTH="437.236434195726" HEIGHT="25.511811023622" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L437.236 0 L437.236 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L437.236 0 L437.236 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="КАРТЫ"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="313.75" YPOS="4666.05590551181" OwnPage="5" ItemID="833999716" PTYPE="4" WIDTH="339.285714285715" HEIGHT="318.385883014622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.286 0 L339.286 318.386 L0 318.386 L0 0 Z" copath="M0 0 L339.286 0 L339.286 318.386 L0 318.386 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Каждый игрок начинает игру с картой корпорации. В процессе игры игроки покупают и используют различные карты проектов, каждая со своим эффектом. Карты делятся на активные (синяя рамка, см. слева), автоматические (зелёная рамка) и события (красная рамка). Использование карт описано на стр. 10."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.5" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="1."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Символ:"/>
+                <ITEXT FONTSIZE="10" CH=" символы карты используются для взаимодействия с другими картами и планшетом игрока (например, карты с символом строительства можно оплачивать сталью)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.5" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="2."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Начальные условия:"/>
+                <ITEXT FONTSIZE="10" CH=" показывает начальное количество кредитов, прочих ресурсов, и уровень производства. У некоторых корпораций также описано действие, выполняемое в первый ход. (см. слева)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.5" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="3."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Свойство/Действие: "/>
+                <ITEXT FONTSIZE="10" CH="текст на синем фоне указывает на свойство или действие, которое можно использовать в процессе игры. Действие может быть выполнено 1 раз в ход, свойство действует постоянно."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.5" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="4."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Художественный текст."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.5" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="5."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Цена:"/>
+                <ITEXT FONTSIZE="10" CH=" цена, необходимая для того, чтобы сыграть карту из руки. (Для получения карт их необходимо купить в фазе исследований, см. стр. 8)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.5" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="6."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Требования:"/>
+                <ITEXT FONTSIZE="10" CH=" условия, необходимые для того, чтобы сыграть карту. Некоторые карты требуют определённого значения глобального параметра. Другие карты требуют определённого уровня производства или определенных символов на картах. Также вы должны быть способны выполнить эффект карты (см. стр. 9). Требования должны выполняться только в момент разыгрывания карт, и не важны для дальнейшего использования."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.5" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="7."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Мгновенный эффект:"/>
+                <ITEXT FONTSIZE="10" CH=" чаще всего карты изменяют количество ресурсов или уровень производства, но возможны и другие эффекты."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.5" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="8."/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="ПО:"/>
+                <ITEXT FONTSIZE="10" CH=" некоторые карты приносят победные очки."/>
+                <trail ALIGN="3">
+                    <Tabs Type="0" Pos="27.5" Fill=""/>
+                </trail>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="177.857142857143" YPOS="5180.69149606299" OwnPage="6" ItemID="832935556" PTYPE="4" WIDTH="438.214285714286" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L438.214 0 L438.214 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L438.214 0 L438.214 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="ПОДГОТОВКА К ИГРЕ"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="144.642857142857" YPOS="5217.1659055118" OwnPage="6" ItemID="832931476" PTYPE="4" WIDTH="506.294713160855" HEIGHT="611.970202474699" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L506.295 0 L506.295 611.97 L0 611.97 L0 0 Z" copath="M0 0 L506.295 0 L506.295 611.97 L0 611.97 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" LINESPMode="0" LINESP="18" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Описывается стандартная игра на 2-5 человек, дополнительные правила для других вариантов игры см. на стр. 13."/>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="1)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Поле:"/>
+                <ITEXT FONTSIZE="10" CH=" положите на поле 9 тайлов океана на отведённую для этого клетку. Установите маркеры температуры, кислорода и поколения на соответствующие позиции."/>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="2)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Положите оставшиеся тайлы и кубики"/>
+                <ITEXT FONTSIZE="10" CH=" в пределах досягаемости игроков."/>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="3)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Колода проектов:"/>
+                <ITEXT FONTSIZE="10" CH=" удалите из колоды карты Эры Корпораций. Такие карты помечены красно-белым значком (        )."/>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Перемешайте оставшиеся карты и положите колоду рядом с полем."/>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="4)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Игроки:"/>
+                <ITEXT FONTSIZE="10" CH=" выберите первого игрока. Каждый игрок берет планшет и маркеры своего цвета. Установите доход и уровень производства каждого ресурса на 1 (только в стандартной игре). Начальный уровень ТР – 20."/>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="5)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Карта корпорации:"/>
+                <ITEXT FONTSIZE="10" CH=" новым игрокам раздайте карты Начинающей корпорации, по 42 кредита и 10 карт для начальной руки. Перемешайте 10 карт корпораций (отложите 2 карты Эры Корпораций) и раздайте по 2 каждому оставшемуся игроку."/>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="6)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Карты проектов:"/>
+                <ITEXT FONTSIZE="10" CH=" раздайте по 10 карт каждому оставшемуся игроку."/>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="7)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Начальные условия:"/>
+                <ITEXT FONTSIZE="10" CH=" игроки выбирают, какую из двух корпораций они будут использовать и какие карты оставят в руке. Неиспользуемые карты сбрасываются в закрытую (неиспользуемые корпорации уберите обратно в коробку)."/>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Далее игроки по очереди кладут выбранную корпорацию перед собой, получают начальные ресурсы (если такие есть) и платят 3 кредита за каждую карту, которую хотят оставить в руке."/>
+                <para LINESPMode="1">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <para LINESPMode="1">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="8)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Начало игры:"/>
+                <ITEXT FONTSIZE="10" CH=" в первом поколении пропускаются фазы порядка хода и исследований (они произошли в процессе подготовки). То есть первый игрок начинает сразу с фазы действий."/>
+                <para LINESPMode="1">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <breakcol/>
+                <para ALIGN="3" LINESPMode="1" LINESP="18">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Пример: Ким, Стенли и Робинсон решают сыграть стандартную игру &quot;Терраформирование Марса&quot;. Каждый из них выбирает себе цвет, берёт планшет игрока и отмечает начальный уровень производства, ставя маркеры на клетку &quot;1&quot; на каждой шкале производства. Ким, как первый игрок, сдаёт 10 карт проектов и 2 карты корпораций каждому игроку. Они изучают свои карты. Когда все определились, какие карты и корпорации играть, игроки начинают открывать карты по порядку."/>
+                <para PARENT="Пример" LINESPMode="1">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Ким показывает свою корпорацию: &quot;PhoboLog&quot;, которая приносит ей 10 ресурсов титана и 23 M$, которые она размещает на своём планшете. Затем она объявляет, что покупает 5 карт в руку и платит за них 15 M$. Она получает несколько дорогих карт, которые позволяют выгодно применить титан. Затем она сбрасывает неиспользованную карту корпорации обратно в коробку, а 5 некупленных карт проектов отправляются в стопку сброса лицом вниз."/>
+                <para PARENT="Пример" LINESPMode="1">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Стенли объявляет, что намерен играть за &quot;ThorGate&quot;, он получает 48 M$ и на своём планшете повышает производство энергии на 1. Стенли решает оставить себе все 10 карт и платит за них 30 M$."/>
+                <para PARENT="Пример" LINESPMode="1">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Робинсон решает играть &quot;Республикой Фарсида&quot; (см. пример карты на предыдущей странице). Он берёт 30 M$ на свой планшет и платит 12 M$ за 4 карты, которые он решил приобрести. У него остаётся 28 M$. В качестве своего первого действия он будет строить город. Кроме того, город может принести игроку бонус за размещение, а его карта корпорации говорит, что он может повышать свой доход на 1 каждый раз, когда любой игрок строит город, а сам он после строительства города получает скидку 3 M$. Теперь первое поколение начинается с того, что Ким делает первый ход в фазе действий..."/>
+                <trail PARENT="Пример" LINESPMode="1">
+                    <Tabs Type="0" Pos="28.607142857143" Fill=""/>
+                </trail>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="178" YPOS="6043.84677165354" OwnPage="7" ItemID="732901476" PTYPE="4" WIDTH="437" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L437 0 L437 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L437 0 L437 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="ПОКОЛЕНИЕ (ПОРЯДОК ХОДА)"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.75" YPOS="6075.40976377952" OwnPage="7" ItemID="732897396" PTYPE="4" WIDTH="506.535714285715" HEIGHT="598.518807649053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L506.536 0 L506.536 598.519 L0 598.519 L0 0 Z" copath="M0 0 L506.536 0 L506.536 598.519 L0 598.519 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Игра представляет собой последовательность поколений. Каждое поколение делится на 4 фазы."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="1)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Фаза порядка хода "/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Первый игрок передает маркер по часовой стрелке и передвигает маркер поколения на следующую клетку. В первом поколении эта фаза пропускается."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="2)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Фаза исследований"/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Каждый игрок берет 4 карты и решает, сколько из них он покупает. Каждая карта стоит 3 кредита, игрок может купить 0-4 карты за ход. Некупленные карты сбрасываются. Размер руки не ограничен. В первом поколении эта фаза пропускается."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="3)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Фаза действий (см. стр. 9)"/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Игроки выполняют 1 или 2 действия в ход или пасуют. Ход передается по часовой стрелке, пока все игроки не спасуют. Возможные действия:"/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="A)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Сыграть карту из руки (см. стр. 9)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="31.625" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="B)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Выполнить стандартный проект (см. стр. 10)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="31.625" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="C)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Объявить о достижении (см. стр. 10)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="31.625" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="D)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Профинансировать награду (см. стр. 11)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="31.625" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="E)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Использовать действие на синей карте (см. стр. 11)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="31.625" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="F)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Потратить 8 растений, чтобы провести озеленение, как указано на планшете игрока см. стр. 11)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="31.625" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="G)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Потратить 8 тепла, чтобы повысить температуру, как указано на планшете игрока (см. стр. 11)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="31.625" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="В свой ход вы можете выполнить 1 или 2 действия. Если вы пасуете, вы не можете больше выполнять действия до конца поколения. Когда все игроки спасовали, фаза действий заканчивается."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Пример: Стенли начинает фазу действий во втором поколении, выполняя стандартный проект &quot;Продажа патентов&quot; (с. 10): он сбрасывает карту и получает взамен 1 M$ – он обнаружил, что эта карта не принесет пользы при данном раскладе. Кроме того, он хочет посмотреть, что сделают другие перед тем, как походить самому. "/>
+                <para PARENT="Пример">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="После этого Робинсон выполняет стандартный проект &quot;Город&quot; и платит 25 M$, чтобы построить город и повысть доход на 1. Он играет за &quot;Республику Фарсида&quot;, благодаря чему он дополнительно повышает свой доход на 1 и получает 3 M$, помимо обычного бонуса за размещение тайла. Робинсон считает, что одного действия достаточно, и передаёт ход Ким."/>
+                <para PARENT="Пример">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Ким играет проект &quot;Разработка астероидов&quot;, цена которого 30 M$, и тратит 8 кубиков титана (это проект с символом космоса). Благодаря свойствам корпорации &quot;PhoboLog&quot;, каждая единица титана стоит 4 M$, что составляет в сумме 32 M$. Она могла бы заплатить 7 титана и 2 M$, но всё равно платит 8, чтобы оставить больше денег. &quot;Разработка астероидов&quot; позволяет Ким повысить производство титана на 2. Она отмечает это на своём планшете и кладёт карту перед собой. Ким решает сыграть ещё одну карту с символом космоса в качестве второго действия, а затем передаёт ход Стенли, который играет &quot;Геотермальную энергию&quot;. На этой карте есть символ энергии, и стоит она 11 M$, но так как Стенли играет за &quot;ThorGate&quot;, благодаря свойству корпорации у него есть скидка для карт с символом энергии, поэтому ему нужно заплатить только 8 M$."/>
+                <para PARENT="Пример">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Таким образом игроки делают ходы, пока все не спасуют. "/>
+                <para PARENT="Пример">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="4) Фаза производства"/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Все игроки выполняют эту фазу одновременно. Сначала вся энергия преобразуется в тепло (передвиньте все кубики из зоны энергии в зону тепла). После этого игроки получают ресурсы:"/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Игроки получают кредиты согласно ТР и своему доходу (он может быть отрицательным!), а остальные ресурсы – согласно планшету."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="В конце фазы уберите маркеры игроков с синих карт, чтобы показать, что действие вновь доступно (см. стр 11)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Можете начинать новое поколение."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Пример: Ким получает 21 M$ от суммы своего ТР и дохода. Кроме того, она производит 3 титана (так как она ранее сыграла &quot;Разработку астероидов&quot;) и по 1 остальных ресурсов, добавляя их на планшет игрока."/>
+                <trail PARENT="Пример">
+                    <Tabs Type="0" Pos="27.875" Fill=""/>
+                </trail>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="179" YPOS="6897.64377952755" OwnPage="8" ItemID="775212036" PTYPE="4" WIDTH="437.071428571429" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L437.071 0 L437.071 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L437.071 0 L437.071 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="ДЕЙСТВИЯ"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141.25" YPOS="6932.56724409448" OwnPage="8" ItemID="784043476" PTYPE="4" WIDTH="510.178571428572" HEIGHT="460.28989876266" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0.750000000000001" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.179 0 L510.179 460.29 L0 460.29 L0 0 Z" copath="M0 0 L510.179 0 L510.179 460.29 L0 460.29 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="На стр. 9-11 перечислены 7 различных действий, которые игроки могут выполнить в течение хода."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Можно выполнить 1 или 2 действия в любой комбинации (например, 2 одинаковых). 2 действия могут помочь получить бонус или достижение. Одно действие может быть полезно, чтобы выиграть время для обдумывания дальнейших действий или наблюдения за соперниками."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT CH="A) Сыграть карту из руки"/>
+                <para PARENT="Действие"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Карта разыгрывается в 3 шага:"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="1)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Проверить требования"/>
+                <para ALIGN="3" FIRST="14.17322835">
+                    <Tabs Type="0" Pos="28.625" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="2)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Оплатить карту и выполнить моментальные эффекты"/>
+                <para ALIGN="3" FIRST="14.1732283464567">
+                    <Tabs Type="0" Pos="28.625" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="3)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Ввести карту в игру"/>
+                <para ALIGN="3" INDENT="0" FIRST="14.1732283464567">
+                    <Tabs Type="0" Pos="28.625" Fill=""/>
+                </para>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="1) Проверка требований"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Чтобы сыграть карту, необходимо выполнить её требования и иметь возможность выполнить её эффекты. Исключение составляют карты, которые:"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="-"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="увеличивают глобальный параметр, уже достигший максимума (например, все 9 тайлов океана выложены или температура +8°C)"/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="24.125" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="-"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="добавляют ресурсы, которые негде хранить (например, жетоны бактерий, при отсутствии проекта, на который их можно положить)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="24.125" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="-"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="сбрасывают ресурсы у любого игрока (ресурс обведён красной рамкой), если вы не хотите или не можете забрать их."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="24.125" Fill=""/>
+                </para>
+                <para ALIGN="3"/>
+                <ITEXT CH="Пример: Ким может сыграть &quot;Астероид&quot; (карта C), даже если температура достигла целевого уровня, но тогда она не получит ТР. Она также может решить не сбрасывать растения совсем или сбросить частично (например, если растения есть только у Ким, или у Стенли или Робинсона есть меньше 3 растений). Однако все растения нужно взять лишь у одного из игроков."/>
+                <para PARENT="Пример"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Карты "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="A"/>
+                <ITEXT FONTSIZE="10" CH=", "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="B"/>
+                <ITEXT FONTSIZE="10" CH=", "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="D"/>
+                <ITEXT FONTSIZE="10" CH=" и "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="E"/>
+                <ITEXT FONTSIZE="10" CH=" ниже имеют требование, изображённое рядом с ценой карты. Чтобы сыграть карту "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="A"/>
+                <ITEXT FONTSIZE="10" CH=", нужно иметь производство титана. Для карты "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="B"/>
+                <ITEXT FONTSIZE="10" CH=" уровень кислорода должен быть 9% или ниже, а также производства энергии должно быть хотя бы 1, так как карта требует его снизить. Чтобы сыграть карту "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="D"/>
+                <ITEXT FONTSIZE="10" CH=", уровень кислорода должен быть 9% или больше. Также необходимо иметь ненулевой уровень производства растений, так как карта требует его уменьшить. Карта "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="E"/>
+                <ITEXT FONTSIZE="10" CH=" требует 5% кислорода и производство энергии."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Стоимость розыгрыша карты указана в левом верхнем углу. Некоторые синие карты, уже находящиеся в игре, могут давать скидку (например, "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="E"/>
+                <ITEXT FONTSIZE="10" CH=" даёт скидку при розыгрыше карты космоса). Вы также можете использовать сталь и титан для оплаты карт с символами строительства и космоса соответственно."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="2) Оплата и моментальные эффекты"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Сначала вы оплачиваете карту, затем разыгрываете моментальные эффекты на нижней части карты. Можете выполнять их в любом удобном порядке."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Изменения производства (см. коричневые прямоугольники на картах "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="A"/>
+                <ITEXT FONTSIZE="10" CH=", "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="B"/>
+                <ITEXT FONTSIZE="10" CH=", "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="D"/>
+                <ITEXT FONTSIZE="10" CH=" и "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="E"/>
+                <ITEXT FONTSIZE="10" CH=") "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="должны"/>
+                <ITEXT FONTSIZE="10" CH=" быть выполнены. Ресурс или производство в красной рамке означает, что вы можете применить эффект к любому игроку (включая себя). Эффект без красной рамки должен применяться к себе. Так, карта "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="A"/>
+                <ITEXT FONTSIZE="10" CH=" снижает производство титана у противника, а карты "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="B"/>
+                <ITEXT FONTSIZE="10" CH=", "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="D"/>
+                <ITEXT FONTSIZE="10" CH=" и "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="E"/>
+                <ITEXT FONTSIZE="10" CH=" снижают ваше производство ресурса, чтобы повысить доход."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="На картах также могут быть изображены символы и тайлы в красной рамке. Они указывают на символ или тайл любого игрока."/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="144.107142857143" YPOS="7748.57142857143" OwnPage="9" ItemID="799108052" PTYPE="4" WIDTH="503.035714285714" HEIGHT="631.92857142857" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L253.584 0 L253.979 143.609 L503.036 144.02 L503.036 631.929 L253.584 631.929 L253.919 466.658 L2.75485 466.485 L0 0 Z" copath="M0 0 L503.036 0 L503.036 631.929 L0 631.929 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="При розыгрыше карты ("/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="C"/>
+                <ITEXT FONTSIZE="10" CH=") игрок получает указанные ресурсы  немедленно. Нестандартные ресурсы (ресурсы, для которых не выделено место на планшете) хранятся на определенных картах ("/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="D"/>
+                <ITEXT FONTSIZE="10" CH="). Обычно это та же карта, которая их производит. Например, карта "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="D"/>
+                <ITEXT FONTSIZE="10" CH=" производит 1 животное, когда вы используете её действие (действие карты используется 1 раз в поколение)."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Тайлы (карта "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="B"/>
+                <ITEXT FONTSIZE="10" CH=") размещаются по общим правилам (см. стр. 5). Тайл необходимо выложить, если это возможно. Невозможность выложить тайл не запрещает играть карту – тайл просто игнорируется."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Если на карте есть символ (*), она является исключением из правил – прочитайте описание на карте, чтобы понять, как она работает."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Значки ПО (карты "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="A"/>
+                <ITEXT FONTSIZE="10" CH=", "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="D"/>
+                <ITEXT FONTSIZE="10" CH=", "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="E"/>
+                <ITEXT FONTSIZE="10" CH=") используются в конце игры при подсчете очков (см. стр. 12). Карта "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="D"/>
+                <ITEXT FONTSIZE="10" CH=" может принести несколько ПО, если её действие было выполнено несколько раз."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="3) Ввод карты в игру"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="События (красные карты – "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="C"/>
+                <ITEXT FONTSIZE="10" CH=") каждый игрок сбрасывает в своей игровой зоне в стопку лицом вниз. Их символы срабатывают только в момент розыгрыша (например, скидка на карте "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Е"/>
+                <ITEXT FONTSIZE="10" CH=" при розыгрыше событий с символом космоса)."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Автоматические карты (зелёные – "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="A"/>
+                <ITEXT FONTSIZE="10" CH=" и "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="B"/>
+                <ITEXT FONTSIZE="10" CH=") располагаются стопкой лицом вверх так, чтобы были видны символы на них."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Активные карты (синие – "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="D"/>
+                <ITEXT FONTSIZE="10" CH=" и "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="E"/>
+                <ITEXT FONTSIZE="10" CH=") обладают эффектами или действиями, которые могут быть использованы в игре – выкладывайте их перед собой."/>
+                <para ALIGN="3"/>
+                <breakcol/>
+                <para ALIGN="3"/>
+                <para/>
+                <ITEXT CH="B) Выполнить стандартный проект"/>
+                <para PARENT="Действие"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="6 стандартных проектов, напечатанных на поле, всегда доступны всем игрокам. Каждый проект может быть выполнен несколько раз за поколение."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="1)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Продать патенты:"/>
+                <ITEXT FONTSIZE="10" CH=" сбросьте любое количество карт из руки. Получите 1 кредит за каждую карту."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.767857142857" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="2)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Электростанция:"/>
+                <ITEXT FONTSIZE="10" CH=" повысьте производство энергии на 1, заплатив 11 кредитов."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.767857142857" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="3)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Астероид:"/>
+                <ITEXT FONTSIZE="10" CH=" повысьте температуру (и свой ТР) на 1, заплатив 14 кредитов."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.767857142857" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="4)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Водоснабжение:"/>
+                <ITEXT FONTSIZE="10" CH=" выложите тайл океана, заплатив 18 кредитов. Повысьте свой ТР на 1 и получите бонус за размещение тайла (если есть)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.767857142857" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="5)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Озеленение:"/>
+                <ITEXT FONTSIZE="10" CH=" выложите тайл озеленения, заплатив 23 кредита. Повысьте уровень кислорода (и свой ТР) на 1 и получите бонус за размещение тайла (если есть). Положите на тайл свой маркер игрока."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.767857142857" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="6)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Город:"/>
+                <ITEXT FONTSIZE="10" CH=" выложите тайл города, заплатив 25 кредитов (получите бонус за размещение тайла, если есть, и положите на тайл свой маркер игрока). Повысьте свой доход на 1."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.767857142857" Fill=""/>
+                </para>
+                <para ALIGN="3"/>
+                <ITEXT CH="Пример: Робинсон первым действием своего хода выполняет стандартный проект &quot;Город&quot;. Он строит уже свой третий город, продолжая получать дополнительные бонусы от своей корпорации &quot;Республика Фарсида&quot;."/>
+                <para PARENT="Пример"/>
+                <para ALIGN="3"/>
+                <ITEXT CH="C) Объявить о достижении"/>
+                <para PARENT="Действие"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Если выполнено условие достижения, вы можете заплатить 8 кредитов и получить его."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Поместите маркер игрока на клетку достижения, чтобы обозначить, что оно получено. Каждое достижение может быть получено только одним игроком. Может быть получено только 3 достижения за игру. В конце игры каждое достижение дает 5 ПО."/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="415.338582677165" YPOS="7769.61007874014" OwnPage="9" ItemID="725117028" PTYPE="4" WIDTH="223.244724409449" HEIGHT="122.62136107988" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L223.245 0.0550517 L223.17 11.9371 L222.476 122.622 L0 122.622 L0 0 Z" copath="M0 0 L222.476 0 L222.476 122.622 L0 122.622 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Times New Roman Italic" FONTSIZE="12"/>
+                <ITEXT CH="Многие карты описывают идеи для терраформирования. Они могут влиять на глобальные параметры или повышать ваш ТР разными способами. На них могут быть изображены фотосинтезирующие организмы, выделяющие кислород, или источники тепла, шаг за шагом повышающие температуру."/>
+                <para PARENT="Врезка"/>
+                <ITEXT CH="Другие карты связаны с терраформированием – либо требуют выполнения определённых этапов этого процесса, либо связаны с начальными условиями."/>
+                <para PARENT="Врезка"/>
+                <ITEXT CH="На каждой карте есть художественный текст, который поможет прочувствовать, что же эта карта сделала бы &quot;по-настоящему&quot;."/>
+                <trail PARENT="Врезка"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141" YPOS="8594.44251968504" OwnPage="10" ItemID="806906212" PTYPE="4" WIDTH="511.5" HEIGHT="632.516220472435" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L511.5 0 L511.5 632.516 L0 632.516 L0 0 Z" copath="M0 0 L511.5 0 L511.5 632.516 L0 632.516 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Условия достижений:"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="1)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Терраформист:"/>
+                <ITEXT FONTSIZE="10" CH=" наберите не менее 35 ТР."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.125" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="2)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Мэр:"/>
+                <ITEXT FONTSIZE="10" CH=" постройте не менее 3 городов."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.125" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="3)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Садовник:"/>
+                <ITEXT FONTSIZE="10" CH=" выложите не менее 3 тайлов озеленения."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.125" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="4)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Строитель:"/>
+                <ITEXT FONTSIZE="10" CH=" сыграйте не менее 8 карт с символом строительства."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.125" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="5)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Планировщик:"/>
+                <ITEXT FONTSIZE="10" CH=" соберите в руке не менее 16 карт."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.125" Fill=""/>
+                </para>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Пример: второе действие Робинсона (после постройки третьего города) – объявить о достижении. Он платит 8 M$ и кладёт один из своих маркеров на достижение &quot;Мэр&quot;. Это принесёт ему 5 ПО в конце игры! Теперь игроки могут получить лишь 2 достижения, и никто больше не может получить достижение &quot;Мэр&quot;."/>
+                <para PARENT="Пример" ALIGN="3"/>
+                <para PARENT="Пример" ALIGN="3"/>
+                <ITEXT CH="D) Профинансировать награду"/>
+                <para PARENT="Действие"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Для этого действия нет особых требований. Первый игрок, выполняющий это действие, платит 8 M$ и кладет один из своих маркеров на выбранную им награду. Второй платит 14 M$, третий – 20 M$. За партию можно профинансировать только три разные награды."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="В конце игры награда принесёт 5 ПО игроку, выполнившему необходимые условия. Второе место принесёт 2 ПО (при игре вдвоем второе место не приносит очков)."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="В случае ничьей все игроки, выполнившие условие, получают ПО. В случае ничьей за первое место, за второе место игроки не получают ПО."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Возможные награды:"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="1)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Землевладелец:"/>
+                <ITEXT FONTSIZE="10" CH=" необходимо иметь больше всего своих тайлов в игре."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.5" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="2)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Банкир:"/>
+                <ITEXT FONTSIZE="10" CH=" необходимо иметь самый высоких доход."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.5" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="3)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Ученый:"/>
+                <ITEXT FONTSIZE="10" CH=" необходимо иметь больше всех символов науки на картах."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.5" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="4)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Термалист: "/>
+                <ITEXT FONTSIZE="10" CH="необходимо иметь больше всех тепла."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.5" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="5)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Шахтёр:"/>
+                <ITEXT FONTSIZE="10" CH=" необходимо иметь больше всех стали и титана."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.5" Fill=""/>
+                </para>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Пример: Стенли платит 8 M$, чтобы профинансировать награду &quot;Термалист&quot;, так как думает, что его корпорация &quot;GHG Factories&quot; произведёт достаточно тепла, чтобы занять по нему первое место."/>
+                <para PARENT="Пример"/>
+                <ITEXT FONTSIZE="10" CH="Однако в конце игры Ким тоже производит тепло и собирает в итоге 12 тепла. У Стенли тоже 12 тепла, а у Робинсона – всего 5. Стенли и Ким получают по 5 ПО за первое место, а Робинсон не получает ничего."/>
+                <para PARENT="Пример"/>
+                <para ALIGN="3"/>
+                <ITEXT CH="E) Использовать действие карты"/>
+                <para PARENT="Действие"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Многие синие карты и карты корпораций содержат действия, что обозначено красной стрелкой. Такое действие может быть выполнено раз в поколение. Оплатите стоимость действия (слева от стрелки) – получите результат (справа от стрелки). Положите маркер игрока на карту, чтобы обозначить, что действие было совершено."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Маркеры игрока собираются в фазе производства."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Пример: к концу игры у Стенли активна карта &quot;Домашний скот&quot; ("/>
+                <ITEXT FONT="Times New Roman Bold Italic" FONTSIZE="10" CH="D"/>
+                <ITEXT FONTSIZE="10" CH="). В свой ход он может выполнить действие этой карты, положив кубик животного на карту и отметив её своим маркером."/>
+                <para PARENT="Пример"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Синие карты также могут иметь постоянные эффекты, (например, карта "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="E"/>
+                <ITEXT FONTSIZE="10" CH=" – карты с символом космоса стоят на 2 кредита меньше). Эффекты не являются действиями, поэтому их можно использовать в любое время."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT CH="F) Преобразовать растения"/>
+                <para PARENT="Действие"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="8 кубиков растений могут быть преобразованы в тайл озеленения, который повышает содержание кислорода (и ТР) на 1."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Тайл озеленения по возможности должен быть выложен рядом с другим вашим тайлом и может дать бонус за размещение (см. стр. 5)."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Пример: Робинсон убирает 8 кубиков растений со своего планшета, увеличивая содержание кислорода и свой ТР на 1. Затем он берёт тайл озеленения, кладёт его между 2 тайлами своих городов и получает бонус за размещение, указанный на клетке – 2 кубика растений."/>
+                <para PARENT="Пример"/>
+                <ITEXT FONTSIZE="10" CH="Это действие не только приносит 1 ТР и бонус за размещение. Озеленение даст 1 ПО само по себе и по 1 ПО за каждый соседний город при подсчёте очков в конце игры."/>
+                <para PARENT="Пример"/>
+                <para ALIGN="3"/>
+                <ITEXT CH="G) Преобразовать тепло"/>
+                <para PARENT="Действие"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="8 кубиков тепла могут быть потрачены для повышения температуры (и ТР) на 1."/>
+                <para ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="402.25" YPOS="9231.55716535431" OwnPage="10" ItemID="830803892" PTYPE="4" WIDTH="245.428571428572" HEIGHT="40.8892913385826" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L245.429 0 L245.429 40.8893 L0 40.8893 L0 0 Z" copath="M0 0 L245.429 0 L245.429 40.8893 L0 40.8893 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Italic" FONTSIZE="8" CH="&quot;Всё, что нам нужно, это больше энергии&quot;"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1"/>
+                <ITEXT FONT="Times New Roman Italic" FONTSIZE="8" CH="Бьорн Зигмунд, генеральный директор &quot;ThorGate&quot;"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="180" YPOS="9457.49740157486" OwnPage="11" ItemID="830784708" PTYPE="4" WIDTH="435.535714285714" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L435.536 0 L435.536 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L435.536 0 L435.536 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="ОКОНЧАНИЕ ИГРЫ "/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="144.107142857143" YPOS="9494.85960629925" OwnPage="11" ItemID="830857092" PTYPE="4" WIDTH="507.857142857143" HEIGHT="589.81896512932" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L507.857 0 L507.857 589.819 L0 589.819 L0 0 Z" copath="M0 0 L507.857 0 L507.857 589.819 L0 589.819 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Когда все три глобальных параметра (количество океанов, температура, кислород) достигли требуемых значений, по окончании поколения игра завершается. После фазы производства "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="игроки могут преобразовать оставшиеся растения в тайлы озеленения"/>
+                <ITEXT FONTSIZE="10" CH=" (в порядке очерёдности, с учетом бонусов за размещение и других эффектов). После этого производится подсчёт очков."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT CH="Подсчёт очков"/>
+                <para PARENT="Действие"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="1)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="ТР:"/>
+                <ITEXT FONTSIZE="10" CH=" ТР – базовый счёт в конце игры. Увеличивайте его по мере подсчёта очков в последующих этапах."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.392857142857" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="2)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Гранты:"/>
+                <ITEXT FONTSIZE="10" CH=" 5 ПО за первое место, 2 ПО за второе место. Подробнее см. стр. 11."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.392857142857" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="3)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Достижения:"/>
+                <ITEXT FONTSIZE="10" CH=" каждое достижение дает 5 ПО."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.392857142857" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="4)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Поле: "/>
+                <ITEXT FONTSIZE="10" CH="игроки получают ПО с карты. Каждый тайл озеленения дает 1 ПО, каждый город дает 1 ПО за каждый соседний тайл озеленения."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.392857142857" Fill=""/>
+                </para>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="5)"/>
+                <tab FONT="Times New Roman Bold" FONTSIZE="10"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Карты:"/>
+                <ITEXT FONTSIZE="10" CH=" сначала посчитайте ПО карт сбора ресурсов. Затем соберите все свои оставшиеся карты (включая сыгранные вами события) и посчитайте их ПО. Возможно, карты Юпитера нужно будет посчитать отдельно."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="28.392857142857" Fill=""/>
+                </para>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Игрок с максимальным счётом побеждает! В случае ничьей побеждает игрок с большим количеством кредитов."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Пример: при финальном подсчёте у Стенли 38 ТР и, следовательно, столько же ПО. Он прибавляет к этому по 5 ПО за грант &quot;Термалист&quot; и достижение &quot;Планировщик&quot;. На игровом поле рядом с его единственным городом есть 3 тайла озеленения, что даёт Стенли 3 ПО за озеленение и 5 ПО за город, так как тот находится рядом с 2 тайлами озеленения, принадлежащими Робинсону. Вместе это составляет 56 ПО. Теперь прибавляем очки на картах."/>
+                <para PARENT="Пример" ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="На карте &quot;Домашний скот&quot; находится 3 животных, которые дают Стенли 3 ПО. Кроме того, его синие и зелёные карты дают ещё 6 ПО, и -1 ПО на карте события (красной). В итоге окончательный счёт Стенли – 64 ПО."/>
+                <para PARENT="Пример" ALIGN="3"/>
+                <breakcol/>
+                <para/>
+                <ITEXT CH="Замечания"/>
+                <para PARENT="Действие"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Если вы не понимаете, что означает символ – прочитайте объяснение в скобках или на стр. 14 и 15."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Иногда одновременно происходит несколько эффектов. В этом случае порядок их выполнения выбирает активный игрок."/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="186.5" YPOS="10310.818031496" OwnPage="12" ItemID="830853012" PTYPE="4" WIDTH="435.075433070866" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L435.075 0 L435.075 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L435.075 0 L435.075 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="ВАРИАНТЫ ИГРЫ"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.316929133858" YPOS="10357.9842519685" OwnPage="12" ItemID="737126212" PTYPE="4" WIDTH="510.440070866142" HEIGHT="603.783779527593" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L251.164 0.00377953 L510.44 0.573921 L510.44 603.784 L1.85655 603.784 L0.183071 165.714 L0 0 Z" copath="M1.85655 0.573921 L510.44 0.573921 L510.44 603.784 L1.85655 603.784 L1.85655 0.573921 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <para PARENT="Действие" ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Чтобы играть в расширенную игру, добавьте все карты с красно-белым значком (    ) в левом нижнем углу, включая 2 новые корпорации. Игроки начинают с нулевыми уровнями производства (см. Подготовка к игре – Игроки на стр. 7). Эра Корпораций сочетается с любыми другими вариантами игры."/>
+                <para PARENT="Действие" ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Эра Корпораций делает упор на экономике и технологиях. Эти проекты напрямую не участвуют в терраформировании, но делают корпорации сильнее, добавляя больше стратегических решений в игру. "/>
+                <para PARENT="Действие" ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Эра Корпораций удлиняет и усложняет игру. Мы не рекомендуем этот вариант для начинающих."/>
+                <para PARENT="Действие" ALIGN="3"/>
+                <para PARENT="Действие" ALIGN="3"/>
+                <ITEXT FONTSIZE="13" CH="Соло игра для Эры Корпораций:"/>
+                <para PARENT="Действие" ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Для одиночной игры применяются обычные правила, со следующими исключениями:"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="1)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Перед выбором карт разместите 2 тайла нейтральных городов на игровом поле по соседству с тайлами озеленения (эти тайлы не принадлежат вам и не повышают уровень кислорода): откройте и сбросьте верхние 4 карты колоды. Используйте их стоимость для определения положения тайлов. Отсчитывайте клетки с левого верхнего угла слева направо и сверху вниз, пропуская запрещённые места (например, клетки для тайлов океана).  Выложите первый город. Для второго города отсчитывайте клетки с правого нижнего угла в противоположном направлении. Затем положите 2 тайла озеленения, считая по кругу вокруг каждого города, начиная с левой верхней клетки и пропуская запрещённые места."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="25.683070866142" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Особый случай: если вы выбрали &quot;Республику Фарсида&quot;, вы повышаете свой доход за 2 нейтральных города несмотря на то, что они были построены до того, как вы выбрали эту корпорацию."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="25.683070866142" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="2)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Вы начинаете игру с 14 ТР вместо 20 (отметка &quot;соло&quot; на шкале) и с нулевыми уровнями производства, в отличие от стандартной игры."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="25.683070866142" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="3)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Награды и достижения не используются."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="25.683070866142" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="4)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="В игре присутствует нейтральный оппонент, у которого можно забирать ресурсы или понижать производство."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="25.683070866142" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="5)"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Вы всегда играете 14 поколений (отметка &quot;соло&quot;)."/>
+                <para ALIGN="3">
+                    <Tabs Type="0" Pos="25.683070866142" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="10" CH="Чтобы победить, вы должны завершить терраформирование (т.е. повысить 3 глобальных параметра до целевых уровней) до того, как закончится 14-е поколение. После этого вы можете преобразовать кубики растений в озеленение по обычным правилам, но без повышения уровня кислорода, и, наконец, подсчитываете ПО. Если терраформирование не завершено к концу 14-го поколения, вы проигрываете."/>
+                <para ALIGN="3"/>
+                <para PARENT="Действие" ALIGN="3"/>
+                <ITEXT FONTSIZE="13" CH="Вариант с драфтом (для большего взаимодействия игроков):"/>
+                <para PARENT="Действие" ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Во время фазы исследований каждый игрок получает по 4 карты, одну оставляет себе и передаёт остальные следующему игроку. Из пришедших 3 карт одну снова оставляет себе, остальные передаёт игроку слева. Затем выбирает 1 из 2 карт, передаёт другую и наконец, получает свою последнюю карту."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Затем игроки изучают свои 4 карты и выбирают, какие из них купить (по 3 M$), а какие сбросить."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Драфт не используется во время 1-го поколения, так как 1-я фаза исследований пропускается (см. Подготовка к игре). Карты передаются по часовой стрелке во время чётных поколений и против часовой во время нечётных."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Этот вариант позволяет влиять на то, какие карты получают другие игроки, и увеличивает ваши возможности следовать определённой стратегии или предсказывать, какой параметр увеличится первым."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Вариант с драфтом удлиняет игру и не рекомендуется для начинающих."/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="173.5" YPOS="11164.9988976378" OwnPage="13" ItemID="737040212" PTYPE="4" WIDTH="436.142857142857" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L436.143 0 L436.143 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L436.143 0 L436.143 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Заголовок" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Заголовок"/>
+                <ITEXT CH="ОБОЗНАЧЕНИЯ"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="144.496726517171" YPOS="11200.4464285714" OwnPage="13" ItemID="796790788" PTYPE="4" WIDTH="509.074702054258" HEIGHT="612.589285714286" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0.815587 0 L509.075 0 L509.075 612.589 L0.815587 612.589 L1.35931 486.496 L44.4684 486.417 L44.5197 444.744 L0.543725 444.452 L1.10433 398.627 L44.4238 399.389 L44.1236 357.121 L0 356.581 L0.815587 326.042 L34.2368 325.993 L34.2526 283.25 L0.543725 283.507 L1.08745 220.921 L51.9134 221.493 L51.9282 180.13 L0.543725 179.958 L0.815587 83.8885 L54.9927 83.8782 L54.9927 28.6244 L0.815587 28.4966 L0.815587 0 Z" copath="M0.815587 0 L509.075 0 L509.075 612.589 L0.815587 612.589 L0.815587 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <para PARENT="Действие"/>
+                <ITEXT CH="Победные очки"/>
+                <para PARENT="Действие"/>
+                <ITEXT FONTSIZE="10" CH="Игру выигрывает тот, кто набрал наибольшее количество Победных очков (ПО). Они начисляются за ТР, тайлы на игровом поле, гранты и достижения, за многие карты."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT CH="Параметры"/>
+                <para PARENT="Действие"/>
+                <ITEXT FONTSIZE="10" CH="Терраформирование Марса – это процесс преобразования Марса в пригодную для жизни планету. 4 параметра на игровом поле связаны с этим процессом: рейтинг терраформирования (ТР), температура, уровень кислорода и покрытие океаном."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Рейтинг Терраформирования (ТР)"/>
+                <ITEXT FONTSIZE="10" CH=" определяет ваш вклад в процесс терраформирования. "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Каждый раз, когда вы увеличиваете уровень кислорода, температуру, или размещаете тайл океана, ваш ТР увеличивается."/>
+                <ITEXT FONTSIZE="10" CH=" Каждый уровень ТР приносит 1 ПО в конце игры, а Комитет Терраформирования финансирует вас в соответствии с вашим ТР. Игроки начинают с 20 ТР."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Средняя "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="температура"/>
+                <ITEXT FONTSIZE="10" CH=" на экваторе поднимается каждый раз на 2°C с -30°C до +8°C. Таким образом создаётся экваториальная зона, где вода остаётся жидкой. Этот символ означает, что вы повышаете температуру на 1 уровень и на столько же повышаете свой ТР."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Уровень "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="кислорода"/>
+                <ITEXT FONTSIZE="10" CH=" измеряется в процентах давления стандартной атмосферы, т.е. этот показатель сравним с 21% кислорода на Земле. При 14% атмосфера напоминает земную на высоте 3000 м. Этот символ означает, что вы повышаете содержание кислорода на 1 уровень и на столько же повышаете свой ТР."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Каждый "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="тайл океана"/>
+                <ITEXT FONTSIZE="10" CH=" символизирует 1% покрытия планеты океанами. Когда 9% поверхности будут покрыты океанами, на Марсе запустится гидрологический цикл, появятся осадки и реки. Этот символ означает, что вы выкладываете тайл океана и повышаете свой ТР на 1 уровень (а также получаете бонус за размещение, см. стр.5)."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT CH="Ресурсы"/>
+                <para PARENT="Действие"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Все ресурсы представлены кубиками. Они бывают трёх размеров – 1 (бронзовые), 5 (серебряные) и 10 (золотые) – и могут использоваться в качестве любого вида ресурсов."/>
+                <ITEXT FONTSIZE="10" CH=" Какой ресурс они обозначают – определяется местоположением. Шесть стандартных ресурсов – это мегакредиты, сталь, титан, растения, энергия и тепло. Все они хранятся на планшете игрока. Некоторые карты тоже могут хранить ресурсы (обычно карты животных и бактерий). Если карта производит нестандартный ресурс, он обычно кладётся прямо на неё."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Мегакредит (M$)"/>
+                <ITEXT FONTSIZE="10" CH=" – это основная валюта для покупки и розыгрыша карт, использования стандартных проектов, достижений и грантов."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Сталь"/>
+                <ITEXT FONTSIZE="10" CH=" символизирует строительные материалы на Марсе. Обычно используются сплавы магния. Сталь нужна для оплаты карт с символом строительства и стоит 2 M$ за кубик."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Титан"/>
+                <ITEXT FONTSIZE="10" CH=" символизирует ресурсы в космосе или для космоса. Титан нужен для оплаты карт с символом космоса и стоит 3 M$ за кубик."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Растения"/>
+                <ITEXT FONTSIZE="10" CH=" используют фотосинтез. В качестве действия, 8 кубиков растений можно превратить в тайл озеленения и выложить его на игровое поле. Это повышает уровень кислорода на 1. Каждый тайл озеленения приносит 1 ПО сам по себе и по 1 ПО для каждого соседнего города (см. правила игрового поля на стр. 5)."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Энергия"/>
+                <ITEXT FONTSIZE="10" CH=" используется городами и промышленностью, путём действия синих карт или уменьшения производства энергии. Неиспользованная энергия преобразуется в тепло."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Тепло"/>
+                <ITEXT FONTSIZE="10" CH=" нагревает атмосферу Марса. В качестве действия, 8 кубиков тепла можно потратить для повышения температуры (а, следовательно, ТР) на 1 уровень."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Другие ресурсы"/>
+                <ITEXT FONTSIZE="10" CH=" (включая животных и бактерии) хранятся на соответствующих картах, которые объясняют, как эти ресурсы использовать."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Производство"/>
+                <ITEXT FONTSIZE="10" CH=" ресурса изображается символом ресурса в коричневом квадрате. В этом примере символ означает, что вы повышаете производство растений на шкале планшета на 1. В свою очередь, это даёт вам постоянный приход растений. "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Производство не ограничено 10 уровнями;"/>
+                <ITEXT FONTSIZE="10" CH=" если производство превышает 10, просто оставьте маркер на 10 и добавьте новый маркер."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Только доход может быть отрицательным (но не ниже -5). Но так как к величине финансирования добавляется ТР, общий доход не будет меньше 0."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Карты"/>
+                <ITEXT FONTSIZE="10" CH=" представляют масштабные проекты, которые игроки могут выполнить. Карты имеют до 3 символов, которые описывают тематические аспекты карты. Символы могут"/>
+                <trail PARENT="Действие" ALIGN="3" FIRST="14.1964285714286"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="143.5" YPOS="12007.3195275591" OwnPage="14" ItemID="796025252" PTYPE="4" WIDTH="505.928571428572" HEIGHT="654.287615298059" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L505.929 0 L505.929 654.288 L0 654.288 L0 0 Z" copath="M0 0 L505.929 0 L505.929 654.288 L0 654.288 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="использоваться в связках с другими картами. Цена карты – 3 M$ при покупке в руку во время фазы исследований, но стоимость их розыгрыша различна. Когда вам встречается этот символ, вы можете потянуть одну карту бесплатно."/>
+                <para PARENT="Действие" ALIGN="3" FIRST="0"/>
+                <para PARENT="Действие" ALIGN="3" FIRST="0"/>
+                <ITEXT CH="Символы"/>
+                <para PARENT="Действие"/>
+                <ITEXT FONTSIZE="10" CH="Карты могут иметь до 3 символов, тематически описывающих их и позволяющих взаимодействовать с другими картами. Для символов нет специальных правил."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Строительство:"/>
+                <ITEXT FONTSIZE="10" CH=" проект включает строительство на Марсе. Сталь можно использовать для оплаты этой карты."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Космос:"/>
+                <ITEXT FONTSIZE="10" CH=" проект использует космические технологии. Титан можно использовать для оплаты этой карты."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Энергия:"/>
+                <ITEXT FONTSIZE="10" CH=" проект направлен на производство или применение энергии."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Наука:"/>
+                <ITEXT FONTSIZE="10" CH=" проект расширяет научные знания. Некоторые карты требуют значка науки."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Юпитер:"/>
+                <ITEXT FONTSIZE="10" CH=" проект представляет инфраструктуру во внешней области Солнечной системы, в частности, у Юпитера."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Земля: "/>
+                <ITEXT FONTSIZE="10" CH="проект имеет отношение к деятельности на Земле."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Растение:"/>
+                <ITEXT FONTSIZE="10" CH=" проект включает растения или другие фотосинтезирующие организмы."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Бактерии: "/>
+                <ITEXT FONTSIZE="10" CH="проект использует микроорганизмы для определённых целей."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Животное:"/>
+                <ITEXT FONTSIZE="10" CH=" проект имеет отношение к животным. Приносит ПО."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Город:"/>
+                <ITEXT FONTSIZE="10" CH=" проект строит город. Для этого часто требуется производство энергии. Приносит доход."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="Событие:"/>
+                <ITEXT FONTSIZE="10" CH=" этот проект – одноразовое событие. Все события – это красные карты, которые переворачиваются лицом вниз, когда они сыграны."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT CH="Тайлы"/>
+                <para PARENT="Действие"/>
+                <ITEXT FONTSIZE="10" CH="На игровом поле изображена карта, на которой можно размещать тайлы. При этом вы можете получить "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="бонус за размещение"/>
+                <ITEXT FONTSIZE="10" CH=", указанный в клетке (плюс 2 M$ за каждый прилегающий тайл океана). Существует 4 вида тайлов:"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Этот символ означает, что вы размещаете "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="тайл океана"/>
+                <ITEXT FONTSIZE="10" CH=" и увеличиваете свой ТР на 1 уровень. На игровом поле есть 12 клеток, "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="предназначенных для тайлов океана"/>
+                <ITEXT FONTSIZE="10" CH=". Они и только они могут быть размещены на этих клетках. "/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Тайлы океана не принадлежат никому из игроков, но каждый из них приносит бонус 2 M$ каждому игроку, который впоследствии размещает тайл по соседству. "/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Этот символ означает, что вы размещаете "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="тайл озеленения"/>
+                <ITEXT FONTSIZE="10" CH=" и помечаете его своим маркером (это увеличивает уровень кислорода и ТР, как показывает символ кислорода). Тайл нужно разместить рядом с другим вашим тайлом, если это возможно. Иначе вы можете разместить тайл на любой доступной клетке. Тайлы озеленения приносят 1 ПО в конце игры, а также приносят ПО всем прилегающим городам (см. правила тайла города)."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Этот символ означает, что вы строите "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="город"/>
+                <ITEXT FONTSIZE="10" CH=" и помечаете его своим маркером. Город не может граничить с другим тайлом города. В конце игры каждый тайл города приносит 1 ПО за каждый прилегающий тайл озеленения (независимо от владельца последнего)."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Тайлы с символами на коричневом фоне означают, что вы размещаете "/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="специальный тайл"/>
+                <ITEXT FONTSIZE="10" CH=", описанный на карте, вместе со своим маркером. Специальные правила и ограничения указаны на карте."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT CH="Символы с красной рамкой"/>
+                <para PARENT="Действие"/>
+                <ITEXT FONTSIZE="10" CH="Когда у символа имеется красная рамка, это означает, что символ действует на любого из игроков (включая вас). "/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Карта, которая сбрасывает ресурсы с красной рамкой, может сбросить ресурсы у любого игрока (этот эффект может быть применён частично или не применён вовсе)."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Эффект карты, который снижает производство ресурса с красной рамкой, обязан быть применён. Если ваш противник не имеет данного производства, вы должны снизить собственное производство или вовсе не разыгрывать эту карту."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Карта с символом тайла и красной рамкой действует на тайлы любых игроков."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Карта со символом и красной рамкой действует на все карты с таким символом, независимо от их владельца."/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="426.25" YPOS="1344.51354330709" OwnPage="1" ItemID="796004788" PTYPE="4" WIDTH="217.678571428572" HEIGHT="242.584319460067" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L217.679 0 L217.679 242.584 L0 242.584 L0 0 Z" copath="M0 0 L217.679 0 L217.679 242.584 L0 242.584 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="13">
+                    <Tabs Type="0" Pos="219" Fill=""/>
+                </DefaultStyle>
+                <ITEXT FONTSIZE="13" CH="Введение"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="2"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Обзор игры"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="3"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Глобальные параметры"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="3"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Игровое поле"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="4"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Тайлы и маркеры"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="5"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Планшет игрока"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="6"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Карты"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="6"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Подготовка к игре"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="7"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Поколение (Порядок хода)"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="8"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Действия"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="9"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Окончание игры"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="12"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Варианты игры"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="13"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Обозначения"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="14"/>
+                <para>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="13" CH="Благодарности"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="16"/>
+                <trail>
+                    <Tabs Type="0" Pos="191" Fill=""/>
+                </trail>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="426.20753655793" YPOS="1309.13165354331" OwnPage="1" ItemID="742092180" PTYPE="4" WIDTH="217.993250843645" HEIGHT="25.511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L217.993 0 L217.993 25.5118 L0 25.5118 L0 0 Z" copath="M0 0 L217.993 0 L217.993 25.5118 L0 25.5118 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="СОДЕРЖАНИЕ"/>
+                <trail PARENT="Заголовок"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="375.635439948664" YPOS="6184.78972486765" OwnPage="7" ItemID="742067892" PTYPE="4" WIDTH="124.5335134885" HEIGHT="160.803183952148" FRTYPE="3" CLIPEDIT="1" ROT="-9.91782974969338" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M11.8489 0 L124.534 21.2331 L124.518 160.803 L0 158.697 L11.8489 0 Z" copath="M21.4521 19.0321 L124.883 19.0321 L124.883 153.751 L21.4521 153.751 L21.4521 19.0321 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="126.52031496063" YPOS="8219.77149606297" OwnPage="9" ItemID="780317524" PTYPE="4" WIDTH="115.551113610799" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L115.551 0 L115.551 24 L0 24 L0 0 Z" copath="M0 0 L115.551 0 L115.551 24 L0 24 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Arial Regular" FONTSIZE="10"/>
+                <ITEXT FONT="Arial Bold" FONTSIZE="10" CH="КОЛОДА СОБЫТИЙ"/>
+                <trail ALIGN="1" FIRST="1.07142857142857"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="416.785714285714" YPOS="12615.4927559056" OwnPage="14" ItemID="780150564" PTYPE="4" WIDTH="216.428571428571" HEIGHT="48.0336782901595" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L216.429 0 L216.429 48.0337 L0 48.0337 L0 0 Z" copath="M0 0 L216.429 0 L216.429 48.0337 L0 48.0337 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="7"/>
+                <ITEXT FONT="Times New Roman Italic" FONTSIZE="8" CH="&quot;С новым двигателем деформации пространства и нашим опытом терраформирования Марса настало время начать новую главу в истории – настало время отправиться к звёздам&quot;."/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="Times New Roman Italic" FONTSIZE="8" CH="Хелен Брэк, сотрудник Interplanetary Cinematics"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="408.977007874016" YPOS="10716.631023622" OwnPage="12" ItemID="780323828" PTYPE="4" WIDTH="238.110236220473" HEIGHT="229.618976377988" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L238.11 0 L238.11 124.041 L129.062 123.77 L128.446 229.619 L0 229.619 L0 0 Z" copath="M0 0 L238.11 0 L238.11 229.619 L0 229.619 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="13" CH="Об авторе:"/>
+                <para PARENT="Действие" ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Jacob Fryxelius получил докторскую степень по химии в Стокгольмском университете в 2006 г. Обнаружив в себе страсть к анализу и объяснению явлений, он начал работать преподавателем для вузов и колледжей и получил диплом преподавателя в 2011 г."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Он с детства увлекался настольными играми и впоследствии разработал несколько игр. В 2011 г. он со своими братьями Enoch, Daniel и Jonathan основал компанию FryxGames и в том же году выпустил игру &quot;Космическая станция&quot;."/>
+                <para ALIGN="3"/>
+                <ITEXT FONTSIZE="10" CH="Jacob Fryxelius живёт полной жизнью – среди преподавательской работы, FryxGames, с детьми и любящей женой!"/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="156.944881889764" YPOS="10359.82" OwnPage="12" ItemID="734788628" PTYPE="4" WIDTH="233.71822272216" HEIGHT="22.2625196850495" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L233.718 0 L233.718 22.2625 L0 22.2625 L0 0 Z" copath="M0 0 L233.718 0 L233.718 22.2625 L0 22.2625 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Действие" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Действие" FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="Эра Корпораций (расширенная игра):"/>
+                <trail PARENT="Действие"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="400.016377952756" YPOS="11268.4752755906" OwnPage="13" ItemID="779858244" PTYPE="4" WIDTH="29.6264791901013" HEIGHT="382.114015748033" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L29.6265 0 L29.6265 382.114 L0 382.114 L0 0 Z" copath="M0 0 L29.6265 0 L29.6265 382.114 L0 382.114 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="399.75" YPOS="11751.6964285714" OwnPage="13" ItemID="779913188" PTYPE="4" WIDTH="43.2427559055121" HEIGHT="57.7983745782203" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L43.2428 0 L43.2428 57.7984 L0 57.7984 L0 0 Z" copath="M0 0 L43.2428 0 L43.2428 57.7984 L0 57.7984 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130.25" YPOS="12152.3195275591" OwnPage="14" ItemID="779925492" PTYPE="4" WIDTH="28.5" HEIGHT="314.650551181074" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L28.5 0 L28.5 314.651 L0 314.651 L0 0 Z" copath="M0 0 L28.5 0 L28.5 314.651 L0 314.651 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="125.354960629921" YPOS="12556.0695275591" OwnPage="14" ItemID="779940900" PTYPE="4" WIDTH="63.1450393700786" HEIGHT="54" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L63.145 0 L63.145 54 L0 54 L0 0 Z" copath="M0 0 L63.145 0 L63.145 54 L0 54 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="394.75" YPOS="12010.3195275591" OwnPage="14" ItemID="779934948" PTYPE="4" WIDTH="51" HEIGHT="51.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L51 0 L51 51.75 L0 51.75 L0 0 Z" copath="M0 0 L51 0 L51 51.75 L0 51.75 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="399.866771653543" YPOS="12119.1669291339" OwnPage="14" ItemID="779992068" PTYPE="4" WIDTH="45.3543307086615" HEIGHT="53.4025984251839" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L45.3543 0 L45.3543 53.4026 L0 53.4026 L0 0 Z" copath="M0 0 L45.3543 0 L45.3543 53.4026 L0 53.4026 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="398.969133858267" YPOS="12194.352992126" OwnPage="14" ItemID="779979124" PTYPE="4" WIDTH="46.1489763779526" HEIGHT="52.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L46.149 0 L46.149 52.5 L0 52.5 L0 0 Z" copath="M0 0 L46.149 0 L46.149 52.5 L0 52.5 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="398.25" YPOS="12253.91496063" OwnPage="14" ItemID="734729188" PTYPE="4" WIDTH="38.25" HEIGHT="35.9045669291208" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L38.25 0 L38.25 35.9046 L0 35.9046 L0 0 Z" copath="M0 0 L38.25 0 L38.25 35.9046 L0 35.9046 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="13199.3672440944" OwnPage="15" ItemID="734754084" PTYPE="4" WIDTH="157.035714285715" HEIGHT="254.561327334153" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.036 0 L157.036 254.561 L0 254.561 L0 0 Z" copath="M0 0 L157.036 0 L157.036 254.561 L0 254.561 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="10"/>
+                <ITEXT FONTSIZE="16" CH="КОМПОНЕНТЫ"/>
+                <para PARENT="Заголовок"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="1 буклет правил"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="1 игровое поле"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="5 планшетов игрока"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="17 карт корпораций"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="208 карт проектов"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="8 карт-памяток"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="200 маркеров игрока (прозрачные кубики, 5 цветов)"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="200 маркеров ресурсов (непрозрачные кубики цвета бронзы, серебра и золота, различного размера)"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="3 маркера игрового поля (большие белые кубики)"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="9 тайлов океана"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="60 тайлов города/озеленения"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="11 специальных тайлов"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="1 маркер первого игрока"/>
+                <trail ALIGN="1" FIRST="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="370.25" YPOS="13198.4962598425" OwnPage="15" ItemID="742408772" PTYPE="4" WIDTH="278.5" HEIGHT="294.003740157481" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L278.5 0 L278.5 294.004 L0 294.004 L0 0 Z" copath="M0 0 L278.5 0 L278.5 294.004 L0 294.004 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="10"/>
+                <ITEXT FONTSIZE="16" CH="CREDITS"/>
+                <para PARENT="Заголовок"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="11" CH="Game design: Jacob Fryxelius"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="11" CH="Graphic design: Isaac Fryxelius"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="11" CH="Assistant design: FryxGames"/>
+                <para ALIGN="1" FIRST="0"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="FryxGames thanks:"/>
+                <ITEXT FONTSIZE="10" CH=" Our partners, friends and family (especially Mom and Dad) for playtesting and feedback. We want to acknowledge Kim Stanley Robinson for great inspiration to this game in his Red Mars trilogy. And, of course, eternal gratitude to the Creator of Mars and of everything else."/>
+                <para ALIGN="1" FIRST="0"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="We thank our beta-testers:"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="Geof Gambill, Lloyd Keller, Thomas &amp; Sandra Diehl, Gerda van Heel &amp; Bart van Bilzen, Daisy &amp; Christopher Swaffer, Dennis Suijkerbuijk, Jorrit Sminia, Martin Ekelund."/>
+                <para ALIGN="1" FIRST="0"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="8" CH="All images are credited by name, and any image that has been modified by us is marked by a ’+’ after the name."/>
+                <para ALIGN="1" FIRST="0"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="Printed by LudoFact, Germany."/>
+                <para ALIGN="1" FIRST="0"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="© 2016 FryxGames"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="www.fryxgames.se/games/terraformingmars/"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONT="Times New Roman Bold" FONTSIZE="10" CH="© 2016 Stronghold Games LLC"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="10" CH="www.StrongholdGames.com"/>
+                <trail ALIGN="1" FIRST="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="358.567559055118" YPOS="13510.9984251968" OwnPage="15" ItemID="742421076" PTYPE="4" WIDTH="298.218155230597" HEIGHT="23.9790776153368" RADRECT="11.9895388076684" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M11.9895 0 L286.229 0 C292.85 0 298.218 5.3679 298.218 11.9895 L298.218 11.9895 C298.218 18.6112 292.85 23.9791 286.229 23.9791 L11.9895 23.9791 C5.3679 23.9791 0 18.6112 0 11.9895 L0 11.9895 C0 5.3679 5.3679 0 11.9895 0 Z" copath="M11.9895 0 L286.229 0 C292.85 0 298.218 5.3679 298.218 11.9895 L298.218 11.9895 C298.218 18.6112 292.85 23.9791 286.229 23.9791 L11.9895 23.9791 C5.3679 23.9791 0 18.6112 0 11.9895 L0 11.9895 C0 5.3679 5.3679 0 11.9895 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="8"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="8" CH="Перевод на русский язык: UAnonim, wil_low, uglykid, Dante777, i112358, Nez"/>
+                <para ALIGN="1" FIRST="0"/>
+                <ITEXT FONTSIZE="8" CH="Верстка: wil_low"/>
+                <trail ALIGN="1" FIRST="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141.964285714286" YPOS="3634.18582677165" OwnPage="4" ItemID="737990340" PTYPE="4" WIDTH="45.9103599550056" HEIGHT="54.207030371203" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L45.9104 0 L45.9104 54.207 L0 54.207 L0 0 Z" copath="M0 0 L45.9104 0 L45.9104 54.207 L0 54.207 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141.964285714286" YPOS="3740.89285714286" OwnPage="4" ItemID="737950596" PTYPE="4" WIDTH="46.6071428571429" HEIGHT="56.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L46.6071 0 L46.6071 56.25 L0 56.25 L0 0 Z" copath="M0 0 L46.6071 0 L46.6071 56.25 L0 56.25 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="401.25" YPOS="3597.33543307087" OwnPage="4" ItemID="738033172" PTYPE="4" WIDTH="50.2466929133859" HEIGHT="56.6929133858271" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L50.2467 0 L50.2467 56.6929 L0 56.6929 L0 0 Z" copath="M0 0 L50.2467 0 L50.2467 56.6929 L0 56.6929 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="400.473070866142" YPOS="3720" OwnPage="4" ItemID="738006292" PTYPE="4" WIDTH="55.9555005624298" HEIGHT="72.3214285714284" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L55.9555 0 L55.9555 72.3214 L0 72.3214 L0 0 Z" copath="M0 0 L55.9555 0 L55.9555 72.3214 L0 72.3214 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="596.063622047244" YPOS="3943.92857142857" OwnPage="4" ItemID="771406052" PTYPE="4" WIDTH="56.6929133858267" HEIGHT="53.5714285714284" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L56.6929 0 L56.6929 53.5714 L0 53.5714 L0 0 Z" copath="M0 0 L56.6929 0 L56.6929 53.5714 L0 53.5714 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="590.394330708661" YPOS="4003.39285714286" OwnPage="4" ItemID="738011476" PTYPE="4" WIDTH="62.6413835770529" HEIGHT="54.1071428571431" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L62.6414 0 L62.6414 54.1071 L0 54.1071 L0 0 Z" copath="M0 0 L62.6414 0 L62.6414 54.1071 L0 54.1071 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="585" YPOS="4063.92857142857" OwnPage="4" ItemID="800105812" PTYPE="4" WIDTH="68.0357142857142" HEIGHT="68.571428571428" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L68.0357 0 L68.0357 68.5714 L0 68.5714 L0 0 Z" copath="M0 0 L68.0357 0 L68.0357 68.5714 L0 68.5714 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="403.928571428571" YPOS="9493.41826771654" OwnPage="11" ItemID="800106868" PTYPE="4" WIDTH="247.5" HEIGHT="253.36744656918" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L247.5 0 L247.5 253.367 L0 253.367 L0 0 Z" copath="M0 0 L247.5 0 L247.5 253.367 L0 253.367 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="399.910714285714" YPOS="11607.3214285714" OwnPage="13" ItemID="737967940" PTYPE="4" WIDTH="43.6607142857143" HEIGHT="42.5892857142862" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L43.6607 0 L43.6607 42.5893 L0 42.5893 L0 0 Z" copath="M0 0 L43.6607 0 L43.6607 42.5893 L0 42.5893 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="261.505905509213" YPOS="10390.6179528047" OwnPage="12" ItemID="737954964" PTYPE="2" WIDTH="20.625" HEIGHT="18.77356299" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-rules/red-white.png" IRENDER="0" EMBEDDED="0" path="M0 0 L20.625 0 L20.625 18.7736 L0 18.7736 L0 0 Z" copath="M0 0 L20.625 0 L20.625 18.7736 L0 18.7736 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="184.316929133858" YPOS="5372.66393700787" OwnPage="6" ItemID="800175220" PTYPE="2" WIDTH="20.6250000000001" HEIGHT="18.773562992129" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-rules/red-white.png" IRENDER="0" EMBEDDED="0" path="M0 0 L20.625 0 L20.625 18.7736 L0 18.7736 L0 0 Z" copath="M0 0 L20.625 0 L20.625 18.7736 L0 18.7736 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
