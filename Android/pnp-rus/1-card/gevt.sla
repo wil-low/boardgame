@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.2">
+    <DOCUMENT ANZPAGES="26" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="&#10;powered by ScribusGenerator - https://github.com/berteh/ScribusGenerator/" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="20.0012598425197" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="None" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.5" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="Blue" RGB="#0000ff"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000"/>
+        <COLOR NAME="Green" RGB="#00ff00"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000"/>
+        <COLOR NAME="Red" RGB="#ff0000"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="1" LINESPMode="0" LINESP="9" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Times New Roman Regular" FONTSIZE="9" LANGUAGE="ru"/>
+        <STYLE NAME="Flavor" ALIGN="0" FIRST="8.50393700787402" FONT="Times New Roman Italic" LANGUAGE="ru"/>
+        <STYLE NAME="Title" FONT="FreeSerif Regular" FEATURES="smallcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="ru"/>
+        <STYLE NAME="Annotation" FONT="FreeSans Regular" FONTSIZE="5" LANGUAGE="en_GB"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="uk"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Фон" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="1" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="3" PDLanguage="3" markLength="0" markOffset="5.97554014819298e-310" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="20.0012598425197" PAGEYPOS="20.0012598425197" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="14.1732283464567" BORDERRIGHT="14.1732283464567" BORDERTOP="19.8425196850394" BORDERBOTTOM="42.5196850393701" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="20.0012598425197" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="307.92188976378" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="1" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="595.84251968504" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="2" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="883.7631496063" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="3" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="1171.68377952756" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="4" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="1459.60440944882" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="5" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="1747.52503937008" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="6" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="2035.44566929134" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="7" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="2323.3662992126" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="8" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="2611.28692913386" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="9" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="2899.20755905512" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="10" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="3187.12818897638" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="11" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="3475.04881889764" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="12" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="3762.9694488189" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="13" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="4050.89007874016" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="14" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="4338.81070866142" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="15" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="4626.73133858268" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="16" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="4914.65196850394" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="17" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="5202.5725984252" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="18" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="5490.49322834646" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="19" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="5778.41385826772" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="20" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="6066.33448818898" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="21" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="6354.25511811024" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="22" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="6642.1757480315" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="23" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="6930.09637795276" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="24" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="20.0012598425197" PAGEYPOS="7218.01700787402" PAGEWIDTH="161.52094488189" PAGEHEIGHT="247.92094488189" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="25" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="20.0012598425197" OwnPage="0" ItemID="846756190" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-1.4210854715202e-14" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="33.0932525741975" OwnPage="0" ItemID="578391406" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="13.0919927316778" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Дзинтеки ввязались в какую-то аферу"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="63.0932525741975" OwnPage="0" ItemID="1115981278" PTYPE="4" WIDTH="118.6875" HEIGHT="86.9067474258031" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 86.9067 L0 86.9067 L0 0 Z" copath="M0 0 L118.688 0 L118.688 86.9067 L0 86.9067 L0 0 Z" gXpos="21.41625" gYpos="43.0919927316778" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="&quot;Большие люди собираются встретиться в Levy University на этой неделе. Я не хочу вас учить, как вам делать свою работу, но департаменту не нужно никаких неприятностей на этой неделе. Это вам так, для ориентира&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="152.758909751666" OwnPage="0" ItemID="493151518" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="132.757649909146" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Председателя Хиро в Levy University (E1). Первый детектив, который потратит там 1 Помощь корпораций, может выбрать другого детектива. Этот детектив должен сбросить 1 жетон Заговора, Дзинтеки или Хааса (на выбор), если у него есть."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="307.921889763559" OwnPage="1" ItemID="1075522174" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-7.19716535433122" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="321.013882495559" OwnPage="1" ItemID="502786958" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="5.89482737734658" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Кейт сказала, что она хочет дать показания"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="351.013882495559" OwnPage="1" ItemID="774160542" PTYPE="4" WIDTH="118.6875" HEIGHT="74.986117504441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 74.9861 L0 74.9861 L0 0 Z" copath="M0 0 L118.688 0 L118.688 74.9861 L0 74.9861 L0 0 Z" gXpos="21.41625" gYpos="35.8948273773466" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="&quot;Она сказала, что у неё есть очень важная информация про одного из наших подозреваемых в убийстве. Поэтому мне нужен кто-нибудь, чтобы он поехал в Old War Memorial и поговорил с ней&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="437.84489400389" OwnPage="1" ItemID="1074140526" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="122.725838885524" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Кейт в Old War Memorial (B1). Первый детектив, который потратит там 3 Времени, может положить жетон алиби на любого подозреваемого по своему выбору."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="595.842519685228" OwnPage="2" ItemID="442154062" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-14.3943307086624" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="608.934512416228" OwnPage="2" ItemID="1084817006" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-1.30233797698464" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Симмонс предлагает новую машину на тест-драйв"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="638.934512416228" OwnPage="2" ItemID="411356446" PTYPE="4" WIDTH="118.6875" HEIGHT="42.815487583772" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 42.8155 L0 42.8155 L0 0 Z" copath="M0 0 L118.688 0 L118.688 42.8155 L0 42.8155 L0 0 Z" gXpos="21.41625" gYpos="28.6976620230154" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT FONTSIZE="9" CH="&quot;Это классная тачка. Хочешь попробовать? Я уверен, что исправил все возможные дефекты&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="695.055118110237" OwnPage="2" ItemID="1090119230" PTYPE="4" WIDTH="116.967027559055" HEIGHT="143.279527559055" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 143.28 L0 143.28 L0 0 Z" copath="M0 0 L116.967 0 L116.967 143.28 L0 143.28 L0 0 Z" gXpos="22.2764862204725" gYpos="84.8182677168703" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESP="8.5" FONTSIZE="8.5"/>
+                <ITEXT FONTSIZE="8.5" CH="Передвиньте жетон Симмонса в NAPD (I3). Первый детектив, который сбросит в этой локации хотя бы одну светлую карту, берёт себе спортивную машину (даже если она уже есть у другого детектива). Все сброшенные светлые карты кладутся перед детективом. В начале каждого хода он сбрасывает одну из них. Когда у него не остаётся карт, он возвращает машину Симмонсу и берёт себе свою старую машину."/>
+                <trail PARENT="Default Paragraph Style" LINESP="8.5"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="883.763149605896" OwnPage="3" ItemID="818221646" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-21.5914960629937" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="896.855142337896" OwnPage="3" ItemID="1072193470" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-8.49950333131586" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Танака замешан в чём-то серьёзном"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="926.855142337896" OwnPage="3" ItemID="1098525758" PTYPE="4" WIDTH="118.6875" HEIGHT="61.1580072683222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" gXpos="21.41625" gYpos="21.5004966686841" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT FONTSIZE="9" CH="&quot;Похоже, Танака занялся чем-то серьёзным. Берегитесь, ребятки&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="991.008988488896" OwnPage="3" ItemID="1118589950" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="85.6543428225303" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Танаки в Levy University (E1). Первый детектив, который потратит там 3 Времени, может положить жетон ранения на любого подозреваемого по своему выбору."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="1171.68377952457" OwnPage="4" ItemID="1085714014" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-28.7886614173249" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="1184.77577225457" OwnPage="4" ItemID="1092617038" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-15.6966686856471" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Директор Хаас осматривает свои владения"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="1214.77577225457" OwnPage="4" ItemID="1140980430" PTYPE="4" WIDTH="118.6875" HEIGHT="75.22422774543" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 75.2242 L0 75.2242 L0 0 Z" copath="M0 0 L118.688 0 L118.688 75.2242 L0 75.2242 L0 0 Z" gXpos="21.41625" gYpos="14.3033313143529" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="&quot;Внимание, ребята. Директор Хаас на этой неделе выберется для инспекции на свои объекты. Все их службы безопасности сейчас выбиваются из сил. Не мешайте им, хорошо?&quot;"/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="1290.26820109174" OwnPage="4" ItemID="988314910" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="89.7957601453644" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Директора Хаас в Haas-Bioroid (D7). Первый детектив, который использует свойство локации Haas-Bioroid, пока там находится Директор Хаас, получит дополнительный жетон Хаас."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="1459.60440945023" OwnPage="5" ItemID="1126598430" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-35.9858267716561" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="1472.69640218023" OwnPage="5" ItemID="1001242238" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-22.8938340399783" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Капитан Бэкман, мне нужна помощь"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="1502.69640218023" OwnPage="5" ItemID="1095496158" PTYPE="4" WIDTH="118.6875" HEIGHT="61.1580072683222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" gXpos="21.41625" gYpos="7.10616596002171" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT FONTSIZE="9" CH="&quot;Ха, так ты пришёл к старому псу за помощью? Ну да, как говорится, иногда старые приёмы – это лучшее решение&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="1566.85024833023" OwnPage="5" ItemID="489991214" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="71.2600121138679" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Капитана Бэкмана в Strugatsky Appartments (I2). Первый детектив, который потратит там 3 Времени, может выложить на поле 1 свой Ордер."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="1747.5250393659" OwnPage="6" ItemID="1140049582" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-43.1829921259873" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="1760.6170321059" OwnPage="6" ItemID="1151943806" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-30.0909993943095" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Директор Хаас предлагает прокатиться"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="1790.6170321059" OwnPage="6" ItemID="1108531854" PTYPE="4" WIDTH="118.6875" HEIGHT="61.1580072683222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" gXpos="21.41625" gYpos="-0.0909993943095131" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="&quot;Эй, там, залезай. Поедем покатаемся, заодно и поговорим&quot;."/>
+                <para/>
+                <ITEXT CH="&quot;А если я откажусь?&quot;"/>
+                <para/>
+                <ITEXT FONTSIZE="9" CH="&quot;Не стоит этого делать, поверь мне&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="1854.7708782559" OwnPage="6" ItemID="821803790" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="64.0628467595367" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Директора Хаас в Earthrise Hotel (F6). Первый детектив, который потратит там 2 Времени, выбирает другого детектива и передвигает его жетон в любую локацию на игровом поле."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="2035.44566929157" OwnPage="7" ItemID="1105874542" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-50.3801574803185" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="2047.97073288771" OwnPage="7" ItemID="410094462" PTYPE="4" WIDTH="114.904527559055" HEIGHT="23.7584009705574" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 23.7584 L0 23.7584 L0 0 Z" copath="M0 0 L114.905 0 L114.905 23.7584 L0 23.7584 L0 0 Z" gXpos="23.3077362204725" gYpos="-37.855093882499" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title" LINESP="8" FONTSIZE="8"/>
+                <ITEXT FONTSIZE="8" CH="Мистер Ли не любит кровопролитий на своей территории"/>
+                <trail PARENT="Title" LINESP="8"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="2078.53766202157" OwnPage="7" ItemID="978912926" PTYPE="4" WIDTH="118.6875" HEIGHT="71.8623379784299" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 71.8623 L0 71.8623 L0 0 Z" copath="M0 0 L118.688 0 L118.688 71.8623 L0 71.8623 L0 0 Z" gXpos="21.41625" gYpos="-7.28816474864073" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="&quot;По улицам ходят слухи, что мистер Ли оказывает давление на банды, чтобы они играли по правилам. Он может быть настоящей сволочью, но сейчас наши интересы совпадают&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="2156.86473652803" OwnPage="7" ItemID="994802574" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="71.0389097516622" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон мистера Ли в Cosmos Fine Dining (B4). Первый детектив, который потратит там 2 Времени, может убрать жетон ранения с любого подозреваемого по своему выбору."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="2323.36629921724" OwnPage="8" ItemID="1020051886" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-57.5773228346497" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="2336.45829194724" OwnPage="8" ItemID="1083505198" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-44.485330102972" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Симмонс предлагает новую машину на тест-драйв"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="2366.45829194724" OwnPage="8" ItemID="438429678" PTYPE="4" WIDTH="118.6875" HEIGHT="61.1580072683222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" gXpos="21.41625" gYpos="-14.485330102972" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT FONTSIZE="9" CH="&quot;Это классная тачка. Хочешь попробовать? Я уверен, что исправил все возможные дефекты&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="2611.28692913291" OwnPage="9" ItemID="1087929246" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-64.7744881889812" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="2624.37892186291" OwnPage="9" ItemID="739453102" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-51.6824954573034" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Капитан Бэкман может достать транспортник"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="2654.37892186291" OwnPage="9" ItemID="982281262" PTYPE="4" WIDTH="118.6875" HEIGHT="61.1580072683222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" gXpos="21.41625" gYpos="-21.6824954573034" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT FONTSIZE="9" CH="&quot;Да, конечно, я могу достать тебе челнок. Я знаю нескольких пилотов, и они мои должники&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="2718.53276802291" OwnPage="9" ItemID="1080313326" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="42.4713506965428" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Капитана Бэкмана в East Skyway Terminal (K2). Первый детектив, который потратит там 3 Времени, получает один жетон Транспорта."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="2899.20755905858" OwnPage="10" ItemID="1092231998" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-71.9716535433122" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="2912.29955178858" OwnPage="10" ItemID="1094191982" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-58.8796608116344" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Я наткнулся на что-то очень серьёзное"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="2942.29955178858" OwnPage="10" ItemID="1087249246" PTYPE="4" WIDTH="118.6875" HEIGHT="65.50044821142" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 65.5004 L0 65.5004 L0 0 Z" copath="M0 0 L118.688 0 L118.688 65.5004 L0 65.5004 L0 0 Z" gXpos="21.41625" gYpos="-28.8796608116344" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="&quot;Поспеши, я нашёл нечто очень крутое. Хотя, боюсь, это грозит мне неприятностями. Встретимся в Memories of Green сегодня вечером. Я буду в задней комнате&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="3012.12268927716" OwnPage="10" ItemID="1084899118" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="40.9434766807945" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESP="9" FONTSIZE="9"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Джимми-Стукача в локацию Memories of Green (K1). Первый детектив, который потратит там 2 Помощи политиков, может открыть 2 кусочка Заговора из любой стопки по своему выбору. Это действие не передвигает назад его маркер героя."/>
+                <para LINESP="9"/>
+                <ITEXT FONTSIZE="9" CH="После этого Джимми-Стукача убивают. Уберите его жетон из игры."/>
+                <trail PARENT="Default Paragraph Style" LINESP="9"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="3187.12818897425" OwnPage="11" ItemID="1072057310" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-79.1688188976432" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="3200.22018170425" OwnPage="11" ItemID="1073885278" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-66.0768261659654" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title" LINESP="8" FONTSIZE="8"/>
+                <ITEXT FONTSIZE="8" CH="Оливер, мне нужно, чтобы ты сохранил кое-что для меня"/>
+                <trail PARENT="Title" LINESP="8"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="3230.22018170425" OwnPage="11" ItemID="1084186510" PTYPE="4" WIDTH="118.6875" HEIGHT="61.1580072683222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" gXpos="21.41625" gYpos="-36.0768261659654" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="&quot;А это законно?&quot;"/>
+                <para PARENT="Flavor"/>
+                <ITEXT CH="&quot;Типа того. Но я бы не стал об этом болтать&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="3294.37402786425" OwnPage="11" ItemID="919192206" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="28.0770199878808" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Оливера в Blue Sun Stadium (H3). Первый детектив, который потратит там 2 Времени, может сбросить 2 жетона свидетельства с любого подозреваемого (или подозреваемых), не глядя в них."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="3475.04881889992" OwnPage="12" ItemID="1108231118" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-86.3659842519742" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="3488.14081162992" OwnPage="12" ItemID="1105244542" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-73.2739915202964" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="От Лили Локвелл опять неприятности"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="3518.14081162992" OwnPage="12" ItemID="1108295166" PTYPE="4" WIDTH="118.6875" HEIGHT="61.1580072683222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" gXpos="21.41625" gYpos="-43.2739915202964" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT FONTSIZE="9" CH="&quot;Эта женщина вообще умеет что-либо, кроме как доставлять неприятности?&quot;"/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="3582.29465777992" OwnPage="12" ItemID="1106220318" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="20.8798546335498" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Передвиньте жетон Лили Локвелл в локацию Broadcast Square (E3)."/>
+                <para/>
+                <ITEXT FONTSIZE="9" CH="Каждый игрок берёт 2 тёмные карты своего соседа слева."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="3762.96944881558" OwnPage="13" ItemID="865573822" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-93.5631496063052" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="3776.06144154558" OwnPage="13" ItemID="1099851134" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-80.4711568746274" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Кейт связана с кем-то очень могущественным"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="3806.06144154558" OwnPage="13" ItemID="408234398" PTYPE="4" WIDTH="118.6875" HEIGHT="65.8135584544211" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 65.8136 L0 65.8136 L0 0 Z" copath="M0 0 L118.688 0 L118.688 65.8136 L0 65.8136 L0 0 Z" gXpos="21.41625" gYpos="-50.4711568746274" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="&quot;Ты просто не понимаешь, с какими людьми ты столкнулся. Если одному из них не нравится кофе, которое ему подали на завтрак, цены на кофе-бобы на бирже начинают падать&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="3878.71922471345" OwnPage="13" ItemID="774316174" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="22.1866262870928" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Кейт в Monroe&amp;Associates (H3). Первый детектив, который потратит там 2 Времени, может выбрать другого детектива. Этот детектив должен сбросить по одной жетон обычной Помощи каждого типа."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="4050.89007874125" OwnPage="14" ItemID="578308462" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-100.760314960636" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="4063.98207147125" OwnPage="14" ItemID="597755214" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-87.6683222289579" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Будь осторожен, пресса что-то разнюхивает"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="4093.98207147125" OwnPage="14" ItemID="483663054" PTYPE="4" WIDTH="118.6875" HEIGHT="61.1580072683222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" gXpos="21.41625" gYpos="-57.6683222289579" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT FONTSIZE="9" CH="&quot;Слушайте все, мы должны действовать сплочённо и представлять собой единую команду, иначе пресса сожрёт нас&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="4158.13591762125" OwnPage="14" ItemID="648477694" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="6.4855239248883" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Передвиньте жетон Лили Локвелл в локацию NAPD (I3)."/>
+                <para/>
+                <ITEXT FONTSIZE="9" CH="Каждый игрок берёт 2 тёмные карты своего соседа справа."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="4338.81070865692" OwnPage="15" ItemID="906754750" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-107.957480314967" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="4351.90270139692" OwnPage="15" ItemID="411409342" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-94.8654875832893" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Нельзя быть такими бесцеремонными"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="4381.90270139692" OwnPage="15" ItemID="1071983086" PTYPE="4" WIDTH="118.6875" HEIGHT="71.5972986030811" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 71.5973 L0 71.5973 L0 0 Z" copath="M0 0 L118.688 0 L118.688 71.5973 L0 71.5973 L0 0 Z" gXpos="21.41625" gYpos="-64.8654875832893" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="&quot;Я здесь по поручению Гражданского совета. NAPD превысила свои полномочия. Мы живём в свободной стране, и вы не можете делать всё, что вам заблагорассудится&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="4454.5604845548" OwnPage="15" ItemID="941376494" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="7.79229557843087" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Передвиньте жетон Отца Михаила в локацию City Hall (A2)."/>
+                <para/>
+                <ITEXT FONTSIZE="9" CH="Первый детектив, который потратит там 2 Времени, может взять любой Ордер на поле и вернуть его владельцу в стопку неиспользованных Ордеров."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="4626.73133858259" OwnPage="16" ItemID="660982302" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-115.154645669299" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="4639.82333131259" OwnPage="16" ItemID="991746734" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-102.062652937621" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Мистер Ли разбирается с делами"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="4669.82333131259" OwnPage="16" ItemID="1076745006" PTYPE="4" WIDTH="118.6875" HEIGHT="61.1580072683222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" gXpos="21.41625" gYpos="-72.0626529376208" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT FONTSIZE="9" CH="&quot;Сейчас в криминальном мире происходят серьёзные вещи. Всем вести себя очень осторожно&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="4733.97717747259" OwnPage="16" ItemID="1116382942" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="-7.90880678377459" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон мистера Ли в Midway (F4). Первый детектив, который потратит там 3 Времени, получает по одной обычной Помощи каждого типа."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="4914.65196850826" OwnPage="17" ItemID="622867742" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-122.35181102363" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="4927.74396123826" OwnPage="17" ItemID="1089510606" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-109.259818291952" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Председатель Хиро осматривает свои владения"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="4957.74396123826" OwnPage="17" ItemID="739682990" PTYPE="4" WIDTH="118.6875" HEIGHT="79.2560387617405" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 79.256 L0 79.256 L0 0 Z" copath="M0 0 L118.688 0 L118.688 79.256 L0 79.256 L0 0 Z" gXpos="21.41625" gYpos="-79.2598182919522" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="&quot;Внимание, ребята. Председатель Хиро из Дзинтеки сейчас находится в инспекционной поездке. Если со стороны Дзинтеки поступят тревожные сигналы, будьте готовы среагировать немедленно&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="5038.90568140401" OwnPage="17" ItemID="786469150" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="1.90190187764203" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Председателя Хиро в Jinteki (D3). Первый детектив, который использует свойство локации Jinteki, пока там находится Председатель Хиро, получает дополнительный жетон Дзинтеки."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="5202.57259842393" OwnPage="18" ItemID="1096673822" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-129.548976377961" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="5215.66459115393" OwnPage="18" ItemID="1147531662" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-116.456983646284" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Джимми-Стукач хочет поговорить"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="5245.66459115393" OwnPage="18" ItemID="1047376846" PTYPE="4" WIDTH="118.6875" HEIGHT="81.210408846071" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 81.2104 L0 81.2104 L0 0 Z" copath="M0 0 L118.688 0 L118.688 81.2104 L0 81.2104 L0 0 Z" gXpos="21.41625" gYpos="-86.4569836462837" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="&quot;Послушай, я могу кое-что рассказать, но мне нужна защита, понятно? Улицы сейчас – это очень неприятное место. Делишки Кулака Человечества воняют очень сильно, и много шишек вовлечено в них&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="5326.82631132968" OwnPage="18" ItemID="830977806" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="-5.29526347668946" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Джимми-Стукача в Tony's Flophouse (J3). Первый детектив, который потратит там одну Помощь общества, может выбрать один из типов свидетельств (свидетельские, документальные или вещественные улики) и открыть все улики этого типа на всех подозреваемых."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="5490.4932283496" OwnPage="19" ItemID="623126318" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-136.746141732293" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="5503.30175651267" OwnPage="19" ItemID="1096173006" PTYPE="4" WIDTH="114.904527559055" HEIGHT="23.5397789204007" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 23.5398 L0 23.5398 L0 0 Z" copath="M0 0 L114.905 0 L114.905 23.5398 L0 23.5398 L0 0 Z" gXpos="23.3077362204725" gYpos="-123.937613567544" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title" LINESP="8" FONTSIZE="8.5"/>
+                <ITEXT FONTSIZE="8.5" CH="Джимми говорит, что у него есть суперинформация для тебя"/>
+                <trail PARENT="Title" LINESP="8"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="5533.5852210796" OwnPage="19" ItemID="1094813566" PTYPE="4" WIDTH="118.6875" HEIGHT="61.1580072683222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" gXpos="21.41625" gYpos="-93.6541490006151" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT FONTSIZE="9" CH="&quot;Ты должен это узнать! Это настоящая бомба!&quot;"/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="5597.7390672296" OwnPage="19" ItemID="1095300990" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="-29.5003028467689" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Джимми-Стукача в Old War Memorial (В1). Первый детектив, который потратит там по одной жетону каждого вида обычной Помощи, может посмотреть обе не розданные карты подозреваемых."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="5778.41385826527" OwnPage="20" ItemID="1083492718" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-143.943307086624" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="5791.50585099527" OwnPage="20" ItemID="1106501406" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-130.851314354947" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Показания Танаки очень важны для дела"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="5821.50585099527" OwnPage="20" ItemID="1079946126" PTYPE="4" WIDTH="118.6875" HEIGHT="61.1580072683222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" gXpos="21.41625" gYpos="-100.851314354947" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT FONTSIZE="9" CH="&quot;С учётом услышанного, если мы сможем привлечь Танаку как свидетеля, это поможет нам уничтожить алиби защиты&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="5885.65969715527" OwnPage="20" ItemID="1123332926" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="-36.6974682011004" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Передвиньте жетон Танаки в Wyldside (G8)."/>
+                <para/>
+                <ITEXT FONTSIZE="9" CH="Первый детектив, который потратит там 2 Времени, может убрать 1 алиби с любого подозреваемого по своему выбору."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="6066.33448819093" OwnPage="21" ItemID="1074199262" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-151.140472440956" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="6079.42648092093" OwnPage="21" ItemID="515438478" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-138.048479709278" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Отец Михаил предлагает свою помощь"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="6109.42648092093" OwnPage="21" ItemID="543920318" PTYPE="4" WIDTH="118.6875" HEIGHT="61.1580072683222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.158 L0 61.158 L0 0 Z" gXpos="21.41625" gYpos="-108.048479709278" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT FONTSIZE="9" CH="&quot;Отец Михаил предлагает свою помощь любому попавшему в беду сотруднику полиции. Если вы нуждаетесь с ней – обращайтесь без промедления&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="6173.58032707093" OwnPage="21" ItemID="1114782110" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="-43.8946335554318" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Отца Михаила в Church of St. Theresa (K3). Первый детектив, который потратит там 3 Времени, может сбросить до 5 жетонов травмы."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="6354.2551181066" OwnPage="22" ItemID="1079497150" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-158.337637795287" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="6367.3471108466" OwnPage="22" ItemID="777198270" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-145.245645063609" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT FONTSIZE="9" CH="Оливер, скажи мне, что ты видел?"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="6397.3471108466" OwnPage="22" ItemID="1079918382" PTYPE="4" WIDTH="118.6875" HEIGHT="74.0278891534017" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 74.0279 L0 74.0279 L0 0 Z" copath="M0 0 L118.688 0 L118.688 74.0279 L0 74.0279 L0 0 Z" gXpos="21.41625" gYpos="-115.245645063609" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="&quot;Посмотри на фотографию. Ты этого человека видел?&quot;"/>
+                <para PARENT="Flavor"/>
+                <ITEXT CH="&quot;Да, точно, он говорил по телефону и обсуждал нечто интересное. Я думал, тебе будет интересно это услышать&quot;."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="6478.50883101235" OwnPage="22" ItemID="1084513038" PTYPE="4" WIDTH="116.967027559055" HEIGHT="121.837494447809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" copath="M0 0 L116.967 0 L116.967 121.837 L0 121.837 L0 0 Z" gXpos="22.2764862204725" gYpos="-34.0839248940153" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT FONTSIZE="9" CH="Передвиньте жетон Оливера в Emvee's Electronics (I2). Первый детектив, который потратит 1 Помощь улиц, может взять случайным образом 2 жетона свидетельства из пула, посмотреть на них и положить их на подозреваемого (или подозреваемых), как улики любого типа (по его выбору)"/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="6642.17574802786" OwnPage="23" ItemID="856321278" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame-exp.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-158.337637795287" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="6655.26774076786" OwnPage="23" ItemID="1103523470" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-145.245645063609" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT CH="Мы следим за вашим свободным падением…"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="6685.26774076786" OwnPage="23" ItemID="642125038" PTYPE="4" WIDTH="118.6875" HEIGHT="96.6072592321416" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 96.6073 L0 96.6073 L0 0 Z" copath="M0 0 L118.688 0 L118.688 96.6073 L0 96.6073 L0 0 Z" gXpos="21.41625" gYpos="-115.245645063609" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor" LINESP="8.5" FONTSIZE="8.5"/>
+                <ITEXT FONTSIZE="8.5" CH="&quot;Я хочу, чтобы вы остановили переправу до дальнейших указаний&quot;."/>
+                <para PARENT="Flavor" LINESP="8.5"/>
+                <ITEXT FONTSIZE="8.5" CH="&quot;Мы не можем этого сделать!&quot;"/>
+                <para PARENT="Flavor" LINESP="8.5"/>
+                <ITEXT FONTSIZE="8.5" CH="&quot;Конечно, можете. Звоните в SEA Control и говорите: &quot;У меня ЧП, остановите переправу&quot;."/>
+                <para PARENT="Flavor" LINESP="8.5"/>
+                <ITEXT FONTSIZE="8.5" CH="&quot;Надолго?&quot;"/>
+                <para PARENT="Flavor" LINESP="8.5"/>
+                <ITEXT FONTSIZE="8.5" CH="&quot;Пока я не разрешу&quot;."/>
+                <trail PARENT="Flavor" LINESP="8.5"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="6790.46751968505" OwnPage="23" ItemID="1082493998" PTYPE="4" WIDTH="116.967027559055" HEIGHT="100.634081365667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 100.634 L0 100.634 L0 0 Z" copath="M0 0 L116.967 0 L116.967 100.634 L0 100.634 L0 0 Z" gXpos="22.2764862204725" gYpos="-10.0458661425818" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESP="8.5" FONTSIZE="8.5"/>
+                <ITEXT FONTSIZE="8.5" CH="Положите жетон ранения на каждого подозреваемого, находящегося на Космическом лифте. В этот ход детективы не могут передвигаться между Challenger Memorial Ferry и Starport Kaguya, кроме как используя Транспорт."/>
+                <trail PARENT="Default Paragraph Style" LINESP="8.5"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="6930.09637794912" OwnPage="24" ItemID="1078099902" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame-exp.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-158.337637795287" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="6943.18837068912" OwnPage="24" ItemID="1111599358" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-145.245645063609" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT CH="По-простому – это голем"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="6973.18837068912" OwnPage="24" ItemID="1132411950" PTYPE="4" WIDTH="118.6875" HEIGHT="61.4366293108815" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 61.4366 L0 61.4366 L0 0 Z" copath="M0 0 L118.688 0 L118.688 61.4366 L0 61.4366 L0 0 Z" gXpos="21.41625" gYpos="-115.245645063609" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor"/>
+                <ITEXT CH="Напротив меня на подоконнике растянулся человек. &quot;Ты проснулся, Дрейк 3GI2RC?&quot;"/>
+                <para PARENT="Flavor"/>
+                <ITEXT CH="&quot;Биороиды не спят&quot;."/>
+                <para PARENT="Flavor"/>
+                <ITEXT CH="Человек усмехнулся."/>
+                <trail PARENT="Flavor"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="7035.62893700787" OwnPage="24" ItemID="1128282078" PTYPE="4" WIDTH="116.967027559055" HEIGHT="137.72400262551" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 137.724 L0 137.724 L0 0 Z" copath="M0 0 L116.967 0 L116.967 137.724 L0 137.724 L0 0 Z" gXpos="22.2764862204725" gYpos="-52.8050787410078" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Переместите Томаса Хааса в Strugatsky Apartments (I2). Первый детектив, который потратит там 2 Времени, берёт эту карту и кладёт перед собой. Когда другой детектив кладёт жетон свидетельства на подозреваемого, вы можете сбросить эту карту, чтобы посмотреть на значение этого жетона и вернуть его обратно лицом вниз."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="20.0012598425197" YPOS="7218.01700787038" OwnPage="25" ItemID="1074239646" PTYPE="2" WIDTH="161.52" HEIGHT="247.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img-gevt/frame-exp.png" IRENDER="0" EMBEDDED="0" path="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" copath="M0 0 L161.52 0 L161.52 247.92 L0 247.92 L0 0 Z" gXpos="-1.4210854715202e-14" gYpos="-158.337637795287" gWidth="325.52" gHeight="247.92" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="43.3089960629922" YPOS="7231.10900061038" OwnPage="25" ItemID="1053513886" PTYPE="4" WIDTH="114.904527559055" HEIGHT="21.8789718352514" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" copath="M0 0 L114.905 0 L114.905 21.879 L0 21.879 L0 0 Z" gXpos="23.3077362204725" gYpos="-145.245645063609" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Title"/>
+                <ITEXT CH="Видишь это, это и это? Точно."/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="41.4175098425197" YPOS="7261.10900061038" OwnPage="25" ItemID="708074222" PTYPE="4" WIDTH="118.6875" HEIGHT="105.390999389622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 105.391 L0 105.391 L0 0 Z" copath="M0 0 L118.688 0 L118.688 105.391 L0 105.391 L0 0 Z" gXpos="21.41625" gYpos="-115.245645063609" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Flavor" LINESP="8" FONTSIZE="8"/>
+                <ITEXT FONTSIZE="8" CH="На бульваре, главном уровне Humanity Labor, царил хаос. Когда-то здесь были респектабельные офисы. Какое-либо подобие порядка – организованное сопротивление или отряды полиции – давно исчезло, если вообще когда-то имело место. Невозможно было определить, кто какую часть уровня пытается удержать – везде стоял чудовищный, безудержный гул."/>
+                <trail PARENT="Flavor" LINESP="8"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="7374.62893700788" OwnPage="25" ItemID="409655918" PTYPE="4" WIDTH="116.967027559055" HEIGHT="86.6446325467704" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 86.6446 L0 86.6446 L0 0 Z" copath="M0 0 L116.967 0 L116.967 86.6446 L0 86.6446 L0 0 Z" gXpos="22.2764862204725" gYpos="-1.72570866226793" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Каждый игрок может немедленно положить Ордер на Humanity Labor (H1). Если один из подозреваемых убит, когда эта карта в игре, каждый игрок убирает свой Ордер с Humanity Labor."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="42.2777460629922" YPOS="2422.5788976378" OwnPage="8" ItemID="1139522574" PTYPE="4" WIDTH="116.967027559055" HEIGHT="143.279527559055" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.967 0 L116.967 143.28 L0 143.28 L0 0 Z" copath="M0 0 L116.967 0 L116.967 143.28 L0 143.28 L0 0 Z" gXpos="22.2764862204725" gYpos="84.8182677168703" gWidth="325.52" gHeight="247.92" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESP="8.5" FONTSIZE="8.5"/>
+                <ITEXT FONTSIZE="8.5" CH="Передвиньте жетон Симмонса в NAPD (I3). Первый детектив, который сбросит в этой локации хотя бы одну светлую карту, берёт себе спортивную машину (даже если она уже есть у другого детектива). Все сброшенные светлые карты кладутся перед детективом. В начале каждого хода он сбрасывает одну из них. Когда у него не остаётся карт, он возвращает машину Симмонсу и берёт себе свою старую машину."/>
+                <trail PARENT="Default Paragraph Style" LINESP="8.5"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

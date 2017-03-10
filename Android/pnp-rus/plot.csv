@@ -1,0 +1,168 @@
+ex	plot-page001	plot-04
+ex	plot-page002	plot-05
+ex	plot-page003	plot-06
+ex	plot-page004	plot-07
+ex	plot-page005	plot-08
+ex	plot-page006	plot-09
+ex	plot-page007	plot-10
+ex	plot-page008	plot-11
+ex	plot-page009	plot-12
+		
+ex	plot-page010	plot-6_back
+ex	plot-page011	plot-5_back
+ex	plot-page012	plot-4_back
+ex	plot-page013	plot-9_back
+ex	plot-page014	plot-8_back
+ex	plot-page015	plot-7_back
+ex	plot-page016	plot-12_back
+ex	plot-page017	plot-11_back
+ex	plot-page018	plot-10_back
+		
+		
+ex	plot-page019	plot-19
+ex	plot-page020	plot-20
+ex	plot-page021	plot-21
+ex	plot-page022	plot-22
+ex	plot-page023	plot-23
+ex	plot-page024	plot-24
+ex	plot-page025	plot-25
+ex	plot-page026	plot-26
+ex	plot-page027	plot-27
+		
+ex	plot-page028	plot-21_back
+ex	plot-page029	plot-20_back
+ex	plot-page030	plot-19_back
+ex	plot-page031	plot-24_back
+ex	plot-page032	plot-23_back
+ex	plot-page033	plot-22_back
+ex	plot-page034	plot-27_back
+ex	plot-page035	plot-26_back
+ex	plot-page036	plot-25_back
+		
+		
+ex	plot-page037	plot-28
+ex	plot-page038	plot-29
+ex	plot-page039	plot-30
+ex	plot-page040	plot-31
+ex	plot-page041	plot-32
+ex	plot-page042	plot-33
+ex	plot-page043	plot-34
+ex	plot-page044	plot-35
+ex	plot-page045	plot-36
+		
+ex	plot-page046	plot-30_back
+ex	plot-page047	plot-29_back
+ex	plot-page048	plot-28_back
+ex	plot-page049	plot-33_back
+ex	plot-page050	plot-32_back
+ex	plot-page051	plot-31_back
+ex	plot-page052	plot-36_back
+ex	plot-page053	plot-35_back
+ex	plot-page054	plot-34_back
+		
+		
+ex	plot-page055	plot-37
+ex	plot-page056	plot-38
+ex	plot-page057	plot-39
+ex	plot-page058	plot-40
+ex	plot-page059	plot-41
+ex	plot-page060	plot-42
+ex	plot-page061	plot-43
+ex	plot-page062	plot-44
+ex	plot-page063	plot-45
+		
+ex	plot-page064	plot-39_back
+ex	plot-page065	plot-38_back
+ex	plot-page066	plot-37_back
+ex	plot-page067	plot-42_back
+ex	plot-page068	plot-41_back
+ex	plot-page069	plot-40_back
+ex	plot-page070	plot-45_back
+ex	plot-page071	plot-44_back
+ex	plot-page072	plot-43_back
+		
+		
+		
+ex	plot-page073	plot-1__1
+ex	plot-page074	plot-1__2
+ex	plot-page075	plot-1__3
+ex	plot-page076	plot-2__1
+ex	plot-page077	plot-2__2
+ex	plot-page078	plot-2__3
+ex	plot-page079	plot-3__1
+ex	plot-page080	plot-3__2
+ex	plot-page081	plot-3__3
+		
+tl		plot-1__back
+tl		plot-1__back
+tl		plot-1__back
+tl		plot-2__back
+tl		plot-2__back
+tl		plot-2__back
+tl		plot-3__back
+tl		plot-3__back
+tl		plot-3__back
+		
+		
+		
+ex	plot-page082	plot-5__1
+ex	plot-page083	plot-5__2
+ex	plot-page084	plot-5__3
+ex	plot-page085	plot-4__1
+ex	plot-page086	plot-4__2
+ex	plot-page087	plot-13
+ex	plot-page088	plot-14
+ex	plot-page089	plot-15
+ex	plot-page090	plot-16
+		
+tl		plot-5__back
+tl		plot-5__back
+tl		plot-5__back
+ex	plot-page091	plot-13_back
+tl		plot-4__back
+tl		plot-4__back
+ex	plot-page092	plot-16_back
+ex	plot-page093	plot-15_back
+ex	plot-page094	plot-14_back
+		
+		
+ex	plot-page095	plot-17
+ex	plot-page096	plot-18
+ex	plot-page099	spec-Caprice
+ex	plot-page100	spec-Floyd_1
+ex	plot-page101	spec-Floyd_2
+ex	plot-page102	spec-Floyd_3
+ex	plot-page103	spec-Raymond_1
+ex	plot-page104	spec-Raymond_2
+ex	plot-page105	spec-Raymond_3
+		
+tl		blank
+ex	plot-page097	plot-18_back
+ex	plot-page098	plot-17_back
+tl		spec-Floyd_3_back
+tl		spec-Floyd_2_back
+tl		spec-Floyd_1_back
+tl		spec-Raymond_back
+tl		spec-Raymond_back
+tl		spec-Raymond_back
+		
+		
+ex	plot-page106	spec-Raymond_4
+ex	plot-page107	spec-Raymond_5
+ex	plot-page108	spec-Louis
+ex	plot-page110	spec-Rachel
+tl		blank
+tl		blank
+tl		blank
+tl		blank
+tl		blank
+		
+ex	plot-page109	spec-Louis_back
+tl		spec-Raymond_back
+tl		spec-Raymond_back
+tl		blank
+tl		blank
+tl		blank
+tl		blank
+tl		blank
+tl		blank
