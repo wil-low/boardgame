@@ -1189,7 +1189,7 @@
         <PAGEOBJECT XPOS="41.4175098425197" YPOS="4381.90270139692" OwnPage="15" ItemID="1111680462" PTYPE="4" WIDTH="118.6875" HEIGHT="66.6687271745095" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 66.6687 L0 66.6687 L0 0 Z" copath="M0 0 L118.688 0 L118.688 66.6687 L0 66.6687 L0 0 Z" gXpos="21.41625" gYpos="-64.8654875832893" gWidth="325.52" gHeight="247.92" PSTYLE="Flavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Flavor" LINESP="7" FONTSIZE="7"/>
-                <ITEXT FONTSIZE="7" CH="&quot;Вы должны понять, что Ева не способна на убийство. Она и я – между нами есть что-то особенное, и если вы докажете её невиновность, я помогу вам – я могу содействовать вашей карьере, снабдить вас деньгами, всё, что вы захотите. Только, пожалуйста, не позвольте им забрать её у меня&quot;."/>
+                <ITEXT FONTSIZE="7" CH="&quot;Вы должны понять, что Ева не способна на убийство. Она и я – между нами есть что-то особенное, и если вы докажете её невиновность, я помогу вам – я могу содействовать вашей карьере, снабдить вас деньгами, всё, что вы захотите. Только, пожалуйста, не дайте им забрать её у меня&quot;."/>
                 <trail PARENT="Flavor" LINESP="7"/>
             </StoryText>
         </PAGEOBJECT>

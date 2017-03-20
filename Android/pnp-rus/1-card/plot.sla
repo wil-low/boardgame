@@ -240,7 +240,7 @@
         <PAGEOBJECT XPOS="41.4175098425197" YPOS="63.0932525741975" OwnPage="0" ItemID="554834694" PTYPE="4" WIDTH="118.6875" HEIGHT="112.406747425803" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 112.407 L0 112.407 L0 0 Z" copath="M0 0 L118.688 0 L118.688 112.407 L0 112.407 L0 0 Z" gXpos="21.41625" gYpos="43.0919927316778" gWidth="325.52" gHeight="247.92" PSTYLE="PlotFlavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="PlotFlavor" LINESP="7.5" FONTSIZE="7.5"/>
-                <ITEXT FONTSIZE="7.5" CH="Луи поглядел на тело, лежащее на полу, и почувствовал укол сожаления."/>
+                <ITEXT FONTSIZE="7.5" CH="Луи посмотрел на тело, лежащее на полу, и почувствовал укол сожаления."/>
                 <para LINESP="7.5"/>
                 <ITEXT FONTSIZE="7.5" CH="&quot;Я сожалею, что до этого дошло, Ли, но я должен Джиму, а это был единственный способ выполнить обещание&quot;."/>
                 <para LINESP="7.5"/>
@@ -485,7 +485,7 @@
         <PAGEOBJECT XPOS="41.4175098425197" YPOS="1790.6170321059" OwnPage="6" ItemID="460344614" PTYPE="4" WIDTH="118.6875" HEIGHT="110.458063507143" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 110.458 L0 110.458 L0 0 Z" copath="M0 0 L118.688 0 L118.688 110.458 L0 110.458 L0 0 Z" gXpos="21.41625" gYpos="-0.0909993943095131" gWidth="325.52" gHeight="247.92" PSTYLE="PlotFlavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="PlotFlavor"/>
-                <ITEXT CH="Луи внезапно проснулся. Один фрагмент сна дал подсказал ему мысль, которая связала разрозненную картину в его голове. Он моргнул, потом вскочил с кровати, вск ещё путаясь в мыслях. &quot;Почему я этого раньше не видел? Два убийства связаны! Если я раскрою одно, то и другое тоже&quot;. "/>
+                <ITEXT CH="Луи внезапно проснулся. Один фрагмент сна подсказал ему мысль, которая связала разрозненную картину в его голове. Он моргнул, потом вскочил с кровати, всё ещё путаясь в мыслях. &quot;Почему я этого раньше не видел? Два убийства связаны! Если я раскрою одно, то и другое тоже&quot;. "/>
                 <para/>
                 <ITEXT CH="Он выскочил на улицу, и тут же раздался женский крик. Луи в смущении вернулся домой, чтобы надеть штаны."/>
                 <trail PARENT="PlotFlavor"/>
@@ -1259,7 +1259,7 @@
         <PAGEOBJECT XPOS="63.5878937007874" YPOS="7519.02963052928" OwnPage="26" ItemID="428825942" PTYPE="4" WIDTH="74.3467322834646" HEIGHT="19.5576923076923" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L74.3467 0 L74.3467 19.5577 L0 19.5577 L0 0 Z" copath="M0 0 L74.3467 0 L74.3467 19.5577 L0 19.5577 L0 0 Z" gXpos="43.5866338582677" gYpos="-174.034306480935" gWidth="325.52" gHeight="247.92" PSTYLE="PlotTitle" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="PlotTitle"/>
-                <ITEXT CH="Я буду следовать моему долгу"/>
+                <ITEXT CH="Я буду следовать своему долгу"/>
                 <trail PARENT="PlotTitle"/>
             </StoryText>
         </PAGEOBJECT>
@@ -3430,7 +3430,7 @@
                 <ITEXT CH="Если Флойд выбирает этот вариант, то верните его Третью Директиву в коробку."/>
                 <para/>
                 <ITEXT CH="Продолжение: "/>
-                <ITEXT FONT="Times New Roman Bold Italic" CH="&quot;Я буду следовать моему долгу&quot;"/>
+                <ITEXT FONT="Times New Roman Bold Italic" CH="&quot;Я буду следовать своему долгу&quot;"/>
                 <trail PARENT="GoodBad"/>
             </StoryText>
         </PAGEOBJECT>
@@ -3463,7 +3463,7 @@
         <PAGEOBJECT XPOS="41.4175098425197" YPOS="21654.3058510378" OwnPage="75" ItemID="469784230" PTYPE="4" WIDTH="118.6875" HEIGHT="98.6402906944968" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 98.6403 L0 98.6403 L0 0 Z" copath="M0 0 L118.688 0 L118.688 98.6403 L0 98.6403 L0 0 Z" gXpos="21.41625" gYpos="-499.530054512433" gWidth="325.52" gHeight="247.92" PSTYLE="PlotFlavor" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="PlotFlavor" FONTSIZE="7"/>
-                <ITEXT FONTSIZE="7" CH="Луи задумался, глядя на старую, потрёпанную папку с делом, перебирая в памяти каждый день расследования за эти годы. &quot;Двадцать лет, а я так и не раскрыл его. Может быть, никогда не раскрою&quot;. Он провёл рукой по волосам. &quot;Чёрт, я такой неудачник. Единственное дело… которое я поклялся раскрыть… Что я скажу в этом году его матери?&quot;"/>
+                <ITEXT FONTSIZE="7" CH="Луи задумался, глядя на старую, потрёпанную папку с делом, перебирая в памяти каждый день расследования за эти годы. &quot;Двадцать лет, а я так и не раскрыл его. Может быть, никогда не раскрою&quot;. Он провёл рукой по волосам. &quot;Чёрт, я такой неудачник. Единственное дело… которое я поклялся раскрыть… Что я скажу в этом году её матери?&quot;"/>
                 <para/>
                 <ITEXT FONTSIZE="7" CH="Он сжал кулаки. &quot;Нет, не важно, что я думаю, это дело будет раскрыто&quot;."/>
                 <trail PARENT="PlotFlavor"/>
@@ -3531,7 +3531,7 @@
         <PAGEOBJECT XPOS="41.4175098425197" YPOS="22054.1929658559" OwnPage="76" ItemID="390800294" PTYPE="4" WIDTH="118.6875" HEIGHT="35.1620734908133" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Orange" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 35.1621 L0 35.1621 L0 0 Z" copath="M0 0 L118.688 0 L118.688 35.1621 L0 35.1621 L0 0 Z" gXpos="21.41625" gYpos="-394.760734908152" gWidth="325.52" gHeight="247.92" PSTYLE="GoodBad" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="GoodBad"/>
-                <ITEXT CH="Луи получает 1 позитивный опыт каждый раз, когда жертвует 2 Времени или 3 светлых карты."/>
+                <ITEXT CH="Луи получает 1 позитивный опыт каждый раз, когда жертвует 2 Времени или 3 светлые карты."/>
                 <para/>
                 <ITEXT CH="Продолжение: "/>
                 <ITEXT FONT="Times New Roman Bold Italic" CH="&quot;Это твой последний шанс&quot;"/>
@@ -3541,7 +3541,7 @@
         <PAGEOBJECT XPOS="41.4175098425197" YPOS="22101.3583202559" OwnPage="76" ItemID="340961926" PTYPE="4" WIDTH="118.6875" HEIGHT="35.3913910301671" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Grey2" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L118.688 0 L118.688 35.3914 L0 35.3914 L0 0 Z" copath="M0 0 L118.688 0 L118.688 35.3914 L0 35.3914 L0 0 Z" gXpos="21.41625" gYpos="-347.595380577443" gWidth="325.52" gHeight="247.92" PSTYLE="GoodBad" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="GoodBad"/>
-                <ITEXT CH="Луи получает 1 негативный опыт каждый раз, когда другой игрок жертвует 2 тёмных карты и 1 Время."/>
+                <ITEXT CH="Луи получает 1 негативный опыт каждый раз, когда другой игрок жертвует 2 тёмные карты и 1 Время."/>
                 <para/>
                 <ITEXT CH="Продолжение: "/>
                 <ITEXT FONT="Times New Roman Bold Italic" CH="&quot;Я сняла себе квартиру&quot;"/>
