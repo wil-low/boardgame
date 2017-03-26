@@ -38,7 +38,7 @@ foreach my $csv(@csvs) {
 	}
 	close (IN);
 	close (OUT);
-	my $cmd = "montage \@$tempfile -tile 3x3 -geometry +0+0 img-cards/$csv-%02d.png";
+	my $cmd = "gm montage \@$tempfile +adjoin -tile 3x3 -geometry +0+0 img-cards/$csv-%02d.png";
 	print "$cmd\n";
 	system ($cmd);
 }
