@@ -5,36 +5,7 @@ use warnings;
 use JSON;
 use Data::Dumper;
 
-my @csv_files = (
-#	'Afflictions',
-#	'Alert',
-#	'Apex - Acrocanthosaurus',
-	'Apex - Carcharodon',
-	'Apex - Carnotaurus',
-	'Apex - Giganotosaurus',
-	'Apex - Promethean Wars',
-	'Apex - Saurophaganax',
-	'Apex - Spinosaurus',
-	'Apex - Suchomimus',
-	'Apex - Therizinosaurus',
-	'Apex - Tyrannosaurus',
-	'Apex - Utahraptor',
-	'Apex - Velociraptor',
-#	'Boss',
-	'Defensive Stance & Disaster Area',
-	'Environment',
-	'Evolve',
-	'Hunt - Big Game',
-	'Hunt - Menace',
-	'Hunt - Minion',
-	'Hunt - Predator',
-	'Hunt - Prey',
-	'Hunt - Titan',
-	'Solo Afflictions',
-	'Starting Deck',
-	'Stomping Dead - Afflcition Deck',
-	'Stomping Dead - Environment Cards',
-);
+my @csv_files = qw (apex other multi);
 
 if (defined ($ARGV[0])) {
 	@csv_files = ($ARGV[0]);

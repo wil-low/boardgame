@@ -24,18 +24,9 @@ for my $tts (@tts_images) {
 
 my %csv_files = (
 	multi => ['Afflictions','Stomping Dead - Afflcition Deck', 'Stomping Dead - Environment Cards', 'Stomping Dead - Infected Deck'],
-	Acrocanthosaurus => ['Apex - Acrocanthosaurus'],
-	Carcharodon => ['Apex - Carcharodon'],
-	Carnotaurus => ['Apex - Carnotaurus'],
-	Giganotosaurus => ['Apex - Giganotosaurus'],
-	Promethean => ['Apex - Promethean Wars'],
-	Saurophaganax => ['Apex - Saurophaganax'],
-	Spinosaurus => ['Apex - Spinosaurus'],
-	Suchomimus => ['Apex - Suchomimus'],
-	Therizinosaurus => ['Apex - Therizinosaurus'],
-	Tyrannosaurus => ['Apex - Tyrannosaurus'],
-	Utahraptor => ['Apex - Utahraptor'],
-	Velociraptor => ['Apex - Velociraptor'],
+	apex => ['Apex - Acrocanthosaurus','Apex - Carcharodon','Apex - Carnotaurus','Apex - Giganotosaurus','Apex - Promethean Wars',
+			'Apex - Saurophaganax','Apex - Spinosaurus','Apex - Suchomimus','Apex - Therizinosaurus','Apex - Tyrannosaurus',
+			'Apex - Utahraptor','Apex - Velociraptor'],
 	other => [
 		'Alert',
 		'Boss',
@@ -88,35 +79,36 @@ for my $deck (@{$json->{ObjectStates}}) {
 			if (defined ($card->{Name}) and $card->{Name} eq 'Card') {
 				my $id = $card->{CardID};
 				if (!defined ($cards{$id})) {
-					$cards{$id} = {nick => $card->{Nickname}, desc => $card->{Description}};
+					$id =~ /(\d+)(\d\d)$/;
+					my ($tile, $num) = ($1, $2);
+					my $sheet = 'sheet' . $decks{$nick}->{tiles}->{$tile} . '-' . $num . ".png";
+					$cards{$id} = {nick => $card->{Nickname}, set => $card->{Description}, sheet => $sheet, deck => $nick};
 				}
 			}
 		}
 	}
 }
-
 my %csv_data;
-
 for my $key (keys (%decks)) {
 	my $deck = $decks{$key};
-	my $csv_filename = $deck_map{$key};
+	my $csv_filename = $key;
 	die $key if !defined $csv_filename;
 	if (!defined ($csv_data{$csv_filename})) {
 		$csv_data{$csv_filename} = [];
 	}
-	for my $card (@{$deck->{Cards}}) {
-		$card =~ /(\d+)(\d\d)$/;
-		my ($tile, $num) = ($1, $2);
-		push (@{$csv_data{$csv_filename}}, '../img/sheet' . $deck->{tiles}->{$tile} . '-' . $num . ".png");
+	for my $card_id (@{$deck->{Cards}}) {
+		push (@{$csv_data{$csv_filename}}, $card_id);
 	}
 }
 
-for my $key (keys (%csv_data)) {
+for my $key (keys (%csv_files)) {
 	open (CSV, ">../csv/$key.csv");
 	my $counter = 0;
-	for my $card (@{$csv_data{$key}}) {
-		print CSV "$card\n";
-		++$counter;
+	for my $deck_key (@{$csv_files{$key}}) {
+		for my $card (@{$csv_data{$deck_key}}) {
+			print CSV '../img/' . $cards{$card}->{sheet} . "\n";
+			++$counter;
+		}
 	}
 	my $remainder = 9 - ($counter % 9);
 	for (my $i = 0; $i < $remainder; ++$i) {
@@ -124,5 +116,14 @@ for my $key (keys (%csv_data)) {
 	}
 	close (CSV);
 }
+
+open (OUT, ">../csv/All_Cards.csv");
+print (OUT join ("\t", qw (id name deck set image)) . "\n");
+for my $key (sort {$a <=> $b} (keys (%cards))) {
+	my $card = $cards{$key};
+	print OUT join ("\t", ($key, $card->{nick}, $card->{deck}, $card->{set}, $card->{sheet})). "\n";
+}
+close (OUT);
+
 #print Dumper(\%decks);
 #print Dumper(\%cards);
