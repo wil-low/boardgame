@@ -1,0 +1,40 @@
+๛๛ 38 Large Cards, consisting of:
+32 Room Cards +
+6 Operative Cards +
+
+๛๛ 76 Small Cards, consisting of:
+30 Action Cards (5 types – 6 of each) +
+35 Item Cards +
+6 Special Cards +
+5 NPC Cards +
+
+๛๛ 149 Game Tokens, consisting of:
+6 Operative Markers
+117 Data File Tokens +
+13 Lab Worker/Tech Lock Tokens +
+13 Interface Tokens +
+
+๛๛ 6 Plastic Stands 
+
+๛๛ 1 Security Tracker (with 1 faceplate, 3 dials, and 3 pairs of plastic connectors) 
+
+๛๛ 1 Six-sided Die 
+
+๛๛ This Rulebook
+
+
+TODO:
++1. Обрезать на 1 px большие карты
++2. Убрать крестики
+3. Добавлять крестики в конце
+-4. Нейро Шип -> Нейрошип
+5. вещь -> предмет (в правилах и картах)
+6. Ё
+7. термины в правилах привести к ПнП, вычитка
+8. Буклет правил
+9. Коммент по поводу варианта с абилками
+10. Перевод соло варианта
+11. Перевод карт 2-го этажа
++12. Убрать синий цвет со спецкарт
+-13. капитализация заголовков
+
