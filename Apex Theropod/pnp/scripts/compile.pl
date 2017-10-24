@@ -4,12 +4,13 @@ use strict;
 use warnings;
 
 my @tts_images = (
+	['httpiimgurcoma125Z2Hjpg.jpg', 0, 27, 500, 412, 486, 686, 8, 8],
 	#['httpiimgurcom6nJuIw2jpg.jpg', 1, 70, 500, 700, 486, 686, 8, 8],
 	#['httpiimgurcomhBvoqQKjpg.jpg', 2, 70, 500, 695, 486, 686, 8, 8],
 	#['httpiimgurcomoBnJoo6jpg.jpg', 3, 36, 500, 700, 486, 686, 8, 8],
 	#['httpiimgurcomPk3tA8ujpg.jpg', 4,  2, 500, 700, 486, 686, 8, 8],
 	#['httpiimgurcomsRZWuRKjpg.jpg', 5, 70, 500, 700, 486, 686, 8, 8],
-	['httpiimgurcomV5r4dKkjpg.jpg', 6, 59, 500, 695, 486, 686, 8, 8],
+	#['httpiimgurcomV5r4dKkjpg.jpg', 6, 59, 500, 695, 486, 686, 8, 8],
 	#['httpiimgurcomyBH0Kzmjpg.jpg', 7, 41, 500, 700, 486, 686, 8, 8],
 );
 
@@ -24,6 +25,7 @@ sub process_sheet {
 	`gm convert ../../tts/$input +adjoin -crop $ar[3]x$ar[4] +repage ../sheets/sheet$sheet_num-%02d.png`;
 #exit;
 	`rm ../img/sheet$sheet_num-*.png`;
+	return if $sheet_num == 0;
 	my @pngs = glob ("../sheets/sheet$sheet_num-*.png");
 	my $counter = 0;
 	foreach my $png (@pngs) {

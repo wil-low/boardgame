@@ -4828,7 +4828,7 @@
         <PAGEOBJECT XPOS="42.6514960629922" YPOS="30553.7612598425" OwnPage="106" ItemID="195516838" PTYPE="4" WIDTH="116.220472440945" HEIGHT="13.9371128608764" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.22 0 L116.22 13.9371 L0 13.9371 L0 0 Z" copath="M0 0 L116.22 0 L116.22 13.9371 L0 13.9371 L0 0 Z" gXpos="22.6502362204725" gYpos="-683.951810998989" gWidth="325.52" gHeight="247.92" PSTYLE="Title" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Title"/>
-                <ITEXT CH="Погружённый в себя"/>
+                <ITEXT CH="Замкнут в себе"/>
                 <trail PARENT="Title"/>
             </StoryText>
         </PAGEOBJECT>
