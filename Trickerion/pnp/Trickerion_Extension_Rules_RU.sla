@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.3">
+    <DOCUMENT ANZPAGES="7" PAGEWIDTH="609.448818897638" PAGEHEIGHT="793.700787401575" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="0" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.5" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <Bookmark Title="v. приложение" Text="v. приложение" Aktion="" ItemNr="1" Element="1960222047" First="0" Last="0" Prev="0" Next="2" Parent="0"/>
+        <Bookmark Title="тёмная аллея" Text="тёмная аллея" Aktion="" ItemNr="2" Element="1862310703" First="0" Last="0" Prev="1" Next="3" Parent="0"/>
+        <Bookmark Title="iv. Дополнения" Text="iv. Дополнения" Aktion="" ItemNr="3" Element="1957724095" First="0" Last="0" Prev="2" Next="4" Parent="0"/>
+        <Bookmark Title="способности иллюзионистов" Text="способности иллюзионистов" Aktion="" ItemNr="4" Element="1960196847" First="0" Last="0" Prev="3" Next="5" Parent="0"/>
+        <Bookmark Title="Магические Силы" Text="Магические Силы" Aktion="" ItemNr="5" Element="1978382799" First="0" Last="0" Prev="4" Next="6" Parent="0"/>
+        <Bookmark Title="пример А: размещение персонажей и жетонов трюков в театре" Text="пример А: размещение персонажей и жетонов трюков в театре" Aktion="" ItemNr="6" Element="1958230079" First="0" Last="0" Prev="5" Next="7" Parent="0"/>
+        <Bookmark Title="пример B: фаза представления" Text="пример B: фаза представления" Aktion="" ItemNr="7" Element="1958326799" First="0" Last="0" Prev="6" Next="8" Parent="0"/>
+        <Bookmark Title="дуэль магов" Text="дуэль магов" Aktion="" ItemNr="8" Element="1960312687" First="0" Last="0" Prev="7" Next="0" Parent="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="Blue" RGB="#0000ff"/>
+        <COLOR NAME="Brown" RGB="#8b381b"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000"/>
+        <COLOR NAME="Dark Brown" RGB="#3c2415"/>
+        <COLOR NAME="Dark Red" RGB="#8d1d1d"/>
+        <COLOR NAME="Green" RGB="#00ff00"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000"/>
+        <COLOR NAME="Red" RGB="#ff0000"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="13" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="4" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Minion Pro Regular" FONTSIZE="10" FONTFEATURES="-clig" FCOLOR="Dark Brown" KERN="2"/>
+        <STYLE NAME="Chapter" ALIGN="1" FONT="Minion Pro Bold" FONTSIZE="14" FONTFEATURES="-clig" FEATURES="allcaps" FCOLOR="Brown" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="22" LANGUAGE="en_GB"/>
+        <STYLE NAME="Phase" ALIGN="0" LINESP="15" NACH="2" FONT="Minion Pro Bold" FONTSIZE="9" FONTFEATURES="-clig" FEATURES="allcaps" FCOLOR="Dark Red" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="18" LANGUAGE="en_GB"/>
+        <STYLE NAME="List" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="13" INDENT="9.35433070866142" RMARGIN="0" FIRST="-9.35433070866142" VOR="0" NACH="2" ParagraphEffectOffset="5.66929133858268" DROP="0" DROPLIN="2" Bullet="1" BulletStr="•" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Minion Pro Regular" FONTSIZE="10" FONTFEATURES="-clig" KERN="2"/>
+        <STYLE NAME="Small List" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="12" INDENT="9.35433070866142" RMARGIN="0" FIRST="-9.35433070866142" VOR="0" NACH="1" ParagraphEffectOffset="5.66929133858268" DROP="0" DROPLIN="2" Bullet="1" BulletStr="•" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Minion Pro Regular" FONTSIZE="10" FONTFEATURES="-clig" KERN="2"/>
+        <STYLE NAME="Small italic" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="13" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="4" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Minion Pro Medium Italic" FONTSIZE="7" FONTFEATURES="-clig" KERN="2"/>
+        <STYLE NAME="Small Chapter" ALIGN="1" LINESP="13" FONT="Minion Pro Bold" FONTSIZE="10" FONTFEATURES="-clig" FEATURES="allcaps" FCOLOR="Brown" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="22" LANGUAGE="en_GB"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="1" doClip="1" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="0" PDLanguage="0" markLength="2.36538870843933e-310" markOffset="7.19547552834565e-310" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="1" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="1" PageLayout="0" openAction="">
+            <Subset Name="Minion Pro Bold"/>
+            <Subset Name="Minion Pro Medium Italic"/>
+            <Subset Name="Minion Pro Regular"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="6" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="609.448818897638" PAGEHEIGHT="793.700787401575" BORDERLEFT="14.173" BORDERRIGHT="14.173" BORDERTOP="19.843" BORDERBOTTOM="42.52" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="609.448818897638" PAGEHEIGHT="793.700787401575" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="853.701732283465" PAGEWIDTH="609.448818897638" PAGEHEIGHT="793.700787401575" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="1" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1687.40220472441" PAGEWIDTH="609.448818897638" PAGEHEIGHT="793.700787401575" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="2" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2521.10267716536" PAGEWIDTH="609.448818897638" PAGEHEIGHT="793.700787401575" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="3" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3354.8031496063" PAGEWIDTH="609.448818897638" PAGEHEIGHT="793.700787401575" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="4" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="4188.50362204725" PAGEWIDTH="609.448818897638" PAGEHEIGHT="793.700787401575" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="5" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5022.20409448819" PAGEWIDTH="609.448818897638" PAGEHEIGHT="793.700787401575" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="6" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="20.0012598425196" OwnPage="0" ItemID="1877526319" PTYPE="2" WIDTH="609.36" HEIGHT="793.68" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../rules/Trickerion - Правила на русском языке-clean_19.png" IRENDER="0" EMBEDDED="0" path="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" copath="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" gXpos="100.00062992126" gYpos="20.0012598425196" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="853.701732283465" OwnPage="1" ItemID="1966380271" PTYPE="2" WIDTH="609.36" HEIGHT="793.68" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../rules/Trickerion - Правила на русском языке-clean_20.png" IRENDER="0" EMBEDDED="0" path="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" copath="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" gXpos="100.00062992126" gYpos="20.0009448818897" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="1687.4022047244" OwnPage="2" ItemID="1966393343" PTYPE="2" WIDTH="609.36" HEIGHT="793.68" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../rules/Trickerion - Правила на русском языке-clean_21.png" IRENDER="0" EMBEDDED="0" path="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" copath="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" gXpos="100.00062992126" gYpos="20.0006299212599" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="2521.10267716536" OwnPage="3" ItemID="2107550367" PTYPE="2" WIDTH="609.36" HEIGHT="793.68" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../rules/Trickerion - Правила на русском языке-clean_22.png" IRENDER="0" EMBEDDED="0" path="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" copath="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" gXpos="100.00062992126" gYpos="20.0003149606304" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="3354.80314960629" OwnPage="4" ItemID="2107547199" PTYPE="2" WIDTH="609.36" HEIGHT="793.68" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../rules/Trickerion - Правила на русском языке-clean_23.png" IRENDER="0" EMBEDDED="0" path="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" copath="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" gXpos="100.00062992126" gYpos="20.0000000000003" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="4188.50362204725" OwnPage="5" ItemID="1957800319" PTYPE="2" WIDTH="609.36" HEIGHT="793.68" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../rules/Trickerion - Правила на русском языке-clean_24.png" IRENDER="0" EMBEDDED="0" path="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" copath="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" gXpos="100.00062992126" gYpos="19.9996850393694" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="5022.20409448819" OwnPage="6" ItemID="1868434079" PTYPE="2" WIDTH="609.36" HEIGHT="793.68" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../rules/Trickerion - Правила на русском языке-clean_25.png" IRENDER="0" EMBEDDED="0" path="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" copath="M0 0 L609.36 0 L609.36 793.68 L0 793.68 L0 0 Z" gXpos="100.00062992126" gYpos="19.9993700787394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="130.79962992126" YPOS="58.3010472440949" OwnPage="0" ItemID="1957724095" PTYPE="4" WIDTH="250.8" HEIGHT="22.8000000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L250.8 0 L250.8 22.8 L0 22.8 L0 0 Z" copath="M0 0 L250.8 0 L250.8 22.8 L0 22.8 L0 0 Z" gXpos="130.79962992126" gYpos="58.3010472440949" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="iv. Дополнения"/>
+                <trail PARENT="Chapter"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="175.80062992126" YPOS="89.4044094488202" OwnPage="0" ItemID="1862310703" PTYPE="4" WIDTH="164.399" HEIGHT="22.8000000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L164.399 0 L164.399 22.8 L0 22.8 L0 0 Z" copath="M0 0 L164.399 0 L164.399 22.8 L0 22.8 L0 0 Z" gXpos="175.80062992126" gYpos="89.4044094488199" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="тёмная аллея"/>
+                <trail PARENT="Chapter"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347086614173" YPOS="121.299472440945" OwnPage="0" ItemID="1881994863" PTYPE="4" WIDTH="256.652543307087" HEIGHT="540.20005511811" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L256.653 0 L256.653 540.2 L0 540.2 L0 0 Z" copath="M0 0 L256.653 0 L256.653 540.2 L0 540.2 L0 0 Z" gXpos="128.347086614173" gYpos="121.299472440945" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1877516079" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Это дополнение добавляет следующие элементы в игру:"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="новую локацию – Тёмная Аллея"/>
+                <para PARENT="List"/>
+                <ITEXT CH="два дополнительных хода – игра продолжается семь ходов вместо пяти"/>
+                <para PARENT="List"/>
+                <ITEXT CH="новые карты трюков с Уровнем Славы 36"/>
+                <para PARENT="List"/>
+                <ITEXT CH="Пророчества, которые изменяют правила игры в каждом раунде"/>
+                <para PARENT="List"/>
+                <ITEXT CH="К базовым правилам применяются следующие изменения:"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="основная подготовка"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="Переверните"/>
+                <ITEXT FONT="Minion Pro Bold" CH=" игровое поле и все планшеты игроков"/>
+                <ITEXT CH=" на сторону &quot;Тёмная Аллея&quot; (с символом чёрной кошки). Разложите карты трюков в четыре стопки по категориям и положите их лицом вверх в полагающиеся места в резиденции Дахлгаарда в Даунтауне. Каждая стопка теперь содержит 12 карт трюков вместо 8."/>
+                <para/>
+                <ITEXT CH="Перемешайте "/>
+                <ITEXT FONT="Minion Pro Bold" CH="четыре стопки специальных карт назначений"/>
+                <ITEXT CH=" (отсортированных по локациям) и положите их на соответствующие места в Тёмной Аллее."/>
+                <para/>
+                <ITEXT CH="Создайте колоду представлений, используя две случайные карты представлений театра Магнус Пантеон, две карты театра Гранд Магориан и две карты театра Риверсайд, положив их друг на друга в следующем порядке:"/>
+                <para/>
+                <ITEXT CH="подготовка игроков"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="Игрока кладут карты иллюзионистов вверх стороной с символом чёрной кошки. В этом варианте игры у каждого иллюзиониста есть особое умение, которое может сильно повлиять на игру. См. Приложение для подробного описания каждого умения."/>
+                <para/>
+                <ITEXT CH="Каждый игрок получает стартовую руку из 6 постоянных карт назначений (2 &quot;Театр&quot;, 1 &quot;Мастерская&quot;, 1 &quot;Рынок&quot;, 1 &quot;Даунтаун&quot;, 1 &quot;Тёмная Аллея&quot;)."/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="После окончания подготовки игроков"/>
+                <ITEXT CH=" случайным образом выберите три Надвигающихся Пророчества и положите их в соответствующие ячейки на Шаре Прорицателя. Остальные Пророчества положите в кучку лицом вниз рядом с игровым полем (в первом раунде нет Активного Пророчества)."/>
+                <para/>
+                <ITEXT CH="фаза размещения персонажей"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="Игроки могут использовать локацию &quot;Тёмная Аллея&quot; во время фазы Назначения и фазы Размещения персонажей."/>
+                <para/>
+                <ITEXT CH="Если Иллюзионисты не боятся замарать руки, чтобы одержать победу в состязании, Тёмная Аллея – то, что нужно. Здесь обычные карты назначений можно обогатить коварными уловками, и даже изменить будущее, посетив таинственного Прорицателя."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="400" YPOS="57.8995275590549" OwnPage="0" ItemID="1877516079" PTYPE="4" WIDTH="272" HEIGHT="553.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L272 0 L272 553.2 L0 553.2 L0 0 Z" copath="M0 0 L272 0 L272 553.2 L0 553.2 L0 0 Z" gXpos="400" gYpos="57.8995275590552" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1881994863"/>
+        <PAGEOBJECT XPOS="138" YPOS="1213.42452755906" OwnPage="1" ItemID="1877533695" PTYPE="4" WIDTH="268.8" HEIGHT="391.457992125984" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L268.8 0 L268.8 391.458 L0 391.458 L0 0 Z" copath="M0 0 L268.8 0 L268.8 391.458 L0 391.458 L0 0 Z" gXpos="138" gYpos="379.724055118111" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2107537071" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="В Тёмной Аллее можно выполнить такие действия:"/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="ВЗЯТЬ ПЕРВУЮ КАРТУ (1  )"/>
+                <ITEXT CH=": Игрок берёт верхнюю карту любой из стопок в Тёмной Аллее."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="ВЗЯТЬ ЕЩЁ КАРТЫ (2 )"/>
+                <ITEXT CH=": Взятие последующих специальных карт назначений, начиная со второй, стоит 2 за каждую."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="ПРЕДСКАЗАНИЕ СУДЬБЫ (1  )"/>
+                <ITEXT CH=": Игрок может передвинуть каждое из Надвигающихся Пророчеств на одну ячейку по часовой стрелке."/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="фаза окончания хода"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="Эти подфазы добавляются в фазу Окончания хода:"/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="Переместите Пророчества"/>
+                <ITEXT CH=": Сбросьте Активное Пророчество и передвиньте на его место Надвигающееся Пророчество из самой левой ячейки. Это Пророчество будет активно в следующем раунде и будет влиять на правила игры. Переместите оставшиеся Пророчества по часовой стрелке, затем вытяните новое и положите его в самую правую ячейку."/>
+                <para PARENT="List"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT FONT="Minion Pro Bold" CH="Сбросьте специальные карты назначений"/>
+                <ITEXT CH=": Все использованные специальные карты назначений кладутся лицом вниз в стопку сброса. Карты под незанятыми персонажами  не считаются использованными и возвращаются в руку. После того, как все использованные карты сброшены, верхняя карта каждой из стопок Тёмной Аллеи кладётся под низ своей стопки."/>
+                <para PARENT="List"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="окончание игры"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="Игра заканчивается "/>
+                <ITEXT FONT="Minion Pro Bold" CH="после седьмого хода"/>
+                <ITEXT CH=". Финальный подсчёт очков отличается от базовой игры. Все игроки получают:"/>
+                <para/>
+                <ITEXT CH="1 Славы за каждый сохранённый Осколок Трикериона"/>
+                <para PARENT="List"/>
+                <ITEXT CH="1 Славы за каждые 3 оставшиеся монеты"/>
+                <para PARENT="List"/>
+                <ITEXT CH="2 Славы за каждую неиспользованную специальную карту назначения в руке"/>
+                <para PARENT="List"/>
+                <ITEXT CH="Кроме того, игроки имеют возможность получить очки Славы за свои трюки с Уровнем Славы 36. Каждый из этих трюков имеет внизу карты условие. "/>
+                <ITEXT FONT="Minion Pro Bold" CH="Если условие выполнено и игрок имеет весь необходимый реквизит для трюка, в конце игры игрок получает очки Славы, указанные в условии трюка. "/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="418.992125984252" YPOS="888.00057480315" OwnPage="1" ItemID="2107537071" PTYPE="4" WIDTH="272" HEIGHT="313.298952755905" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L272 0 L272 313.299 L0 313.299 L0 0 Z" copath="M0 0 L272 0 L272 313.299 L0 313.299 L0 0 Z" gXpos="418.992125984252" gYpos="54.3001023622049" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1877533695"/>
+        <PAGEOBJECT XPOS="114.173858267717" YPOS="1763.29952755906" OwnPage="2" ItemID="2107524479" PTYPE="4" WIDTH="273.826141732284" HEIGHT="675.283464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L273.826 0 L273.826 675.283 L0 675.283 L0 0 Z" copath="M0 0 L273.826 0 L273.826 675.283 L0 675.283 L0 0 Z" gXpos="114.173858267716" gYpos="95.8985826771656" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2090602479" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Это дополнение вводит в игру новый элемент: Магические Силы. Они позволяют наделить вашего Иллюзиониста новыми способностями и добавить ещё больше стратегической глубины в игру."/>
+                <para/>
+                <ITEXT CH="В дополнение &quot;Магические Силы&quot; можно играть только вместе с дополнением &quot;Тёмная Аллея&quot;."/>
+                <para/>
+                <ITEXT CH="В правила базовой игры вносятся следующие изменения:"/>
+                <para/>
+                <ITEXT CH="основная подготовка"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="Перемешайте каждую из колод Силы (жёлтую, оранжевую и красную), затем положите их лицом вниз рядом с игровым полем, в пределах досягаемости игроков. Подобно картам трюков, Магические Силы разного цвета имеют разный Уровень Славы (1, 16 или 36), указанный в звёздочке на обеих сторонах карты."/>
+                <para/>
+                <ITEXT CH="подготовка игроков"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="Помимо обычной подготовки, каждый игрок получает "/>
+                <ITEXT FONT="Minion Pro Bold" CH="4 карты Магической Силы каждого цвета"/>
+                <ITEXT CH=" (всего 12). Затем игроки оценивают полученные карты и сбрасывают любые 4. Остальные 8 можно использовать во время игры."/>
+                <para/>
+                <ITEXT CH="Каждый игрок получает "/>
+                <ITEXT FONT="Minion Pro Bold" CH="3 Осколка Трикериона вместо 1"/>
+                <ITEXT CH="."/>
+                <para/>
+                <para/>
+                <ITEXT CH="фаза назначений"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="В начале фазы Назначений каждый игрок может выучить одну карту Силы. Для этого он кладёт её рядом с ячейками Силы с левого края планшета игрока. Карту Силы можно положить рядом с ячейкой, если:"/>
+                <para/>
+                <ITEXT CH="Эта ячейка указана на карте как разрешённая"/>
+                <para PARENT="List"/>
+                <ITEXT CH="Ячейка открыта с помощью Осколков Трикериона (см. ниже)"/>
+                <para PARENT="List"/>
+                <ITEXT CH="Вы достигли необходимого Уровня Славы (можете также заплатить монетами разницу)."/>
+                <para PARENT="List"/>
+                <ITEXT CH="Если возле ячейки уже есть карта Силы, вы должны вернуть её в руку, прежде чем размещать там новую карту."/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="осколки трикериона"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="В этом варианте  игры каждый полученный Осколок Трикериона кладётся на значок Осколка в ячейках Силы на планшете игрока. Осколки необходимо добавлять снизу вверх (начиная с ячейки с 1 Осколком), а тратить сверху вниз. Ячейка Силы с Осколками на всех своих значках считается открытой, и туда можно положить карту Силы. Когда один из Осколков снимается с ячейки, карта Силы, находящаяся там, немедленно возвращается в руку."/>
+                <para/>
+                <ITEXT CH="В случае, если у вас больше Осколков, чем напечатано во всех ячейках, избыточные расходуются первыми."/>
+                <para/>
+                <para/>
+                <ITEXT CH="окончание игры"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="Финальный подсчёт очков отличается от базовой игры и дополнения &quot;Тёмная Аллея&quot;. Все игроки получают:"/>
+                <para/>
+                <ITEXT CH="1 Славы за каждые 3 оставшиеся монеты"/>
+                <para PARENT="List"/>
+                <ITEXT CH="2 Славы за каждую неиспользованную специальную карту назначения в руке"/>
+                <para PARENT="List"/>
+                <ITEXT CH="Кроме того, игроки имеют возможность получить очки Славы за свои трюки с Уровнем Славы 36. Каждый из этих трюков имеет внизу карты условие. "/>
+                <ITEXT FONT="Minion Pro Bold" CH="Если условие выполнено и игрок имеет весь необходимый реквизит для трюка, в конце игры он получает очки Славы, указанные в условии трюка."/>
+                <para/>
+                <ITEXT CH="В этом варианте игры "/>
+                <ITEXT FONT="Minion Pro Bold" CH="оставшиеся Осколки Трикериона по умолчанию не приносят Славы"/>
+                <ITEXT CH=" в конце игры."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="400" YPOS="1730.29952755905" OwnPage="2" ItemID="2090602479" PTYPE="4" WIDTH="272" HEIGHT="705.40094488189" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L272 0 L272 705.401 L0 705.401 L0 0 Z" copath="M0 0 L272 0 L272 705.401 L0 705.401 L0 0 Z" gXpos="400" gYpos="62.8985826771647" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="2107524479"/>
+        <PAGEOBJECT XPOS="226.916036745407" YPOS="2622.40088976378" OwnPage="3" ItemID="2090603199" PTYPE="4" WIDTH="187.730262467192" HEIGHT="649.88257480315" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L187.73 0 L187.73 649.883 L0 649.883 L0 0 Z" copath="M0 0 L187.73 0 L187.73 649.883 L0 649.883 L0 0 Z" gXpos="226.916036745407" gYpos="121.299472440945" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1955660639" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Minion Pro Bold" CH="THE MECHANIKER (МЕХАНИЧЕСКОЕ УЛУЧШЕНИЕ)"/>
+                <ITEXT CH=": Один раз в раунд один из ваших помощников получает дополнительное очко действия, будучи помещённым в любую локацию, кроме Театра."/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="PRIESTESS OF MYSTICISM (ТКАНИЕ СУДЬБЫ)"/>
+                <ITEXT CH=": Потратив 1 очко действия в Тёмной Аллее, вы можете сбросить Активное Пророчество, положить на его место одно из Надвигающихся Пророчеств и выложить новое на место последнего."/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="MASTER OF CHAINS                          (ОСВОБОЖДЕНИЕ)"/>
+                <ITEXT CH=": Перед фазой Представления вы можете выполнить особое действие &quot;Изменить расписание&quot; без размещения персонажа. В отличие от обычного действия, вы получаете бонусы за Связи, созданные таким образом."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="THE GREAT OPTICO (МИМИКРИЯ)"/>
+                <ITEXT CH=": Один раз в раунд вы можете использовать для одной из своих постоянных карт назначений эффект специальной карты, сыгранной противником в той же локации."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="THE RED LOTUS (КРАЖА ТРЮКА)"/>
+                <ITEXT CH=": Вы можете получить вознаграждение за трюк противника в том же самом Представлении вместо вознаграждения за свой трюк, если вы являетесь Организатором и Уровень Славы трюка противника меньше или равен Уровню Славы вашего трюка. За свой трюк противник получает на 1 Славу меньше."/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="YORUBA SPIRITMASTER (ВЛАСТЬ НАД ДУХОМ)"/>
+                <ITEXT CH=": Один раз в раунд, перед тем, как противник выберет карту Представления, вы можете заплатить 1 Осколок. В этом случае вы выбираете карту Представления, трюки которой будет исполнять противник. На выбранной карте должен быть хотя бы один жетон трюка данного игрока."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="ELECTRA (ПЕРЕГРУЗКА)"/>
+                <ITEXT CH=": Когда вы ставите трюк, можете положить в один слот два жетона этого трюка. Они считаются как один трюк, и бонусы за связи выплачиваются только один раз. Когда трюк исполняется, он приносит дополнительные очки Славы и монеты (1/2/3) в зависимости от его Уровня Славы (1/16/36)."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="THE GENTLEMAN (МАГИЯ ДЛЯ МАСС)"/>
+                <ITEXT CH=": Каждый раз, когда вы размещаете Иллюзиониста в Даунтауне, Тёмной Аллее или на Рынке, получите столько очков Славы, сколько у вас карт трюков."/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="428.819527559055" YPOS="2555.40151968504" OwnPage="3" ItemID="1955660639" PTYPE="4" WIDTH="260.096509186352" HEIGHT="214.648007874015" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L260.097 0 L260.097 214.648 L0 214.648 L0 0 Z" copath="M0 0 L260.097 0 L260.097 214.648 L0 214.648 L0 0 Z" gXpos="428.819527559055" gYpos="54.3001023622047" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="2090603199"/>
+        <PAGEOBJECT XPOS="138.416036745407" YPOS="4281.55346456693" OwnPage="5" ItemID="1955665007" PTYPE="4" WIDTH="262.057034120735" HEIGHT="632.619448818899" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.057 0 L262.057 632.619 L0 632.619 L0 0 Z" copath="M0 0 L262.057 0 L262.057 632.619 L0 632.619 L0 0 Z" gXpos="138.416036745407" gYpos="113.051102362202" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Зелёный игрок поместил Иллюзиониста на Воскресную ячейку Представления, чтобы выступить в следующей фазе (1). Ни один из остальных игроков не может размещать персонажей на ячейки Воскресенья до конца раунда. Зелёный мог бы разместить ещё персонажей на Воскресных ячейках за сценой, но у него уже есть поставленные жетоны трюков для исполнения (на первой карте Представления)."/>
+                <para/>
+                <ITEXT CH="Жёлтый игрок размещает своего Менеджера на ячейку Пятницы (2). Представление Пятницы идёт перед Субботой, и оба имеют одинаковые модификаторы, так что у жёлтого игрока больше шансов выступить на той карте, на которой он пожелает. У него 2 очка действия, поэтому он ставит 2 трюка (2a и 2b). За связь между ними жёлтый игрок немедленно получает 1 Славу или 1 монету."/>
+                <para/>
+                <ITEXT CH="Синий игрок размещает своего Ассистента на ячейку Четверга (3). Это приносит ему +1 очко действия (всего 3), но также и штраф -1 Славы или -1 монета позднее, за каждый из своих выполненных трюков. За 2 очка действия он ставит 2 жетона трюков (3a и 3b), создавая связь, и получает на выбор 2 монеты или 2 Славы (у пикового трюка порог Славы 16). Третьим очком действия он ставит ещё один маркер трюка на вторую карту, создаёт связь с жёлтым игроком и получает ещё 2 монеты или Славы (3c). Напомним – пиковый трюк имеет порог Славы 16."/>
+                <para/>
+                <ITEXT CH="Жёлтый игрок помещает помощника на оставшуюся ячейку Пятницы. За 1 очко действия он размещает жетон трюка на первой карте, но так как трюк механический, создать связь не удаётся (4)."/>
+                <para/>
+                <ITEXT CH="В этом раунде красный игрок использует своего Иллюзиониста для того, чтобы поставить трюк, вместо выступления (5). Он рассчитывает, что его трюк исполнят другие игроки. Таким образом он теряет бонусы Организатора, но может использовать 3 очка действия своего Иллюзиониста. Он ставит 3 трюка, по одному на каждую карту Представления, чтобы обеспечить исполнение каждого (5a, 5b и 5c). В каждом случае красному удаётся создать связь."/>
+                <para/>
+                <ITEXT CH="Синий игрок размещает своего Иллюзиониста на ячейку Представления в Четверг (6) и получает возможность выступить первым в фазе Представления."/>
+                <para/>
+                <ITEXT CH="Наконец, жёлтый игрок кладёт своего Иллюзиониста на ячейку Представления в Пятницу (7)."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="423.150236220472" YPOS="4281.55346456693" OwnPage="5" ItemID="1960657343" PTYPE="4" WIDTH="262.015800524934" HEIGHT="633.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.016 0 L262.016 633.75 L0 633.75 L0 0 Z" copath="M0 0 L262.016 0 L262.016 633.75 L0 633.75 L0 0 Z" gXpos="423.150236220473" gYpos="113.051102362203" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Синий, жёлтый и зелёный игроки будут выступать в этом раунде. Синий выступает в Четверг и первым выбирает карту Представления. Он выбирает третью карту, с двумя своими трюками и одним трюком красного игрока. Он получает вознаграждение, указанное на его соответствующих картах трюков, но обязан вычесть 1 монету и 1 Славу из вознаграждения каждого трюка (всего -2/-2) за то, что выступает в Четверг. Кроме того, он получает 2 Славы по количеству связей в Представлении, 2 Славы за Ассистента в Театре и ещё 2 Славы за выбранную карту Представления."/>
+                <para/>
+                <ITEXT CH="Красный игрок тоже получает вознаграждение за свой трюк. Штраф -1/-1 не применяется к нему, так как игрок выбрал Субботу в этом раунде."/>
+                <para/>
+                <ITEXT CH="Жёлтый игрок выбирает второе Представление. Он получает вознаграждение за свои трюки, 3 монеты за Менеджера в Театре и 1 Славу за выбранную карту Представления. Синий и красный игроки тоже получают вознаграждение за свои трюки, с учётом штрафа -1/-1 для синего игрока (за выбор ячейки Четверга)."/>
+                <para/>
+                <ITEXT CH="Наконец, зелёный игрок выбирает первую карту, получает вознаграждение за свои два трюка с учётом бонуса +1/+1 в Воскресенье. Он также получает +2 Славы по количеству связей (зелёный и жёлтый жетоны трюков не связаны) и 1 монету за выбранную карту Представления. Жёлтый и красный игроки тоже получают вознаграждение за свои трюки, без модификаторов, так как они выбрали Пятницу и Субботу."/>
+                <para/>
+                <ITEXT CH="Синий игрок мог также выбрать второе Представление, так как у него есть там жетон трюка. В этом случае он получил бы вознаграждение только за один трюк, но зато бонус 3 Славы вместо 2, потому что в этом Представлении три связи. Тогда единственным выбором для жёлтого было бы первое Представление, а третья карта не была бы разыграна вовсе, так как красный Иллюзионист находится за сценой. Этот сценарий оказался бы самым неблагоприятным для зелёного игрока, потому что ему нечего было бы исполнять. Тем не менее, он бы всё же получил вознаграждение за свои два трюка во время Представления жёлтого, вместе с бонусом +1 Слава и +1 монета за каждый трюк (модификатор Воскресенья), но ему пришлось бы отказаться от бонусов Организатора."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="97.1659842519685" YPOS="391.339842519685" OwnPage="0" ItemID="1881864591" PTYPE="2" WIDTH="288.634015748032" HEIGHT="194.55968503937" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L288.634 0 L288.634 194.56 L0 194.56 L0 0 Z" copath="M0 0 L288.634 0 L288.634 194.56 L0 194.56 L0 0 Z" gXpos="97.1659842519685" gYpos="391.339842519685" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="597" YPOS="51.8995275590549" OwnPage="0" ItemID="1881853183" PTYPE="2" WIDTH="111.6" HEIGHT="171" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L111.6 0 L111.6 171 L0 171 L0 0 Z" copath="M0 0 L111.6 0 L111.6 171 L0 171 L0 0 Z" gXpos="597" gYpos="51.8995275590549" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="396.6" YPOS="207.899527559055" OwnPage="0" ItemID="1881855535" PTYPE="2" WIDTH="305.4" HEIGHT="93.5999999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L305.4 0 L305.4 93.6 L0 93.6 L0 0 Z" copath="M0 0 L305.4 0 L305.4 93.6 L0 93.6 L0 0 Z" gXpos="396.6" gYpos="207.899527559055" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="395.4" YPOS="430.499527559055" OwnPage="0" ItemID="1956055535" PTYPE="2" WIDTH="300.6" HEIGHT="111.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L300.6 0 L300.6 111.6 L0 111.6 L0 0 Z" copath="M0 0 L300.6 0 L300.6 111.6 L0 111.6 L0 0 Z" gXpos="395.4" gYpos="430.499527559055" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="406.8" YPOS="648.734173228346" OwnPage="0" ItemID="1956057823" PTYPE="4" WIDTH="262.964409448819" HEIGHT="109.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.964 0 L262.964 109.2 L0 109.2 L0 0 Z" copath="M0 0 L262.964 0 L262.964 109.2 L0 109.2 L0 0 Z" gXpos="406.8" gYpos="648.734173228346" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1964497855" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="специальные карты назначений"/>
+                <para PARENT="Phase" ALIGN="1"/>
+                <ITEXT CH="В Тёмной Аллее игроки могут получить специальные карты назначений для каждой из четырёх остальных локаций. Игрок добавляет эти карты себе в руку и использует их в последующих фазах Назначения точно так же, как и постоянные карты назначений (они кладутся под персонажей, затем персонаж размещается в локацию, указанную на карте)."/>
+                <para/>
+                <ITEXT CH="Два отличия между постоянными и специальными картами назначений:"/>
+                <para/>
+                <ITEXT CH="Специальную карту назначения можно использовать только один раз. В фазе Окончания хода использованные специальные карты назначений уходят лицом вниз в стопку сброса."/>
+                <para PARENT="Small List"/>
+                <ITEXT CH="Каждая специальная карта назначения имеет полезный бонус. Этот бонус обычно расширяет возможности определённого действия (указано в рамке над текстом карты) в локации карты и применяется только к одному из действий, даже если игрок выполняет одним персонажем несколько таких действий (исключение – карта &quot;Странствующий торговец&quot;). Когда игрок размещает персонажа с помощью специальной карты назначения, можно выполнить любое действие в данной локации, но если это не то действие, которое указано на карте, то бонус теряется. На некоторых картах в рамке изображен знак &quot;?&quot; – в этом случае бонус применяется однажды к любому из действий в этой локации. Когда игрок размещает персонажа, он может отказаться от бонуса специальной карты назначения, а вместо этого получить +1    в данной локации."/>
+                <trail PARENT="Small List"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141.6" YPOS="888.299527559055" OwnPage="1" ItemID="1964497855" PTYPE="4" WIDTH="261.707716535433" HEIGHT="303.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L261.708 0 L261.708 303.6 L0 303.6 L0 0 Z" copath="M0 0 L261.708 0 L261.708 303.6 L0 303.6 L0 0 Z" gXpos="141.6" gYpos="888.299527559055" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1956057823"/>
+        <PAGEOBJECT XPOS="326.4" YPOS="957.899527559055" OwnPage="1" ItemID="1964453455" PTYPE="2" WIDTH="79.7423622047244" HEIGHT="101.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L79.7424 0 L79.7424 101.4 L0 101.4 L0 0 Z" copath="M0 0 L79.7424 0 L79.7424 101.4 L0 101.4 L0 0 Z" gXpos="326.4" gYpos="957.899527559055" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="206.749606299213" YPOS="1178.49952755906" OwnPage="1" ItemID="1964454335" PTYPE="2" WIDTH="6.48" HEIGHT="14.16" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../rus/signs/energy.png" IRENDER="0" EMBEDDED="0" path="M0 0 L6.48 0 L6.48 14.16 L0 14.16 L0 0 Z" copath="M0 0 L6.48 0 L6.48 14.16 L0 14.16 L0 0 Z" ImageRes="0" gXpos="206.749606299213" gYpos="1178.49952755906" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="130.125" YPOS="1227.67452755906" OwnPage="1" ItemID="1882123631" PTYPE="2" WIDTH="88.9307480314961" HEIGHT="195.375" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L88.9307 0 L88.9307 195.375 L0 195.375 L0 0 Z" copath="M0 0 L88.9307 0 L88.9307 195.375 L0 195.375 L0 0 Z" gXpos="130.125" gYpos="1227.67452755906" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="357.411653543307" YPOS="1227.06708661417" OwnPage="1" ItemID="1882125919" PTYPE="2" WIDTH="6.48" HEIGHT="14.16" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../rus/signs/energy.png" IRENDER="0" EMBEDDED="0" path="M0 0 L6.48 0 L6.48 14.16 L0 14.16 L0 0 Z" copath="M0 0 L6.48 0 L6.48 14.16 L0 14.16 L0 0 Z" ImageRes="0" gXpos="357.411653543306" gYpos="1227.06708661417" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="352.00283464567" YPOS="1286.7842519685" OwnPage="1" ItemID="1882118559" PTYPE="2" WIDTH="6.48" HEIGHT="14.16" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../rus/signs/energy.png" IRENDER="0" EMBEDDED="0" path="M0 0 L6.48 0 L6.48 14.16 L0 14.16 L0 0 Z" copath="M0 0 L6.48 0 L6.48 14.16 L0 14.16 L0 0 Z" ImageRes="0" gXpos="352.002834645669" gYpos="1286.7842519685" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="361.987716535434" YPOS="1360.06834645669" OwnPage="1" ItemID="1978398767" PTYPE="2" WIDTH="6.48" HEIGHT="14.16" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../rus/signs/energy.png" IRENDER="0" EMBEDDED="0" path="M0 0 L6.48 0 L6.48 14.16 L0 14.16 L0 0 Z" copath="M0 0 L6.48 0 L6.48 14.16 L0 14.16 L0 0 Z" ImageRes="0" gXpos="361.987716535433" gYpos="1360.06834645669" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="422.333333333333" YPOS="1228.96619422572" OwnPage="1" ItemID="1960051935" PTYPE="4" WIDTH="263.666666666667" HEIGHT="72.3333333333326" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L263.667 0 L263.667 72.3333 L0 72.3333 L0 0 Z" copath="M0 0 L263.667 0 L263.667 72.3333 L0 72.3333 L0 0 Z" gXpos="422.333333333333" gYpos="1228.96619422572" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Пример"/>
+                <para PARENT="Phase" ALIGN="1"/>
+                <ITEXT CH="У игрока в Мастерской есть трюк Assistant's Revenge и все необходимые компоненты. Если в конце игры у игрока есть Ассистент, он получает дополнительно 7 Славы в финальном подсчёте очков."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="157.181102362205" YPOS="1733.10267716535" OwnPage="2" ItemID="1978382799" PTYPE="4" WIDTH="196.666666666667" HEIGHT="21.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L196.667 0 L196.667 21.3333 L0 21.3333 L0 0 Z" copath="M0 0 L196.667 0 L196.667 21.3333 L0 21.3333 L0 0 Z" gXpos="157.181102362205" gYpos="1733.10267716535" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Магические Силы"/>
+                <trail PARENT="Chapter"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="96.6666666666667" YPOS="1965.96619422572" OwnPage="2" ItemID="1876785007" PTYPE="2" WIDTH="296" HEIGHT="133.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L296 0 L296 133.333 L0 133.333 L0 0 Z" copath="M0 0 L296 0 L296 133.333 L0 133.333 L0 0 Z" gXpos="96.6666666666667" gYpos="1965.96619422572" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="541.666036745407" YPOS="1719.29952755905" OwnPage="2" ItemID="1876777567" PTYPE="2" WIDTH="140" HEIGHT="309" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L140 0 L140 309 L0 309 L0 0 Z" copath="M0 0 L140 0 L140 309 L0 309 L0 0 Z" gXpos="541.666036745407" gYpos="1719.29952755905" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="564.882519685039" YPOS="1736.13417322835" OwnPage="2" ItemID="1876861135" PTYPE="4" WIDTH="81.9528083989502" HEIGHT="9.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L81.9528 0 L81.9528 9.5 L0 9.5 L0 0 Z" copath="M0 0 L81.9528 0 L81.9528 9.5 L0 9.5 L0 0 Z" gXpos="564.882519685039" gYpos="1736.13417322835" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Расходование Осколков"/>
+                <trail PARENT="Small italic"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="564.882519685039" YPOS="1997.83559055118" OwnPage="2" ItemID="1960138079" PTYPE="4" WIDTH="81.9528083989502" HEIGHT="9.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L81.9528 0 L81.9528 9.5 L0 9.5 L0 0 Z" copath="M0 0 L81.9528 0 L81.9528 9.5 L0 9.5 L0 0 Z" gXpos="564.88251968504" gYpos="1997.83559055118" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Добавление Осколков"/>
+                <trail PARENT="Small italic"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="147.807503937008" YPOS="2559.40246456693" OwnPage="3" ItemID="1960222047" PTYPE="4" WIDTH="250.8" HEIGHT="22.8000000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L250.8 0 L250.8 22.8 L0 22.8 L0 0 Z" copath="M0 0 L250.8 0 L250.8 22.8 L0 22.8 L0 0 Z" gXpos="147.807503937008" gYpos="58.3010472440947" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="v. приложение"/>
+                <trail PARENT="Chapter"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.166036745407" YPOS="2596.17511811024" OwnPage="3" ItemID="1960196847" PTYPE="4" WIDTH="269.810971128609" HEIGHT="22.8000000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L269.811 0 L269.811 22.8 L0 22.8 L0 0 Z" copath="M0 0 L269.811 0 L269.811 22.8 L0 22.8 L0 0 Z" gXpos="139.166036745407" gYpos="95.0737007874024" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="способности иллюзионистов"/>
+                <trail PARENT="Small Chapter"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="418.916036745407" YPOS="2547.29952755905" OwnPage="3" ItemID="1960284223" PTYPE="2" WIDTH="94.9428608923884" HEIGHT="222.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L94.9429 0 L94.9429 222.75 L0 222.75 L0 0 Z" copath="M0 0 L94.9429 0 L94.9429 222.75 L0 222.75 L0 0 Z" gXpos="418.916036745407" gYpos="2547.29952755905" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="426.166666666667" YPOS="2802.97102362205" OwnPage="3" ItemID="1960312687" PTYPE="4" WIDTH="254.936325459318" HEIGHT="22.8000000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L254.936 0 L254.936 22.8 L0 22.8 L0 0 Z" copath="M0 0 L254.936 0 L254.936 22.8 L0 22.8 L0 0 Z" gXpos="426.166666666667" gYpos="301.869606299214" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="дуэль магов"/>
+                <trail PARENT="Chapter"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="420.166666666667" YPOS="2785.23874015748" OwnPage="3" ItemID="1958273647" PTYPE="4" WIDTH="269.810971128609" HEIGHT="22.8000000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L269.811 0 L269.811 22.8 L0 22.8 L0 0 Z" copath="M0 0 L269.811 0 L269.811 22.8 L0 22.8 L0 0 Z" gXpos="420.166666666667" gYpos="284.137322834647" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="опциональный вариант"/>
+                <trail PARENT="Small Chapter"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="429.266036745407" YPOS="2824.4021496063" OwnPage="3" ItemID="1960245359" PTYPE="4" WIDTH="259.65" HEIGHT="449.228086614172" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L259.65 0 L259.65 449.228 L0 449.228 L0 0 Z" copath="M0 0 L259.65 0 L259.65 449.228 L0 449.228 L0 0 Z" gXpos="429.266036745407" gYpos="323.300732283465" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Этот вариант разработан, чтобы сделать игру вдвоём более напряжённой и разнообразной."/>
+                <para/>
+                <ITEXT CH="В Дуэли магов используются два новых игровых компонента:"/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="Карты занятости локаций"/>
+                <para PARENT="List"/>
+                <ITEXT FONT="Minion Pro Bold" CH="Карты Представлений с напечатанными на них серыми жетонами трюков"/>
+                <para PARENT="List"/>
+                <ITEXT CH="В базовые правила игры вносятся следующие изменения:"/>
+                <para/>
+                <ITEXT CH="основная подготовка"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="Возьмите пять (для базовой игры) или семь (для дополнения &quot;Тёмная Аллея&quot;) случайных карт занятости локаций и положите их лицом вверх в стопку рядом с игровым полем."/>
+                <para/>
+                <ITEXT CH="Используйте карты Представлений с напечатанными на них серыми жетонами трюков, чтобы создать колоду Представлений."/>
+                <para/>
+                <ITEXT CH="бросок кубиков"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="После броска кубиков Даунтауна, положите верхнюю карту занятости локаций возле её стопки. В соответствии с изображением на карте закройте по 2 ячейки в Даунтауне, Тёмной Аллее и на Рынке, а также 2 дня недели в Театре, используя перевёрнутые деревянные диски персонажей."/>
+                <para/>
+                <ITEXT FONT="Minion Pro Bold" CH="Таким образом, в каждом раунде будут доступны разные ячейки персонажей и дни недели. Кроме того, игроки могут планировать наперёд, так как карта следующего раунда всегда известна."/>
+                <para/>
+                <ITEXT CH="связи между трюками"/>
+                <para PARENT="Phase"/>
+                <ITEXT CH="Теперь игроки могут создавать связи с &quot;нейтральными&quot; серыми трюками, напечатанными на картах Представлений."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="138.416036745407" YPOS="4229.38417322835" OwnPage="5" ItemID="1958230079" PTYPE="4" WIDTH="262.057034120735" HEIGHT="43.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.057 0 L262.057 43.5 L0 43.5 L0 0 Z" copath="M0 0 L262.057 0 L262.057 43.5 L0 43.5 L0 0 Z" gXpos="138.416036745407" gYpos="4229.38417322835" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="пример А: размещение персонажей и жетонов трюков в театре"/>
+                <trail PARENT="Chapter"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="422.983595800525" YPOS="4229.38417322835" OwnPage="5" ItemID="1958326799" PTYPE="4" WIDTH="262.057034120735" HEIGHT="43.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.057 0 L262.057 43.5 L0 43.5 L0 0 Z" copath="M0 0 L262.057 0 L262.057 43.5 L0 43.5 L0 0 Z" gXpos="422.983595800525" gYpos="4229.38417322835" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="пример B: фаза представления"/>
+                <trail PARENT="Chapter"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="127.792020997375" YPOS="5065.4511023622" OwnPage="6" ItemID="1959126575" PTYPE="4" WIDTH="102.75" HEIGHT="16.8474803149629" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L102.75 0 L102.75 16.8475 L0 16.8475 L0 0 Z" copath="M0 0 L102.75 0 L102.75 16.8475 L0 16.8475 L0 0 Z" gXpos="127.792020997375" gYpos="5065.4511023622" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="пример а"/>
+                <trail PARENT="Chapter"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="293.225721784777" YPOS="5419.00291338583" OwnPage="6" ItemID="1959139647" PTYPE="4" WIDTH="102.75" HEIGHT="16.8474803149629" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L102.75 0 L102.75 16.8475 L0 16.8475 L0 0 Z" copath="M0 0 L102.75 0 L102.75 16.8475 L0 16.8475 L0 0 Z" gXpos="293.225721784777" gYpos="5419.00291338583" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="пример B"/>
+                <trail PARENT="Chapter"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

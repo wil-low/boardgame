@@ -3,11 +3,11 @@ use warnings;
 
 `rm crops/*.png`;
 
-#crop ('img/tile/actions-FRONT.jpg', 10, 7, 'actf', 0);
-#crop ('img/tile/actions_BACK.jpg', 10, 7, 'actb', 0);
+crop ('img/tile/actions-FRONT.jpg', 10, 7, 'actf', 0);
+crop ('img/tile/actions_BACK.jpg', 10, 7, 'actb', 0);
 #crop ('img/tile/playbills-BACK.jpg', 10, 7, 'playb', 0);
 #crop ('img/tile/playbills-FRONT.jpg', 10, 7, 'playf', 0);
-crop ('img/tile/tricks-FRONT.jpg', 10, 7, 'trf', 2);
+#crop ('img/tile/tricks-FRONT.jpg', 10, 7, 'trf', 2);
 #crop ('img/tile/tricks-BACK.jpg', 10, 7, 'trb', 2);
 #crop ('img/tile/specialside-FRONT.jpg', 10, 7, 'sp1f', 0);
 #crop ('img/tile/specialside2-FRONT.jpg', 10, 7, 'sp2f', 0);

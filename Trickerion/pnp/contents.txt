@@ -1,17 +1,24 @@
+Trickerion_PnP_EN.pdf:
+
  1-16: Playmats in half (4 pages each, double sided)
 17-19: Specialist boards (single-sided), print 2 copies
-20-33: Tricks and magicians (double-sided), Dark Alley assignment cards (4), 3 Special assignment cards
-34-38: Special assignment cards with their backs (p.39)
-40-41: Permanent assignment cards (double-sided), print 4 copies
-42-43: Posters (double-sided)
-44-65: Performance cards (double-sided)
-66-67: Turn setup cards (double-sided)
-68-79: Magician abilities (double-sided)
-80: Trick markers, Basic components, print 2 copies
-81: Symbol markers, Downtown dice, Superior components
-82: Advanced components, 25 shards
-83: Prophecy
-84: Character tokens, 25 shards, 1 Trickerion crystal
-85: Coins
+20-33: Tricks and magicians, 2 Magnus Pantheon Performance cards (double-sided)
+34-53: Performance cards (double-sided)
+54-55: Permanent assignment cards (double-sided), print 4 copies
+56-57: Turn setup cards (double-sided)
+58-69: Magician abilities (double-sided)
+70-71: Posters (double-sided)
+72-74: Special assignment cards with their backs (p.75)
+76: Trick markers, Basic components, print 2 copies
+77: Symbol markers, Downtown dice, Superior components
+78: Advanced components, 25 shards
+79: Prophecy
+80: Character tokens, 25 shards, 1 Trickerion crystal
+81: Coins
 
 
+
+Trickerion_PnP_cards_RU.pdf:
+
+ 1-12: Magician abilities (double-sided)
+13-16: Special assignment cards with their backs (p.75)
