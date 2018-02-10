@@ -1,0 +1,890 @@
+Image	Expansion	Back
+../img_export/Alert/sheet_ALE-00.png	PBH	Alert
+../img_export/Alert/sheet_ALE-01.png	PBH	Alert
+../img_export/Alert/sheet_ALE-02.png	PBH	Alert
+../img_export/Alert/sheet_ALE-03.png	PBH	Alert
+../img_export/Alert/sheet_ALE-04.png	PBH	Alert
+../img_export/Alert/sheet_ALE-05.png	PBH	Alert
+../img_export/Alert/sheet_ALE-06.png	PBH	Alert
+../img_export/Alert/sheet_ALE-07.png	PBH	Alert
+../img_export/Alert/sheet_ALE-08.png	PBH	Alert
+../img_export/Alert/sheet_ALE-09.png	PBH	Alert
+../img_export/Alert/sheet_ALE-10.png	PBH	Alert
+../img_export/Alert/sheet_ALE-11.png	PBH	Alert
+../img_export/Alert/sheet_ALE-12.png	PBH	Alert
+../img_export/Alert/sheet_ALE-13.png	PBH	Alert
+../img_export/Alert/sheet_ALE-14.png	PBH	Alert
+../img_export/Alert/sheet_ALE-15.png	PBH	Alert
+../img_export/Alert/sheet_ALE-16.png	PBH	Alert
+../img_export/Alert/sheet_ALE-17.png	PBH	Alert
+../img_export/Alert/sheet_ALE-18.png	PBH	Alert
+../img_export/Alert/sheet_ALE-19.png	PBH	Alert
+../img_export/AmnonDuul/sheet_cAD-00.png	PBH	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-01.png	PBH	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-02.png	PBH	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-03.png	PBH	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-04.png	PBH	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-05.png	BS	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-06.png	K	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-07.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-08.png	K	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-09.png	BA	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-10.png	BA	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-11.png	BA	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-12.png	BA	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-13.png	BA	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-14.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-15.png	K	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-16.png	K	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-17.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-18.png	BS	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-19.png	K	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-20.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-21.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-22.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-23.png	BS	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-24.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-25.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-26.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-27.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-28.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-29.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-30.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-31.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-32.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-33.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-34.png	BS	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-35.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-36.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-37.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-38.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-39.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-40.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-41.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-42.png		AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-43.png	BS	AmnonDuul
+../img_export/AmnonDuul/sheet_cAD-44.png		AmnonDuul
+../img_export/Badger/sheet_cBa-00.png	BA	Badger
+../img_export/Badger/sheet_cBa-01.png	BA	Badger
+../img_export/Badger/sheet_cBa-02.png	BA	Badger
+../img_export/Badger/sheet_cBa-03.png	K	Badger
+../img_export/Badger/sheet_cBa-04.png	BA	Badger
+../img_export/Badger/sheet_cBa-05.png	BA	Badger
+../img_export/Badger/sheet_cBa-06.png	K	Badger
+../img_export/Badger/sheet_cBa-07.png	K	Badger
+../img_export/Badger/sheet_cBa-08.png	K	Badger
+../img_export/Badger/sheet_cBa-09.png		Badger
+../img_export/Badger/sheet_cBa-10.png		Badger
+../img_export/Badger/sheet_cBa-11.png	K	Badger
+../img_export/Badger/sheet_cBa-12.png		Badger
+../img_export/Badger/sheet_cBa-13.png		Badger
+../img_export/Badger/sheet_cBa-14.png	BS	Badger
+../img_export/Badger/sheet_cBa-15.png		Badger
+../img_export/Badger/sheet_cBa-16.png		Badger
+../img_export/Badger/sheet_cBa-17.png		Badger
+../img_export/Badger/sheet_cBa-18.png	BS	Badger
+../img_export/Badger/sheet_cBa-19.png	BS	Badger
+../img_export/Badger/sheet_cBa-20.png	BS	Badger
+../img_export/Badger/sheet_cBa-21.png		Badger
+../img_export/Badger/sheet_cBa-22.png		Badger
+../img_export/Badger/sheet_cBa-23.png		Badger
+../img_export/Badger/sheet_cBa-24.png		Badger
+../img_export/Badger/sheet_cBa-25.png		Badger
+../img_export/Badger/sheet_cBa-26.png		Badger
+../img_export/Badger/sheet_cBa-27.png		Badger
+../img_export/Badger/sheet_cBa-28.png		Badger
+../img_export/Badger/sheet_cBa-29.png		Badger
+../img_export/Badger/sheet_cBa-30.png		Badger
+../img_export/Badger/sheet_cBa-31.png		Badger
+../img_export/Badger/sheet_cBa-32.png		Badger
+../img_export/Badger/sheet_cBa-33.png		Badger
+../img_export/Badger/sheet_cBa-34.png	BS	Badger
+../img_export/Badger/sheet_cBa-35.png		Badger
+../img_export/Badger/sheet_cBa-36.png		Badger
+../img_export/Badger/sheet_cBa-37.png		Badger
+../img_export/Badger/sheet_cBa-38.png		Badger
+../img_export/Badger/sheet_cBa-39.png		Badger
+../img_export/Badger/sheet_cBa-40.png	PBH	Badger
+../img_export/Badger/sheet_cBa-41.png	PBH	Badger
+../img_export/Badger/sheet_cBa-42.png	PBH	Badger
+../img_export/Badger/sheet_cBa-43.png	PBH	Badger
+../img_export/Badger/sheet_cBa-44.png	PBH	Badger
+../img_export/Beaumonde/sheet_sBM-00.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-01.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-02.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-03.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-04.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-05.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-06.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-07.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-08.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-09.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-10.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-11.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-12.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-13.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-14.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-15.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-16.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-17.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-18.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-19.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-20.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-21.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-22.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-23.png	K	Beaumonde
+../img_export/Beaumonde/sheet_sBM-24.png	K	Beaumonde
+../img_export/FantyMingo/sheet_cFM-00.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-01.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-02.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-03.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-04.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-05.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-06.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-07.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-08.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-09.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-10.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-11.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-12.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-13.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-14.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-15.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-16.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-17.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-18.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-19.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-20.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-21.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-22.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-23.png	K	FantyMingo
+../img_export/FantyMingo/sheet_cFM-24.png	K	FantyMingo
+../img_export/Harken/sheet_cHa-00.png	BA	Harken
+../img_export/Harken/sheet_cHa-01.png	BA	Harken
+../img_export/Harken/sheet_cHa-02.png	BA	Harken
+../img_export/Harken/sheet_cHa-03.png	BA	Harken
+../img_export/Harken/sheet_cHa-04.png	BA	Harken
+../img_export/Harken/sheet_cHa-05.png	K	Harken
+../img_export/Harken/sheet_cHa-06.png	K	Harken
+../img_export/Harken/sheet_cHa-07.png	K	Harken
+../img_export/Harken/sheet_cHa-08.png	K	Harken
+../img_export/Harken/sheet_cHa-09.png	BS	Harken
+../img_export/Harken/sheet_cHa-10.png	K	Harken
+../img_export/Harken/sheet_cHa-11.png		Harken
+../img_export/Harken/sheet_cHa-12.png		Harken
+../img_export/Harken/sheet_cHa-13.png		Harken
+../img_export/Harken/sheet_cHa-14.png		Harken
+../img_export/Harken/sheet_cHa-15.png		Harken
+../img_export/Harken/sheet_cHa-16.png		Harken
+../img_export/Harken/sheet_cHa-17.png		Harken
+../img_export/Harken/sheet_cHa-18.png		Harken
+../img_export/Harken/sheet_cHa-19.png		Harken
+../img_export/Harken/sheet_cHa-20.png		Harken
+../img_export/Harken/sheet_cHa-21.png		Harken
+../img_export/Harken/sheet_cHa-22.png		Harken
+../img_export/Harken/sheet_cHa-23.png		Harken
+../img_export/Harken/sheet_cHa-24.png		Harken
+../img_export/Harken/sheet_cHa-25.png		Harken
+../img_export/Harken/sheet_cHa-26.png		Harken
+../img_export/Harken/sheet_cHa-27.png		Harken
+../img_export/Harken/sheet_cHa-28.png	BS	Harken
+../img_export/Harken/sheet_cHa-29.png		Harken
+../img_export/Harken/sheet_cHa-30.png	BS	Harken
+../img_export/Harken/sheet_cHa-31.png		Harken
+../img_export/Harken/sheet_cHa-32.png	BS	Harken
+../img_export/Harken/sheet_cHa-33.png	BS	Harken
+../img_export/Harken/sheet_cHa-34.png		Harken
+../img_export/Harken/sheet_cHa-35.png		Harken
+../img_export/Harken/sheet_cHa-36.png		Harken
+../img_export/Harken/sheet_cHa-37.png		Harken
+../img_export/Harken/sheet_cHa-38.png		Harken
+../img_export/Harken/sheet_cHa-39.png		Harken
+../img_export/Harken/sheet_cHa-40.png	PBH	Harken
+../img_export/Harken/sheet_cHa-41.png	PBH	Harken
+../img_export/Harken/sheet_cHa-42.png	PBH	Harken
+../img_export/Harken/sheet_cHa-43.png	PBH	Harken
+../img_export/Harken/sheet_cHa-44.png	PBH	Harken
+../img_export/Leader/sheet_LEA-00.png		Leader
+../img_export/Leader/sheet_LEA-01.png	BS	Leader
+../img_export/Leader/sheet_LEA-02.png	BS	Leader
+../img_export/Leader/sheet_LEA-03.png		Leader
+../img_export/Leader/sheet_LEA-04.png		Leader
+../img_export/Leader/sheet_LEA-05.png		Leader
+../img_export/Leader/sheet_LEA-06.png	PBH	Leader
+../img_export/Leader/sheet_LEA-07.png	PBH	Leader
+../img_export/Leader/sheet_LEA-08.png		Leader
+../img_export/Leader/sheet_LEA-09.png		Leader
+../img_export/Leader/sheet_LEA-10.png	K	Leader
+../img_export/Leader/sheet_LEA-11.png		Leader
+../img_export/Leader/sheet_LEA-12.png	S	Leader
+../img_export/LordHarrow/sheet_cLH-00.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-01.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-02.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-03.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-04.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-05.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-06.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-07.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-08.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-09.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-10.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-11.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-12.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-13.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-14.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-15.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-16.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-17.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-18.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-19.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-20.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-21.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-22.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-23.png	BS	LordHarrow
+../img_export/LordHarrow/sheet_cLH-24.png	BS	LordHarrow
+../img_export/MagistrateHiggins/sheet_cMH-00.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-01.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-02.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-03.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-04.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-05.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-06.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-07.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-08.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-09.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-10.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-11.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-12.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-13.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-14.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-15.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-16.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-17.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-18.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-19.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-20.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-21.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-22.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-23.png	K	MagistrateHiggins
+../img_export/MagistrateHiggins/sheet_cMH-24.png	K	MagistrateHiggins
+../img_export/Meridian/sheet_sBe-00.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-01.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-02.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-03.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-04.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-05.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-06.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-07.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-08.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-09.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-10.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-11.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-12.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-13.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-14.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-15.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-16.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-17.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-18.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-19.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-20.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-21.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-22.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-23.png	BS	Meridian
+../img_export/Meridian/sheet_sBe-24.png	BS	Meridian
+../img_export/Misbehave/sheet_mbh-00.png		Misbehave
+../img_export/Misbehave/sheet_mbh-01.png		Misbehave
+../img_export/Misbehave/sheet_mbh-02.png		Misbehave
+../img_export/Misbehave/sheet_mbh-03.png		Misbehave
+../img_export/Misbehave/sheet_mbh-04.png		Misbehave
+../img_export/Misbehave/sheet_mbh-05.png		Misbehave
+../img_export/Misbehave/sheet_mbh-06.png		Misbehave
+../img_export/Misbehave/sheet_mbh-07.png		Misbehave
+../img_export/Misbehave/sheet_mbh-08.png		Misbehave
+../img_export/Misbehave/sheet_mbh-09.png		Misbehave
+../img_export/Misbehave/sheet_mbh-10.png		Misbehave
+../img_export/Misbehave/sheet_mbh-11.png		Misbehave
+../img_export/Misbehave/sheet_mbh-12.png		Misbehave
+../img_export/Misbehave/sheet_mbh-13.png		Misbehave
+../img_export/Misbehave/sheet_mbh-14.png		Misbehave
+../img_export/Misbehave/sheet_mbh-15.png		Misbehave
+../img_export/Misbehave/sheet_mbh-16.png		Misbehave
+../img_export/Misbehave/sheet_mbh-17.png		Misbehave
+../img_export/Misbehave/sheet_mbh-18.png		Misbehave
+../img_export/Misbehave/sheet_mbh-19.png		Misbehave
+../img_export/Misbehave/sheet_mbh-20.png		Misbehave
+../img_export/Misbehave/sheet_mbh-21.png		Misbehave
+../img_export/Misbehave/sheet_mbh-22.png		Misbehave
+../img_export/Misbehave/sheet_mbh-23.png		Misbehave
+../img_export/Misbehave/sheet_mbh-24.png		Misbehave
+../img_export/Misbehave/sheet_mbh-25.png		Misbehave
+../img_export/Misbehave/sheet_mbh-26.png		Misbehave
+../img_export/Misbehave/sheet_mbh-27.png		Misbehave
+../img_export/Misbehave/sheet_mbh-28.png		Misbehave
+../img_export/Misbehave/sheet_mbh-29.png		Misbehave
+../img_export/Misbehave/sheet_mbh-30.png		Misbehave
+../img_export/Misbehave/sheet_mbh-31.png		Misbehave
+../img_export/Misbehave/sheet_mbh-32.png		Misbehave
+../img_export/Misbehave/sheet_mbh-33.png		Misbehave
+../img_export/Misbehave/sheet_mbh-34.png		Misbehave
+../img_export/Misbehave/sheet_mbh-35.png		Misbehave
+../img_export/Misbehave/sheet_mbh-36.png		Misbehave
+../img_export/Misbehave/sheet_mbh-37.png		Misbehave
+../img_export/Misbehave/sheet_mbh-38.png		Misbehave
+../img_export/Misbehave/sheet_mbh-39.png		Misbehave
+../img_export/MrUniverse/sheet_cU1-00.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-01.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-02.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-03.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-04.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-05.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-06.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-07.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-08.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-09.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-10.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-11.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-12.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-13.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-14.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-15.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-16.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-17.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-18.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-19.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-20.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU1-21.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU2-00.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU2-01.png	BS	MrUniverse
+../img_export/MrUniverse/sheet_cU2-02.png	BS	MrUniverse
+../img_export/NavAllianceSpace/sheet_nAS-00.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-01.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-02.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-03.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-04.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-05.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-06.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-07.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-08.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-09.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-10.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-11.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-12.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-13.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-14.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-15.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-16.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-17.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-18.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-19.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-20.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-21.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-22.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-23.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-24.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-25.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-26.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-27.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-28.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-29.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-30.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-31.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-32.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-33.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-34.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-35.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-36.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-37.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-38.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-39.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-40.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-41.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-42.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-43.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-44.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-45.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-46.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-47.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-48.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-49.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-50.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-51.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-52.png	K	NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-53.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-54.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-55.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-56.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-57.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-58.png		NavAllianceSpace
+../img_export/NavAllianceSpace/sheet_nAS-59.png		NavAllianceSpace
+../img_export/NavBorderSpace/sheet_nBS-00.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-01.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-02.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-03.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-04.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-05.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-06.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-07.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-08.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-09.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-10.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-11.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-12.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-13.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-14.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-15.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-16.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-17.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-18.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-19.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-20.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-21.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-22.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-23.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-24.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-25.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-26.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-27.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-28.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-29.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-30.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-31.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-32.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-33.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-34.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-35.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-36.png	BS	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-37.png	BS	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-38.png	BS	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-39.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-40.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-41.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-42.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-43.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-44.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-45.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-46.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-47.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-48.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-49.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-50.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-51.png	K	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-52.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-53.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-54.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-55.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-56.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-57.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-58.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-59.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-60.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-61.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-62.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-63.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-64.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-65.png	BS	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-66.png		NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-67.png	BS	NavBorderSpace
+../img_export/NavBorderSpace/sheet_nBS-68.png	K	NavBorderSpace
+../img_export/Niska/sheet_cN1-00.png	PBH	Niska
+../img_export/Niska/sheet_cN1-01.png		Niska
+../img_export/Niska/sheet_cN1-02.png		Niska
+../img_export/Niska/sheet_cN1-03.png		Niska
+../img_export/Niska/sheet_cN1-04.png	PBH	Niska
+../img_export/Niska/sheet_cN1-05.png		Niska
+../img_export/Niska/sheet_cN1-06.png		Niska
+../img_export/Niska/sheet_cN1-07.png		Niska
+../img_export/Niska/sheet_cN1-08.png		Niska
+../img_export/Niska/sheet_cN1-09.png		Niska
+../img_export/Niska/sheet_cN1-10.png		Niska
+../img_export/Niska/sheet_cN1-11.png		Niska
+../img_export/Niska/sheet_cN1-12.png		Niska
+../img_export/Niska/sheet_cN1-13.png	BS	Niska
+../img_export/Niska/sheet_cN1-14.png	PBH	Niska
+../img_export/Niska/sheet_cN1-15.png		Niska
+../img_export/Niska/sheet_cN1-16.png	PBH	Niska
+../img_export/Niska/sheet_cN1-17.png	BS	Niska
+../img_export/Niska/sheet_cN1-18.png		Niska
+../img_export/Niska/sheet_cN1-19.png		Niska
+../img_export/Niska/sheet_cN1-20.png		Niska
+../img_export/Niska/sheet_cN1-21.png		Niska
+../img_export/Niska/sheet_cN1-22.png		Niska
+../img_export/Niska/sheet_cN1-23.png	BS	Niska
+../img_export/Niska/sheet_cN1-24.png	K	Niska
+../img_export/Niska/sheet_cN1-25.png	K	Niska
+../img_export/Niska/sheet_cN1-26.png	K	Niska
+../img_export/Niska/sheet_cN1-27.png		Niska
+../img_export/Niska/sheet_cN1-28.png	K	Niska
+../img_export/Niska/sheet_cN1-29.png		Niska
+../img_export/Niska/sheet_cN1-30.png		Niska
+../img_export/Niska/sheet_cN1-31.png		Niska
+../img_export/Niska/sheet_cN1-32.png		Niska
+../img_export/Niska/sheet_cN1-33.png		Niska
+../img_export/Niska/sheet_cN1-34.png	BS	Niska
+../img_export/Niska/sheet_cN1-35.png	PBH	Niska
+../img_export/Niska/sheet_cN1-36.png		Niska
+../img_export/Niska/sheet_cN1-37.png	BS	Niska
+../img_export/Niska/sheet_cN1-38.png		Niska
+../img_export/Niska/sheet_cN1-39.png	K	Niska
+../img_export/Niska/sheet_cN2-00.png	BA	Niska
+../img_export/Niska/sheet_cN2-01.png	BA	Niska
+../img_export/Niska/sheet_cN2-02.png	BA	Niska
+../img_export/Niska/sheet_cN2-03.png	BA	Niska
+../img_export/Niska/sheet_cN2-04.png	BA	Niska
+../img_export/Osiris/sheet_sO1-00.png		Osiris
+../img_export/Osiris/sheet_sO1-01.png		Osiris
+../img_export/Osiris/sheet_sO1-02.png		Osiris
+../img_export/Osiris/sheet_sO1-03.png	PBH	Osiris
+../img_export/Osiris/sheet_sO1-04.png		Osiris
+../img_export/Osiris/sheet_sO1-05.png		Osiris
+../img_export/Osiris/sheet_sO1-06.png	PBH	Osiris
+../img_export/Osiris/sheet_sO1-07.png		Osiris
+../img_export/Osiris/sheet_sO1-08.png	PBH	Osiris
+../img_export/Osiris/sheet_sO1-09.png		Osiris
+../img_export/Osiris/sheet_sO1-10.png		Osiris
+../img_export/Osiris/sheet_sO1-11.png		Osiris
+../img_export/Osiris/sheet_sO1-12.png		Osiris
+../img_export/Osiris/sheet_sO1-13.png		Osiris
+../img_export/Osiris/sheet_sO1-14.png		Osiris
+../img_export/Osiris/sheet_sO1-15.png		Osiris
+../img_export/Osiris/sheet_sO1-16.png	PBH	Osiris
+../img_export/Osiris/sheet_sO1-17.png		Osiris
+../img_export/Osiris/sheet_sO1-18.png	K	Osiris
+../img_export/Osiris/sheet_sO1-19.png	K	Osiris
+../img_export/Osiris/sheet_sO1-20.png	K	Osiris
+../img_export/Osiris/sheet_sO1-21.png	K	Osiris
+../img_export/Osiris/sheet_sO1-22.png		Osiris
+../img_export/Osiris/sheet_sO1-23.png	K	Osiris
+../img_export/Osiris/sheet_sO1-24.png	PBH	Osiris
+../img_export/Osiris/sheet_sO1-25.png	PBH	Osiris
+../img_export/Osiris/sheet_sO1-26.png		Osiris
+../img_export/Osiris/sheet_sO1-27.png		Osiris
+../img_export/Osiris/sheet_sO1-28.png		Osiris
+../img_export/Osiris/sheet_sO1-29.png		Osiris
+../img_export/Osiris/sheet_sO1-30.png		Osiris
+../img_export/Osiris/sheet_sO1-31.png		Osiris
+../img_export/Osiris/sheet_sO1-32.png		Osiris
+../img_export/Osiris/sheet_sO1-33.png		Osiris
+../img_export/Osiris/sheet_sO1-34.png		Osiris
+../img_export/Osiris/sheet_sO1-35.png		Osiris
+../img_export/Osiris/sheet_sO2-00.png	BA	Osiris
+../img_export/Osiris/sheet_sO2-01.png	BA	Osiris
+../img_export/Osiris/sheet_sO2-02.png	BA	Osiris
+../img_export/Osiris/sheet_sO2-03.png	BA	Osiris
+../img_export/Osiris/sheet_sO2-04.png	BA	Osiris
+../img_export/Patience/sheet_cPa-00.png	BA	Patience
+../img_export/Patience/sheet_cPa-01.png	BA	Patience
+../img_export/Patience/sheet_cPa-02.png	BA	Patience
+../img_export/Patience/sheet_cPa-03.png	BA	Patience
+../img_export/Patience/sheet_cPa-04.png	BA	Patience
+../img_export/Patience/sheet_cPa-05.png	K	Patience
+../img_export/Patience/sheet_cPa-06.png	K	Patience
+../img_export/Patience/sheet_cPa-07.png	K	Patience
+../img_export/Patience/sheet_cPa-08.png	K	Patience
+../img_export/Patience/sheet_cPa-09.png	K	Patience
+../img_export/Patience/sheet_cPa-10.png		Patience
+../img_export/Patience/sheet_cPa-11.png		Patience
+../img_export/Patience/sheet_cPa-12.png		Patience
+../img_export/Patience/sheet_cPa-13.png		Patience
+../img_export/Patience/sheet_cPa-14.png		Patience
+../img_export/Patience/sheet_cPa-15.png		Patience
+../img_export/Patience/sheet_cPa-16.png		Patience
+../img_export/Patience/sheet_cPa-17.png		Patience
+../img_export/Patience/sheet_cPa-18.png		Patience
+../img_export/Patience/sheet_cPa-19.png		Patience
+../img_export/Patience/sheet_cPa-20.png		Patience
+../img_export/Patience/sheet_cPa-21.png		Patience
+../img_export/Patience/sheet_cPa-22.png		Patience
+../img_export/Patience/sheet_cPa-23.png		Patience
+../img_export/Patience/sheet_cPa-24.png		Patience
+../img_export/Patience/sheet_cPa-25.png		Patience
+../img_export/Patience/sheet_cPa-26.png		Patience
+../img_export/Patience/sheet_cPa-27.png		Patience
+../img_export/Patience/sheet_cPa-28.png		Patience
+../img_export/Patience/sheet_cPa-29.png		Patience
+../img_export/Patience/sheet_cPa-30.png		Patience
+../img_export/Patience/sheet_cPa-31.png		Patience
+../img_export/Patience/sheet_cPa-32.png	BS	Patience
+../img_export/Patience/sheet_cPa-33.png		Patience
+../img_export/Patience/sheet_cPa-34.png		Patience
+../img_export/Patience/sheet_cPa-35.png	BS	Patience
+../img_export/Patience/sheet_cPa-36.png	BS	Patience
+../img_export/Patience/sheet_cPa-37.png		Patience
+../img_export/Patience/sheet_cPa-38.png	BS	Patience
+../img_export/Patience/sheet_cPa-39.png	BS	Patience
+../img_export/Patience/sheet_cPa-40.png	PBH	Patience
+../img_export/Patience/sheet_cPa-41.png	PBH	Patience
+../img_export/Patience/sheet_cPa-42.png	PBH	Patience
+../img_export/Patience/sheet_cPa-43.png	PBH	Patience
+../img_export/Patience/sheet_cPa-44.png	PBH	Patience
+../img_export/Persephone/sheet_sP1-00.png		Persephone
+../img_export/Persephone/sheet_sP1-01.png		Persephone
+../img_export/Persephone/sheet_sP1-02.png		Persephone
+../img_export/Persephone/sheet_sP1-03.png		Persephone
+../img_export/Persephone/sheet_sP1-04.png		Persephone
+../img_export/Persephone/sheet_sP1-05.png		Persephone
+../img_export/Persephone/sheet_sP1-06.png	PBH	Persephone
+../img_export/Persephone/sheet_sP1-07.png	PBH	Persephone
+../img_export/Persephone/sheet_sP1-08.png	PBH	Persephone
+../img_export/Persephone/sheet_sP1-09.png		Persephone
+../img_export/Persephone/sheet_sP1-10.png		Persephone
+../img_export/Persephone/sheet_sP1-11.png	PBH	Persephone
+../img_export/Persephone/sheet_sP1-12.png		Persephone
+../img_export/Persephone/sheet_sP1-13.png		Persephone
+../img_export/Persephone/sheet_sP1-14.png		Persephone
+../img_export/Persephone/sheet_sP1-15.png		Persephone
+../img_export/Persephone/sheet_sP1-16.png		Persephone
+../img_export/Persephone/sheet_sP1-17.png		Persephone
+../img_export/Persephone/sheet_sP1-18.png		Persephone
+../img_export/Persephone/sheet_sP1-19.png		Persephone
+../img_export/Persephone/sheet_sP1-20.png	PBH	Persephone
+../img_export/Persephone/sheet_sP1-21.png		Persephone
+../img_export/Persephone/sheet_sP1-22.png		Persephone
+../img_export/Persephone/sheet_sP1-23.png	PBH	Persephone
+../img_export/Persephone/sheet_sP1-24.png		Persephone
+../img_export/Persephone/sheet_sP1-25.png		Persephone
+../img_export/Persephone/sheet_sP1-26.png		Persephone
+../img_export/Persephone/sheet_sP1-27.png		Persephone
+../img_export/Persephone/sheet_sP1-28.png		Persephone
+../img_export/Persephone/sheet_sP1-29.png		Persephone
+../img_export/Persephone/sheet_sP1-30.png	S	Persephone
+../img_export/Persephone/sheet_sP1-31.png	S	Persephone
+../img_export/Persephone/sheet_sP1-32.png	S	Persephone
+../img_export/Persephone/sheet_sP1-33.png	K	Persephone
+../img_export/Persephone/sheet_sP1-34.png	K	Persephone
+../img_export/Persephone/sheet_sP1-35.png	K	Persephone
+../img_export/Persephone/sheet_sP1-36.png	K	Persephone
+../img_export/Persephone/sheet_sP1-37.png		Persephone
+../img_export/Persephone/sheet_sP1-38.png	K	Persephone
+../img_export/Persephone/sheet_sP2-00.png	BA	Persephone
+../img_export/Persephone/sheet_sP2-01.png	BA	Persephone
+../img_export/Persephone/sheet_sP2-02.png	BA	Persephone
+../img_export/Persephone/sheet_sP2-03.png	BA	Persephone
+../img_export/Persephone/sheet_sP2-04.png	BA	Persephone
+../img_export/Regina/sheet_sR1-00.png	K	Regina
+../img_export/Regina/sheet_sR1-01.png		Regina
+../img_export/Regina/sheet_sR1-02.png	K	Regina
+../img_export/Regina/sheet_sR1-03.png	K	Regina
+../img_export/Regina/sheet_sR1-04.png	K	Regina
+../img_export/Regina/sheet_sR1-05.png	K	Regina
+../img_export/Regina/sheet_sR1-06.png	PBH	Regina
+../img_export/Regina/sheet_sR1-07.png		Regina
+../img_export/Regina/sheet_sR1-08.png		Regina
+../img_export/Regina/sheet_sR1-09.png		Regina
+../img_export/Regina/sheet_sR1-10.png		Regina
+../img_export/Regina/sheet_sR1-11.png		Regina
+../img_export/Regina/sheet_sR1-12.png		Regina
+../img_export/Regina/sheet_sR1-13.png		Regina
+../img_export/Regina/sheet_sR1-14.png		Regina
+../img_export/Regina/sheet_sR1-15.png	PBH	Regina
+../img_export/Regina/sheet_sR1-16.png		Regina
+../img_export/Regina/sheet_sR1-17.png		Regina
+../img_export/Regina/sheet_sR1-18.png		Regina
+../img_export/Regina/sheet_sR1-19.png	PBH	Regina
+../img_export/Regina/sheet_sR1-20.png		Regina
+../img_export/Regina/sheet_sR1-21.png		Regina
+../img_export/Regina/sheet_sR1-22.png		Regina
+../img_export/Regina/sheet_sR1-23.png		Regina
+../img_export/Regina/sheet_sR1-24.png		Regina
+../img_export/Regina/sheet_sR1-25.png		Regina
+../img_export/Regina/sheet_sR1-26.png		Regina
+../img_export/Regina/sheet_sR1-27.png		Regina
+../img_export/Regina/sheet_sR1-28.png	PBH	Regina
+../img_export/Regina/sheet_sR1-29.png		Regina
+../img_export/Regina/sheet_sR1-30.png		Regina
+../img_export/Regina/sheet_sR1-31.png		Regina
+../img_export/Regina/sheet_sR1-32.png	PBH	Regina
+../img_export/Regina/sheet_sR1-33.png		Regina
+../img_export/Regina/sheet_sR1-34.png		Regina
+../img_export/Regina/sheet_sR1-35.png	PBH	Regina
+../img_export/Regina/sheet_sR2-00.png	BA	Regina
+../img_export/Regina/sheet_sR2-01.png	BA	Regina
+../img_export/Regina/sheet_sR2-02.png	BA	Regina
+../img_export/Regina/sheet_sR2-03.png	BA	Regina
+../img_export/Regina/sheet_sR2-04.png	BA	Regina
+../img_export/NavBorderKalimasa/sheet_nBK-00.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-01.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-02.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-03.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-04.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-05.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-06.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-07.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-08.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-09.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-10.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-11.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-12.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-13.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-14.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-15.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-16.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-17.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-18.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-19.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-20.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-21.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-22.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-23.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-24.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-25.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-26.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-27.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-28.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-29.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-30.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-31.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-32.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-33.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-34.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-35.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-36.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-37.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-38.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-39.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-40.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-41.png	BS	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-42.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-43.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-44.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-45.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-46.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-47.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-48.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-49.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-50.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-51.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-52.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-53.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-54.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-55.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-56.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-57.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-58.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-59.png	K	RimSpace
+../img_export/NavBorderKalimasa/sheet_nBK-60.png	BS	RimSpace
+../img_export/ArtfulDodger/sheet_sAD-00.png	S	Setup
+../img_export/DriveCore/sheet_DC1-00.png	S	Setup
+../img_export/DriveCore/sheet_DC1-01.png	S	Setup
+../img_export/DriveCore/sheet_DC1-02.png	S	Setup
+../img_export/DriveCore/sheet_DC1-03.png		Setup
+../img_export/DriveCore/sheet_DC1-04.png		Setup
+../img_export/DriveCore/sheet_DC1-05.png		Setup
+../img_export/DriveCore/sheet_DC1-06.png	PBH	Setup
+../img_export/DriveCore/sheet_DC1-07.png	PBH	Setup
+../img_export/DriveCore/sheet_DC1-08.png		Setup
+../img_export/DriveCore/sheet_DC2-00.png	S	Setup
+../img_export/DriveCore/sheet_DC2-01.png	S	Setup
+../img_export/DriveCore/sheet_DC2-02.png	S	Setup
+../img_export/Setup/sheet_SET-00.png		Setup
+../img_export/Setup/sheet_SET-01.png	K	Setup
+../img_export/Setup/sheet_SET-02.png	K	Setup
+../img_export/Setup/sheet_SET-03.png	S	Setup
+../img_export/Setup/sheet_SET-04.png	S	Setup
+../img_export/Setup/sheet_SET-05.png	BS	Setup
+../img_export/Story/sheet_STO-00.png	PBH	Setup
+../img_export/Story/sheet_STO-01.png		Setup
+../img_export/Story/sheet_STO-02.png		Setup
+../img_export/Story/sheet_STO-03.png	S	Setup
+../img_export/Story/sheet_STO-04.png	S	Setup
+../img_export/Story/sheet_STO-05.png	K	Setup
+../img_export/Story/sheet_STO-06.png	K	Setup
+../img_export/Story/sheet_STO-07.png	BS	Setup
+../img_export/Story/sheet_STO-08.png	K	Setup
+../img_export/Story/sheet_STO-09.png		Setup
+../img_export/Story/sheet_STO-10.png		Setup
+../img_export/Story/sheet_STO-11.png		Setup
+../img_export/Story/sheet_STO-12.png		Setup
+../img_export/Story/sheet_STO-13.png	BS	Setup
+../img_export/Story/sheet_STO-14.png	BS	Setup
+../img_export/Story/sheet_STO-15.png	PBH	Setup
+../img_export/Story/sheet_STO-16.png	PBH	Setup
+../img_export/Silverhold/sheet_sH1-00.png		Silverhold
+../img_export/Silverhold/sheet_sH1-01.png		Silverhold
+../img_export/Silverhold/sheet_sH1-02.png		Silverhold
+../img_export/Silverhold/sheet_sH1-03.png		Silverhold
+../img_export/Silverhold/sheet_sH1-04.png		Silverhold
+../img_export/Silverhold/sheet_sH1-05.png	PBH	Silverhold
+../img_export/Silverhold/sheet_sH1-06.png		Silverhold
+../img_export/Silverhold/sheet_sH1-07.png		Silverhold
+../img_export/Silverhold/sheet_sH1-08.png		Silverhold
+../img_export/Silverhold/sheet_sH1-09.png	K	Silverhold
+../img_export/Silverhold/sheet_sH1-10.png	K	Silverhold
+../img_export/Silverhold/sheet_sH1-11.png	K	Silverhold
+../img_export/Silverhold/sheet_sH1-12.png		Silverhold
+../img_export/Silverhold/sheet_sH1-13.png	K	Silverhold
+../img_export/Silverhold/sheet_sH1-14.png	K	Silverhold
+../img_export/Silverhold/sheet_sH1-15.png		Silverhold
+../img_export/Silverhold/sheet_sH1-16.png	PBH	Silverhold
+../img_export/Silverhold/sheet_sH1-17.png		Silverhold
+../img_export/Silverhold/sheet_sH1-18.png		Silverhold
+../img_export/Silverhold/sheet_sH1-19.png		Silverhold
+../img_export/Silverhold/sheet_sH1-20.png		Silverhold
+../img_export/Silverhold/sheet_sH1-21.png		Silverhold
+../img_export/Silverhold/sheet_sH1-22.png	PBH	Silverhold
+../img_export/Silverhold/sheet_sH1-23.png	PBH	Silverhold
+../img_export/Silverhold/sheet_sH1-24.png		Silverhold
+../img_export/Silverhold/sheet_sH1-25.png	PBH	Silverhold
+../img_export/Silverhold/sheet_sH1-26.png	PBH	Silverhold
+../img_export/Silverhold/sheet_sH1-27.png		Silverhold
+../img_export/Silverhold/sheet_sH1-28.png		Silverhold
+../img_export/Silverhold/sheet_sH1-29.png		Silverhold
+../img_export/Silverhold/sheet_sH1-30.png		Silverhold
+../img_export/Silverhold/sheet_sH1-31.png		Silverhold
+../img_export/Silverhold/sheet_sH1-32.png		Silverhold
+../img_export/Silverhold/sheet_sH1-33.png		Silverhold
+../img_export/Silverhold/sheet_sH1-34.png		Silverhold
+../img_export/Silverhold/sheet_sH1-35.png		Silverhold
+../img_export/Silverhold/sheet_sH2-00.png	BA	Silverhold
+../img_export/Silverhold/sheet_sH2-01.png	BA	Silverhold
+../img_export/Silverhold/sheet_sH2-02.png	BA	Silverhold
+../img_export/Silverhold/sheet_sH2-03.png	BA	Silverhold
+../img_export/Silverhold/sheet_sH2-04.png	BA	Silverhold
+../img_export/SpaceBazaar/sheet_sS1-00.png	K	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-01.png	S	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-02.png	S	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-03.png	K	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-04.png	K	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-05.png	K	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-06.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-07.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-08.png	K	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-09.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-10.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-11.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-12.png	PBH	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-13.png	PBH	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-14.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-15.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-16.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-17.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-18.png	PBH	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-19.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-20.png	PBH	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-21.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-22.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-23.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-24.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-25.png	PBH	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-26.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-27.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-28.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-29.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-30.png	PBH	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-31.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-32.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-33.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-34.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-35.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-36.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS1-37.png		SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS2-00.png	BA	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS2-01.png	BA	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS2-02.png	BA	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS2-03.png	BA	SpaceBazaar
+../img_export/SpaceBazaar/sheet_sS2-04.png	BA	SpaceBazaar
+../img_export/ActionAid/sheet_aid-00.png		
+../img_export/ActionAid/sheet_aid-00.png		
+../img_export/ActionAid/sheet_aid-00.png		
+../img_export/ActionAid/sheet_aid-00.png		
+../img_export/ActionAid/sheet_aid-00.png		
