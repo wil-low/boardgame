@@ -2,11 +2,11 @@
 
 # Extract assets from a Tabletopia game
 
-# Original idea: hickname
+# Original idea and C# implementation: hickname
 # Perl implementation: wil_low
 # Packages required: libjson-perl, graphicsmagick 
 
-# Usage: perl tabletopia_cutter.pl src_dir tgt_dir
+# Usage: perl tabletopia_cutter.pl SOURCE_DIR TARGET_DIR
 
 use strict;
 use warnings;
@@ -15,13 +15,13 @@ use JSON;
 
 my ($src_dir, $tgt_dir) = @ARGV;
 
-die "perl tabletopia_cutter.pl src_dir tgt_dir" unless defined $ARGV[1];
+die "Usage: perl tabletopia_cutter.pl SOURCE_DIR TARGET_DIR" unless defined $ARGV[1];
 
 mkdir($tgt_dir);
 
 my @files = glob("$src_dir/*");
 
-my $manifest;
+my $manifest = '';
 
 for my $file (@files) {
 	if ($file =~ /g\d{6}_s\d{5}\.sprite(\d+)/) {
@@ -111,7 +111,7 @@ for my $obj (@$hash) {
 		my $cmd = "gm convert $tgt_dir/$fname -crop $w" . 'x' . "$h+$x+$y $tgt_dir/$paths[$type]/$obj->{elementId}_front.png";
 		print ("type $type: $cmd\n");
 		`$cmd`;
-		# save back side if it exists
+		# save back side if exists
 		if ($type != 4) {
 			$rect = $obj->{atlases}->[0]->{sprites}->[1];
 			if (defined ($rect)) {
@@ -141,6 +141,7 @@ for my $obj (@$hash) {
 	}
 }
 close (ELEM);
+
 for (@paths) {
 	rmdir ("$tgt_dir/$_");
 }
