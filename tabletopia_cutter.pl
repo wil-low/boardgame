@@ -93,7 +93,7 @@ for my $obj (@$hash) {
 		$w = $rect->{width};
 		$x = $rect->{x};
 		$y = $rect->{y};
-		my $cmd = "gm convert $tgt_dir/$fname -crop $w" . 'x' . "$h+$x+$y $tgt_dir/$paths[$type]/$obj->{elementId}_token.png";
+		my $cmd = "gm convert $tgt_dir/$fname -crop $w" . 'x' . "$h+$x+$y +repage $tgt_dir/$paths[$type]/$obj->{elementId}_token.png";
 		print ("type $type: $cmd\n");
 		`$cmd`;
 		# standee
@@ -102,7 +102,7 @@ for my $obj (@$hash) {
 		$w = $rect->{width};
 		$x = $rect->{x};
 		$y = $rect->{y};
-		$cmd = "gm convert $tgt_dir/$fname -crop $w" . 'x' . "$h+$x+$y $tgt_dir/$paths[$type]/$obj->{elementId}_stand.png";
+		$cmd = "gm convert $tgt_dir/$fname -crop $w" . 'x' . "$h+$x+$y +repage $tgt_dir/$paths[$type]/$obj->{elementId}_stand.png";
 		print ("type $type: $cmd\n");
 		`$cmd`;
 	}
@@ -116,7 +116,7 @@ for my $obj (@$hash) {
 		$x = $rect->{x};
 		$y = $rect->{y};
 		# save front side
-		my $cmd = "gm convert $tgt_dir/$fname -crop $w" . 'x' . "$h+$x+$y $tgt_dir/$paths[$type]/$obj->{elementId}_front.png";
+		my $cmd = "gm convert $tgt_dir/$fname -crop $w" . 'x' . "$h+$x+$y +repage $tgt_dir/$paths[$type]/$obj->{elementId}_front.png";
 		print ("type $type: $cmd\n");
 		`$cmd`;
 		# save back side if exists
@@ -127,7 +127,7 @@ for my $obj (@$hash) {
 				$w = $rect->{width};
 				$x = $rect->{x};
 				$y = $rect->{y};
-				my $cmd = "gm convert $tgt_dir/$fname -crop $w" . 'x' . "$h+$x+$y $tgt_dir/$paths[$type]/$obj->{elementId}_back.png";
+				my $cmd = "gm convert $tgt_dir/$fname -crop $w" . 'x' . "$h+$x+$y +repage $tgt_dir/$paths[$type]/$obj->{elementId}_back.png";
 				print ("type $type: $cmd\n");
 				`$cmd`;
 			}
