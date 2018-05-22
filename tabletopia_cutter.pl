@@ -6,20 +6,36 @@
 # Perl implementation: wil_low
 # Packages required: libjson-perl, graphicsmagick 
 
-# Usage: perl tabletopia_cutter.pl SOURCE_DIR TARGET_DIR
+# Usage: perl tabletopia_cutter.pl SOURCE_DIR [TARGET_DIR]
 
 use strict;
 use warnings;
 use JSON;
-#use Data::Dumper;
+use Data::Dumper;
 
 my ($src_dir, $tgt_dir) = @ARGV;
 
-die "Usage: perl tabletopia_cutter.pl SOURCE_DIR TARGET_DIR" unless defined $ARGV[1];
-
-mkdir($tgt_dir);
+die "Usage: perl tabletopia_cutter.pl SOURCE_DIR [TARGET_DIR]" if !defined $src_dir;
 
 my @files = glob("$src_dir/*");
+
+if (!defined ($tgt_dir)) {
+	# print manifest contents and exit
+	for my $file (@files) {
+		if ($file =~ /manifest_bundled/) {
+			my $hash = convert_manifest($file);
+			print Dumper($hash);
+			exit;
+		}
+	}
+	die "Manifest not found";
+}
+
+mkdir ($tgt_dir);
+my @paths = qw(other cards tiles tokens counters boards gamepieces standees other2);
+for (@paths) {
+	mkdir ("$tgt_dir/$_");
+}
 
 my $manifest = '';
 
@@ -27,6 +43,11 @@ for my $file (@files) {
 	if ($file =~ /g\d{6}_s\d{5}\.sprite(\d+)/) {
 		my $new_file = "Image_$1_Atlas.jpg";
 		`cp $file $tgt_dir/$new_file`;
+	}
+	elsif ($file =~ /\.(obj|png)$/) {
+		my $new_file = $file;
+		$new_file =~ s/.+\///;
+		`cp '$file' '$tgt_dir/other2/$new_file'`;
 	}
 	elsif ($file =~ /manifest_bundled/) {
 		$manifest = "$tgt_dir/manifest_bundled.txt";
@@ -36,20 +57,7 @@ for my $file (@files) {
 
 die "Manifest not found" unless $manifest;
 
-my @paths = qw(other cards tiles tokens counters boards gamepieces standees);
-for (@paths) {
-	mkdir ("$tgt_dir/$_");
-}
-
-open (IN, "<$manifest") or die "$!: $manifest";
-my @data = <IN>;
-close (IN);
-
-my $json = JSON->new->allow_nonref;
-
-my $hash = $json->decode(join('', @data));
-#print Dumper($hash);
-#exit;
+my $hash = convert_manifest($manifest);
 
 my $fname = "$tgt_dir/other/elements.txt";
 open (ELEM, ">$fname") or die "$!: $fname";
@@ -129,19 +137,31 @@ for my $obj (@$hash) {
 	if ($type > 2) {
 		print (ELEM "$obj->{elementId} - $obj->{elementName}\n");
 	}
+
 	if ($obj->{elementType} eq "RandomElement") {
 		my $m = $obj->{randomElementInfo}->{groupName};
 		$m =~ s/[\\\ \"\/:*?<>\|]/_/g;
 		$fname = "$tgt_dir/other/$obj->{elementId}_$m.txt";
 		open (OUT, ">$fname") or die "$!: $fname";
 		for ($obj->{randomElementInfo}->{elementIds}) {
-			print (OUT "$_\n");
+			print (OUT Dumper($_));
 		}
 		close (OUT);
 	}
 }
 close (ELEM);
 
+`rm $tgt_dir/Image*Atlas.jpg $tgt_dir/manifest_bundled.txt`;
 for (@paths) {
 	rmdir ("$tgt_dir/$_");
+}
+
+sub convert_manifest {
+	my $manifest = shift();
+	open (IN, "<$manifest") or die "$!: $manifest";
+	my @data = <IN>;
+	close (IN);
+
+	my $json = JSON->new->allow_nonref;
+	return $json->decode(join('', @data));
 }
