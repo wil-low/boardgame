@@ -155,6 +155,7 @@ close (ELEM);
 for (@paths) {
 	rmdir ("$tgt_dir/$_");
 }
+`zip -r $tgt_dir.zip $tgt_dir`;
 
 sub convert_manifest {
 	my $manifest = shift();
