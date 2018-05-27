@@ -1,0 +1,269 @@
+Characters
+Mal
+1 x My Kind of Party
+3 x Timely Interruption
+5 x Captain Reynolds
+5 x Don’t Have Time for This
+Zoe
+1 x Shotgun Blast
+3 x Big Damn Heroes
+5 x Warrior Woman
+5 x If It Moves, Shoot It
+Jayne
+1 x Vera
+3 x Public Relations
+5 x Pain is Scary
+5 x She Belongs in a Bughouse
+Book
+1 x That’s No Shepherd
+3 x Too Much Hair
+5 x Shepherd and Flock
+5 x Last Rites
+Kaylee
+1 x Look at the Pretties!
+3 x Unstoppably Cheerful
+5 x Machines Talk to Me
+5 x Space Monkeys
+Wash
+1 x Curse Your Sudden But Inevitable Betrayal
+3 x Crazy Ivan
+5 x Full Burn
+5 x Sensor Scan
+Inara
+1 x Playing You From the Start
+3 x The Ambassador
+5 x Sharing a Kiss
+5 x Client Selection
+Simon
+1 x A Moneyed Individual
+3 x Mei-Mei, It’s Time to Wake Up
+5 x Medical Emergency
+5 x Safe on My Table
+River
+1 x I Can Kill You with My Brain
+3 x Looks Better in Red
+5 x No Power in the ‘Verse Can Stop Me
+5 x Mind Read
+
+Avatars (All Singles) +
+Mal
+Zoe
+Jayne
+Book
+Kaylee
+Wash
+Inara
+Simon
+River
+
+Browncoats
+5 x Browncoat
+
+Episodes (All Singles)
+Serenity (Part 1) – Episode 1 (Part 1) +
+Serenity (Part 2) – Episode 1 (Part 2)
+The Train Job – Episode 2
+Bushwhacked – Episode 3
+Shindig – Episode 4
+Safe – Episode 5
+Our Mrs. Reynolds – Episode 6
+Jaynestown – Episode 7
+Out of Gas – Episode 8
+Ariel – Episode 9
+War Stories – Episode 10
+Trash – Episode 11
+The Message – Episode 12
+Heart of Gold – Episode 13
+Objects in Space – Episode 14
+
+Episode Decks
+Serenity (Part 1)
+3 x Alliance Gunship (Enemy)
+1 x I.A.V. Dortmunder (Enemy)
+1 x Crybaby (Character)
+2 x Sensor Sweep (Event)
+3 x Salvage (Goal)
+Serenity (Part 2)
+4 x Patience’s Bandit (Enemy)
+2 x Patience’s Sniper (Enemy)
+1 x Patience (Enemy)
+1 x Dobson (Enemy)
+1 x Reaver Hunting Ship (Enemy)
+2 x Tensions Rising (Event)
+The Train Job
+4 x Niska’s Thug (Enemy)
+3 x Alliance Train Guard (Enemy)
+1 x Crow (Enemy)
+2 x Dealing with Niska (Event)
+1 x Skyhook (Goal)
+1 x Medical Supplies (Goal)
+Bushwhacked
+3 x Alliance Soldier
+1 x Alliance Patrol
+1 x Commander Harken (Enemy)
+1 x The Survivor (Enemy)
+1 x Booby Trap (Ship Strike)
+2 x Interrogations (Event)
+1 x Hang Out (Event)
+Shindig
+4 x Badger’s Gang (Enemy)
+1 x Badger (Enemy)
+1 x Atherton Wing (Enemy)
+1 x Buffet Table (Event)
+3 x Dance (Event)
+1 x Warwick Harrow (Goal)
+Safe
+3 x Hill People (Enemy)
+2 x Grange Brother (Enemy)
+1 x I.A.V. Magellan (Enemy)
+1 x Doralee (Enemy)
+1 x The Patron (Enemy)
+1 x Burn at the Stake (Event)
+3 x Cattle (Goal)
+Our Mrs. Reynolds
+2 x Scrapper (Enemy)
+2 x Triumph Bandit (Enemy)
+1 x Welded Door (Enemy)
+1 x Scrap Ship (Enemy)
+1 x Saffron (Enemy)
+2 x Controls Jammed (Ship Strike)
+1 x Good Night Kiss (Event)
+Jaynestown
+4 x Mud Crew (Enemy)
+1 x The Foreman (Enemy)
+1 x Stitch Hessian (Enemy)
+1 x Magistrate Higgins (Enemy)
+1 x Landlock (Ship Strike)
+1 x Fess (Character)
+1 x The Hero of Canton (Event)
+1 x Kessler’s Goods (Goal)
+Out of Gas
+4 x Scavengers (Enemy)
+1 x S. S. Walden (Enemy)
+1 x Sash (Enemy)
+1 x Open Cargo Door (Character)
+1 x Losing Heat and Oxygen (Special)
+3 x Fireball (Goal)
+1 x Distress Beacon (Goal)
+Ariel
+3 x Ariel Marshal
+1 x Hands of Blue (Enemy)
+1 x Two by Two (Enemy)
+1 x Alliance Shuttle
+1 x Agent McGuinness (Enemy)
+1 x Betrayal (Event)
+1 x The Pills (Goal)
+1 x Neural Imager (Goal)
+War Stories
+3 x Niska’s Ambusher (Enemy)
+3 x Niska’s Boarding Team (Enemy)
+1 x Niska (Enemy)
+1 x The Mule (Character)
+3 x Niska’s Revenge (Event)
+Trash
+4 x Haymer’s Marshal
+1 x Automated Pickup Vehicle (Enemy)
+1 x Yolanda (Enemy)
+1 x Durran Haymer (Enemy)
+1 x Sabotage Grav-Dampener (Ship Strike)
+2 x Double –Cross (Event)
+1 x The Lassiter (Goal)
+1 x Trash Unit Goal)
+The Message
+3 x Explosive Charges (Enemy)
+2 x Womack’s Soldiers (Enemy)
+1 x Womack’s Ship (Enemy)
+1 x Lt. Womack (Enemy)
+1 x Tracey (Enemy)
+1 x Jayne’s Hat (Character)
+1 x The Canyon (Goal)
+Heart of Gold
+3 x Rance’s Gunmen (Enemy)
+2 x Rance’s Ambushers (Enemy)
+1 x Hovercraft (Enemy)
+1 x Rance Burgess (Enemy)
+2 x Fortifications (Special)
+1 x Chari (Special)
+1 x Nandi (Special)
+Objects in Space
+2 x Does That Seem Right? (Enemy)
+2 x You Ever Been Shot? (Enemy)
+2 x I’m on the Clock Here (Enemy)
+2 x Best Go Home With Old Early (Enemy)
+1 x Jubal Early (Enemy)
+1 x Cabin Controls Locked (Ship Strike)
+1 x Space Suit (Goal)
+1 x Early’s Ship (Goal)
+
+Starting Cards
+35 x Shiny
+25 x Misbehave
+
+Other Cards
+20 x Flaw
+15 x Talent
+
+Side Jobs (All Singles)
+Bring Medicine to Sick Colony
+Help Deliver a Baby
+Juggle Geese
+Keep Jayne in Line
+Pickpocket a Slave Trader
+Play Tall Card
+Pool Hall R & R
+Save a Dying Patient
+Shoot Hoops
+Smuggle Wobble-Headed Geisha Dolls
+Take on Passengers
+Unification Day Brawl
+
+Serenity Upgrades (All Singles)
+Advanced Intercom System 
+Armory
+Bigger Passenger Dorm
+Emergency Booster
+Enhanced Sensors
+Fire Suppression System
+Internal Engine Stabilizer
+Luxury Cabin
+Reinforced Hull
+Remodeled Infirmary
+
+Strikes
+9 x Clobbered
+9 x Stabbed
+6 x Walloped
+1 x Shot
+3 x Dodge
+3 x Terrified
+2 x Caught in the Crossfire
+2 x Explosion
+2 x Electrocuted
+3 x Treatable Wound
+
+Ship Strikes (All Singles)
+Atmo Feed Malfunction
+Blown Engine
+Breach
+Broken Stabilizer
+Burning Up
+Busted Gravity Drive
+Drifting
+Electromagnetic Interference
+Heart Trouble
+Heavy Debris
+Ion Strom
+Hole in the Hull
+Jammed Core
+Life Support Failure
+Limping
+Minor Debris
+Monitor’s on the Fritz
+Nav/Com Down
+Power Drain
+Smoking Hot
+
+Inevitable Cards (All Singles)
+Alliance Interceptor
+Bounty Hunter
+Hungry Reavers
