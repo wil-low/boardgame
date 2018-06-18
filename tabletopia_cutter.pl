@@ -4,7 +4,7 @@
 
 # Original idea and C# implementation: hickname
 # Perl implementation: wil_low
-# Packages required: libjson-perl, graphicsmagick 
+# Packages required: libjson-perl, graphicsmagick, p7zip
 
 # Usage: perl tabletopia_cutter.pl SOURCE_DIR [TARGET_DIR]
 
@@ -40,7 +40,7 @@ for (@paths) {
 my $manifest = '';
 
 for my $file (@files) {
-	if ($file =~ /g\d{6}_s\d{5}\.sprite(\d+)/) {
+	if ($file =~ /g\d+_s\d+\.sprite(\d+)/) {
 		my $new_file = "Image_$1_Atlas.jpg";
 		`cp $file $tgt_dir/$new_file`;
 	}
@@ -155,7 +155,7 @@ close (ELEM);
 for (@paths) {
 	rmdir ("$tgt_dir/$_");
 }
-`zip -r $tgt_dir.zip $tgt_dir`;
+`7z a $tgt_dir.7z $tgt_dir`;
 
 sub convert_manifest {
 	my $manifest = shift();
